@@ -1,0 +1,8 @@
+	Name: Unity of the Advent
+	Description: <<
+		An Advent shipset ported from Space Empires 5. All graphics originally ported from Ironclad Games' Sins of a Solar Empire by Prometeu from spaceempires.net. (Prometeu's shipset pack has since been taken down by its author, as he announced the day he uploaded it.)
+
+		Does not have any default designs of its own; the game loads new designs from other shipsets. I would have included a few, but they would be incompatible with the Hex Limit Reverter, so... sorry. I'll upload to the Community instead.
+
+		Has customized hex limits for most of its hulls. Compatible with the Hex Limit Reverter.
+	>>

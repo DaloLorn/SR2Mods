@@ -1,0 +1,168 @@
+Subsystem: AdventRadiance
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -8
+	FlagshipHexes := 0
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventEradica
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -8
+	FlagshipHexes := -36
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventProgenitor
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -30
+	FlagshipHexes := -80
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventHalcyon
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -16
+	FlagshipHexes := -30
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventRapture
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 15
+	FlagshipHexes := 30
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventSeeker
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -8
+	FlagshipHexes := -13
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventDisciple
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -18
+	FlagshipHexes := -35
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventDefense
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -20
+	FlagshipHexes := -8
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventDestra
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -10
+	FlagshipHexes := -5
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventDomina
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -14
+	FlagshipHexes := -30
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventFreighter
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := -10
+	FlagshipHexes := 2
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventIlluminator
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 10
+	FlagshipHexes := 30
+	StationHexes := 0
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+
+Subsystem: AdventTranscencia
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -200
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 20
+
+	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
+	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
+	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)

@@ -1,0 +1,31 @@
+Shipset: Advent
+	Name: Advent
+	Available: Yes
+
+	Hull: AdventRadiance
+	Hull: AdventDefense
+	Hull: AdventDestra
+	Hull: AdventDisciple
+	Hull: AdventDomina
+	Hull: AdventEradica
+	Hull: AdventFreighter
+	Hull: AdventHalcyon
+	Hull: AdventIlluminator
+	Hull: AdventProgenitor
+	Hull: AdventRapture
+	Hull: AdventSeeker
+
+	Hull: AdventTranscencia
+
+	Hull: SAdventDisciple
+	Hull: SAdventRadiance
+	Hull: SAdventDefense
+	Hull: SAdventDestra
+	Hull: SAdventDomina
+	Hull: SAdventEradica
+	Hull: SAdventFreighter
+	Hull: SAdventHalcyon
+	Hull: SAdventIlluminator
+	Hull: SAdventProgenitor
+	Hull: SAdventRapture
+	Hull: SAdventSeeker
