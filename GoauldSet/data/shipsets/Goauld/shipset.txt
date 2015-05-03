@@ -1,0 +1,19 @@
+Shipset: Goauld
+	Name: Goa'uld
+	Available: Yes
+	
+	Hull: ApophisHatak
+	Hull: NewHatak
+	Hull: OldHatak
+	Hull: PyramidShip
+	Hull: SuperHatak
+	Hull: GoauldSuperweapon
+	
+	Hull: GoauldStation
+	
+	Hull: SNewHatak
+	Hull: SOldHatak
+	Hull: SApophisHatak
+	Hull: SPyramidShip
+	Hull: SSuperHatak
+	Hull: SGoauldSuperweapon
