@@ -1,0 +1,71 @@
+Hull: AsgardBeliskner
+	Name: Beliskner-class Cruiser
+	Background: AsgardBeliskner
+	BackgroundScale: 1.0
+	Material: AsgardBeliskner
+	Model: AsgardBeliskner
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: AsgardDanielJackson
+	Name: Daniel Jackson-class Science Vessel
+	Background: AsgardDanielJackson
+	BackgroundScale: 1.0
+	Material: AsgardDanielJackson
+	Model: AsgardDanielJackson
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: AsgardONeill
+	Name: O'Neill-class Battleship
+	Background: AsgardONeill
+	BackgroundScale: 1.0
+	Material: AsgardONeill
+	Model: AsgardONeill
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+// STATIONS	
+
+Hull: AsgardShipyard
+	Name: Shipyard
+	Background: AsgardShipyard
+	BackgroundScale: 0.8
+	Material: AsgardShipyard
+	Model: AsgardShipyard
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+// SUPPORTS
+
+Hull: SAsgardBeliskner
+	Name: Beliskner-class Cruiser
+	Background: AsgardBeliskner
+	BackgroundScale: 1.0
+	Material: AsgardBeliskner
+	Model: AsgardBeliskner
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SAsgardDanielJackson
+	Name: Daniel Jackson-class Science Vessel
+	Background: AsgardDanielJackson
+	BackgroundScale: 1.0
+	Material: AsgardDanielJackson
+	Model: AsgardDanielJackson
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SAsgardONeill
+	Name: O'Neill-class Battleship
+	Background: AsgardONeill
+	BackgroundScale: 1.0
+	Material: AsgardONeill
+	Model: AsgardONeill
+	Subsystem: SupportHull
+	Tags: Support
+	

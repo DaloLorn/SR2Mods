@@ -1,0 +1,27 @@
+Material: AsgardTemplate
+	Texture4: data/shipsets/Asgard/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Asgard/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: AsgardBeliskner
+	Inherit: AsgardTemplate
+	Texture: data/shipsets/Asgard/Beliskner.png
+	Texture2: data/shipsets/Asgard/Beliskner_normal.png
+	Texture3: data/shipsets/Asgard/Beliskner.png
+	
+Material: AsgardDanielJackson
+	Inherit: AsgardTemplate
+	Texture: data/shipsets/Asgard/DanielJackson.png
+	Texture2: data/shipsets/Asgard/DanielJackson_normal.png
+	Texture3: data/shipsets/Asgard/DanielJackson.png
+	
+Material: AsgardONeill
+	Inherit: AsgardTemplate
+	Texture: data/shipsets/Asgard/ONeill.png
+	Texture2: data/shipsets/Asgard/ONeill_normal.png
+	Texture3: data/shipsets/Asgard/ONeill.png
+	
+Material: AsgardShipyard
+	Inherit: AsgardONeill
