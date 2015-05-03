@@ -1,0 +1,71 @@
+Hull: AncientCorvette
+	Name: Ventio-class Corvette
+	Background: AncientCorvette
+	BackgroundScale: 1.2
+	Material: AncientCorvette
+	Model: AncientCorvette
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: AncientCruiser
+	Name: Domivaitus-class Cruiser
+	Background: AncientCruiser
+	BackgroundScale: 1.2
+	Material: AncientCruiser
+	Model: AncientCruiser
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: AncientWarship
+	Name: Aurora-class Battlecruiser
+	Background: AncientWarship
+	BackgroundScale: 1.2
+	Material: AncientWarship
+	Model: AncientWarship
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+// STATIONS	
+
+Hull: AncientSatellite
+	Name: Lagrangian Point Satellite
+	Background: AncientSatellite
+	BackgroundScale: 1.0
+	Material: AncientSatellite
+	Model: AncientSatellite
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+// SUPPORTS
+
+Hull: SAncientCorvette
+	Name: Ventio-class Corvette
+	Background: AncientCorvette
+	BackgroundScale: 1.2
+	Material: AncientCorvette
+	Model: AncientCorvette
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SAncientCruiser
+	Name: Domivaitus-class Cruiser
+	Background: AncientCruiser
+	BackgroundScale: 1.2
+	Material: AncientCruiser
+	Model: AncientCruiser
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SAncientWarship
+	Name: Aurora-class Battlecruiser
+	Background: AncientWarship
+	BackgroundScale: 1.2
+	Material: AncientWarship
+	Model: AncientWarship
+	Subsystem: SupportHull
+	Tags: Support
+	

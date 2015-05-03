@@ -1,0 +1,15 @@
+Model: AncientCorvette
+	Tangents: on
+	Mesh: data/shipsets/Lanteans/Corvette.obj
+	
+Model: AncientCruiser
+	Tangents: on
+	Mesh: data/shipsets/Lanteans/Cruiser.obj
+
+Model: AncientWarship
+	Tangents: on
+	Mesh: data/shipsets/Lanteans/Warship.obj
+
+Model: AncientSatellite
+	Tangents: on
+	Mesh: data/shipsets/Lanteans/Satellite.obj

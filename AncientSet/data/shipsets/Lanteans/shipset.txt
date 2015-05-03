@@ -1,0 +1,13 @@
+Shipset: Lanteans
+	Name: Ancients
+	Available: Yes
+	
+	Hull: AncientWarship
+	Hull: AncientCorvette
+	Hull: AncientCruiser
+	
+	Hull: AncientSatellite
+	
+	Hull: SAncientCorvette
+	Hull: SAncientCruiser
+	Hull: SAncientWarship
