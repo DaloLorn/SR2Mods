@@ -1,0 +1,10 @@
+	Name: Asgard Empire
+	Description: <<
+		An Asgard shipset ported from Star Wars: Empire at War. Does not yet have any default designs. More hulls may come at a later date along with better textures.
+		
+		Models and textures originally made for the Stargate ship pack for Star Trek: Bridge Commander: http://bridgecommander.filefront.com/file/Stargate_Ship_Pack;65246
+		
+		Assets converted again from Stargate: Empire at War assets (who modified the Bridge Commander assets for SGEaW, I'm not sure - but it was the SGEaW team) for use in SR2 by Stargate Modding Group (AKA the SGEaW team :P) member 'Imperial' and Dalo Lorn. (Mostly Imperial, really - all I did was rescale and rotate the models and write up the shipset code.)
+
+		If I miscredited anyone, let me know.
+	>>
