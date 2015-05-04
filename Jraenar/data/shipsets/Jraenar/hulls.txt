@@ -1,0 +1,271 @@
+Hull: JraenarBattleship
+	Name: Thrath-class Battleship
+	Background: JraenarBattleship
+	BackgroundScale: 1.2
+	Material: JraenarBattleship
+	Model: JraenarBattleship
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarCarrier
+	Name: Outanoth-class Carrier
+	Background: JraenarCarrier
+	BackgroundScale: 1.2
+	Material: JraenarCarrier
+	Model: JraenarCarrier
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarColony
+	Name: Mosuth-class Colony Ship
+	Background: JraenarColony
+	BackgroundScale: 1.2
+	Material: JraenarColony
+	Model: JraenarColony
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarCruiser
+	Name: Kinessath-class Cruiser
+	Background: JraenarCruiser
+	BackgroundScale: 1.2
+	Material: JraenarCruiser
+	Model: JraenarCruiser
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarDestroyer
+	Name: Keth-class Destroyer
+	Background: JraenarDestroyer
+	BackgroundScale: 1.2
+	Material: JraenarDestroyer
+	Model: JraenarDestroyer
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarDreadnought
+	Name: Cruth-class Dreadnought
+	Background: JraenarDreadnought
+	BackgroundScale: 1.2
+	Material: JraenarDreadnought
+	Model: JraenarDreadnought
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarFighter
+	Name: Achenth Fighter
+	Background: JraenarFighter
+	BackgroundScale: 1.2
+	Material: JraenarFighter
+	Model: JraenarFighter
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarFreighter
+	Name: Belustith-class Freighter
+	Background: JraenarFreighter
+	BackgroundScale: 1.2
+	Material: JraenarFreighter
+	Model: JraenarFreighter
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarFrigate
+	Name: Estuth-class Frigate
+	Background: JraenarFrigate
+	BackgroundScale: 1.2
+	Material: JraenarFrigate
+	Model: JraenarFrigate
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarLightCruiser
+	Name: Joth-class Light Cruiser
+	Background: JraenarLightCruiser
+	BackgroundScale: 1.2
+	Material: JraenarLightCruiser
+	Model: JraenarLightCruiser
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarTroop
+	Name: Garaith Gunship
+	Background: JraenarTroop
+	BackgroundScale: 1.2
+	Material: JraenarTroop
+	Model: JraenarTroop
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: JraenarBaseship
+	Name: Lorianth Baseship
+	Background: JraenarStarbase
+	BackgroundScale: 0.95
+	Material: JraenarStarbase
+	Model: JraenarStarbase
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+// END FLAGSHIP LIST HERE
+
+Hull: JraenarMine
+	Name: Kaleth Weapons Platform
+	Background: JraenarMine
+	BackgroundScale: 0.9
+	Material: JraenarMine
+	Model: JraenarMine
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+Hull: JraenarSatellite
+	Name: Nyith Satellite
+	Background: JraenarSatellite
+	BackgroundScale: 1.0
+	Material: JraenarSatellite
+	Model: JraenarSatellite
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+Hull: JraenarStarbase
+	Name: Lorianth Starbase
+	Background: JraenarStarbase
+	BackgroundScale: 0.95
+	Material: JraenarStarbase
+	Model: JraenarStarbase
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+Hull: JraenarStation
+	Name: Rubth Outpost
+	Background: JraenarStation
+	BackgroundScale: 1.0
+	Material: JraenarStation
+	Model: JraenarStation
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+// END STATION LIST HERE
+
+Hull: SJraenarBattleship
+	Name: Thrath-class Battleship
+	Background: JraenarBattleship
+	BackgroundScale: 1.2
+	Material: JraenarBattleship
+	Model: JraenarBattleship
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarCarrier
+	Name: Outanoth-class Carrier
+	Background: JraenarCarrier
+	BackgroundScale: 1.2
+	Material: JraenarCarrier
+	Model: JraenarCarrier
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarColony
+	Name: Mosuth-class Colony Ship
+	Background: JraenarColony
+	BackgroundScale: 1.2
+	Material: JraenarColony
+	Model: JraenarColony
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarCruiser
+	Name: Kinessath-class Cruiser
+	Background: JraenarCruiser
+	BackgroundScale: 1.2
+	Material: JraenarCruiser
+	Model: JraenarCruiser
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarDestroyer
+	Name: Keth-class Destroyer
+	Background: JraenarDestroyer
+	BackgroundScale: 1.2
+	Material: JraenarDestroyer
+	Model: JraenarDestroyer
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarDreadnought
+	Name: Cruth-class Dreadnought
+	Background: JraenarDreadnought
+	BackgroundScale: 1.2
+	Material: JraenarDreadnought
+	Model: JraenarDreadnought
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarFighter
+	Name: Achenth Fighter
+	Background: JraenarFighter
+	BackgroundScale: 1.2
+	Material: JraenarFighter
+	Model: JraenarFighter
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarFreighter
+	Name: Belustith-class Freighter
+	Background: JraenarFreighter
+	BackgroundScale: 1.2
+	Material: JraenarFreighter
+	Model: JraenarFreighter
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarFrigate
+	Name: Estuth-class Frigate
+	Background: JraenarFrigate
+	BackgroundScale: 1.2
+	Material: JraenarFrigate
+	Model: JraenarFrigate
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarLightCruiser
+	Name: Joth-class Light Cruiser
+	Background: JraenarLightCruiser
+	BackgroundScale: 1.2
+	Material: JraenarLightCruiser
+	Model: JraenarLightCruiser
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarTroop
+	Name: Garaith Gunship
+	Background: JraenarTroop
+	BackgroundScale: 1.2
+	Material: JraenarTroop
+	Model: JraenarTroop
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SJraenarBaseship
+	Name: Lorianth Baseship
+	Background: JraenarStarbase
+	BackgroundScale: 0.95
+	Material: JraenarStarbase
+	Model: JraenarStarbase
+	Subsystem: SupportHull
+	Tags: Support

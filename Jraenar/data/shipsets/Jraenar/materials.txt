@@ -1,0 +1,82 @@
+Material: JraenarTemplate
+	Texture2: data/shipsets/Jraenar/normal.png
+	Texture4: data/shipsets/Jraenar/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Jraenar/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: JraenarBattleship
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Battleship.png
+	Texture3: data/shipsets/Jraenar/Battleship.png
+
+Material: JraenarCarrier
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Carrier.png
+	Texture3: data/shipsets/Jraenar/Carrier.png
+
+Material: JraenarColony
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Colony.png
+	Texture3: data/shipsets/Jraenar/Colony.png
+
+Material: JraenarCruiser
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Cruiser.png
+	Texture3: data/shipsets/Jraenar/Cruiser.png
+
+Material: JraenarDestroyer
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Destroyer.png
+	Texture3: data/shipsets/Jraenar/Destroyer.png
+
+Material: JraenarDreadnought
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Dreadnought.png
+	Texture3: data/shipsets/Jraenar/Dreadnought.png
+
+Material: JraenarFighter
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Fighter.png
+	Texture3: data/shipsets/Jraenar/Fighter.png
+
+Material: JraenarFreighter
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Freighter.png
+	Texture3: data/shipsets/Jraenar/Freighter.png
+
+Material: JraenarFrigate
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Frigate.png
+	Texture3: data/shipsets/Jraenar/Frigate.png
+
+Material: JraenarLightCruiser
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/LightCruiser.png
+	Texture3: data/shipsets/Jraenar/LightCruiser.png
+
+Material: JraenarMine
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Mine.png
+	Texture3: data/shipsets/Jraenar/Mine.png
+
+Material: JraenarSatellite
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Satellite.png
+	Texture3: data/shipsets/Jraenar/Satellite.png
+
+Material: JraenarStarbase
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Starbase.png
+	Texture3: data/shipsets/Jraenar/Starbase.png
+
+Material: JraenarStation
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Station.png
+	Texture3: data/shipsets/Jraenar/Station.png
+
+Material: JraenarTroop
+	Inherit: JraenarTemplate
+	Texture: data/shipsets/Jraenar/Troop.png
+	Texture3: data/shipsets/Jraenar/Troop.png
