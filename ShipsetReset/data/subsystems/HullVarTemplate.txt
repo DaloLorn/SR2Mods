@@ -1,0 +1,21 @@
+Template: var/SupportHexes, var/FlagshipHexes, var/StationHexes
+	Modifier: HexLimitToolFactor(factor)
+		SupportHexes := SupportHexes * factor
+		FlagshipHexes := FlagshipHexes * factor
+		StationHexes := StationHexes * factor
+		
+Subsystem: HexLimitReverter
+	Name: Hex Limit Reverter
+	Description: Sets the ship's hex limit to the default for its hull and type.
+	
+	Tags: Applied:HexLimits, Category:Hulls, NoCore, DefaultUnlock
+	Hull: Flagship, Station, Support
+	EvaluationOrder: -2000
+	BaseColor: #a702cc
+	
+	Module: Default
+		Sprite: DesignationIcons::16
+		DrawMode: 3
+		
+	AddShipModifier: HexLimitToolFactor(0)
+	

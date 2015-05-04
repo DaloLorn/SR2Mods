@@ -1,0 +1,8 @@
+	Name: Hex Limit Reverter
+	Description: <<
+		As of r4180, ship hulls have hex limits defined by the ship type, and each hex has a static value determined by the ship size and the hex limit. This means that ships with a hex count other than the limit are inherently sub-par either through high prices (armor stacking to fill in the gaps) or low performance (too few hexes altogether).
+
+		As someone who built all his shipsets with the intent of the hull shapes being fairly strictly adhered to, which is my own design style, I've begun reworking my shipsets to counteract the effects of the change. To that end, each hull will now have a specially determined hex limit built into it through a second subsystem - a limit which roughly approximates the amount of hexes required to fill out the shape of the hull itself, assuming that the last layer of hexes is a coat of armor. (Users of the Advent shipset will see this new system in action as soon as I finish prototyping the hulls, as this update will include default designs for at least a handful of hulls.)
+
+		This change might not be liked by everyone, so, with a little help from GGLucas, I've written up this addon. In the ship designer window, under "Hulls", you can enable the "Hex Limit Reverter" applied subsystem. This will negate the effects of the limit-changing subsystems built into the hulls. This, unlike the limit-changing subsystems' functionality, does not in any way clash with the Titan Hull or the extra hulls in the 'Diverse Hull Types' addon. (Or, for that matter, the new hulls in ABEM versions 0.150 or later.)
+	>>
