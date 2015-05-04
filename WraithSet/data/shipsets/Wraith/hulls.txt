@@ -1,0 +1,61 @@
+Hull: WraithCruiser
+	Name: Harbinger Cruiser
+	Background: WraithCruiser
+	BackgroundScale: 1.0
+	Material: WraithCruiser
+	Model: WraithCruiser
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: WraithHive
+	Name: Hive Ship
+	Background: WraithHive
+	BackgroundScale: 1.2
+	Material: WraithHive
+	Model: WraithHive
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+// STATIONS	
+
+Hull: WraithLab
+	Name: Research Facility
+	Background: WraithLab
+	BackgroundScale: 0.9
+	Material: WraithLab
+	Model: WraithLab
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+Hull: WraithStation
+	Name: Defense Hive
+	Background: WraithStation
+	BackgroundScale: 1.3
+	Material: WraithStation
+	Model: WraithStation
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+// SUPPORTS
+
+Hull: SWraithCruiser
+	Name: Harbinger Cruiser
+	Background: WraithCruiser
+	BackgroundScale: 1.0
+	Material: WraithCruiser
+	Model: WraithCruiser
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SWraithHive
+	Name: Hive Ship
+	Background: WraithHive
+	BackgroundScale: 1.0
+	Material: WraithHive
+	Model: WraithHive
+	Subsystem: SupportHull
+	Tags: Support

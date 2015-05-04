@@ -1,0 +1,15 @@
+Model: WraithCruiser
+	Tangents: on
+	Mesh: data/shipsets/Wraith/Cruiser.obj
+	
+Model: WraithHive
+	Tangents: on
+	Mesh: data/shipsets/Wraith/Hive.obj
+
+Model: WraithLab
+	Tangents: on
+	Mesh: data/shipsets/Wraith/Lab.obj
+
+Model: WraithStation
+	Tangents: on
+	Mesh: data/shipsets/Wraith/Station.obj
