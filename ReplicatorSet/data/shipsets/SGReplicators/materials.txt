@@ -1,0 +1,15 @@
+Material: SGReplicator
+	Texture: data/shipsets/SGReplicators/Replicator.png
+	Texture2: data/shipsets/SGReplicators/Replicator_normal.png
+	Texture3: data/shipsets/SGReplicators/Replicator.png
+	Texture4: data/shipsets/SGReplicators/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/SGReplicators/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: SGReplicatorFrigate
+	Inherit: SGReplicator
+	Texture: data/shipsets/SGReplicators/Frigate.png
+	Texture2: data/shipsets/SGReplicators/Frigate_normal.png
+	Texture3: data/shipsets/SGReplicators/Frigate.png
