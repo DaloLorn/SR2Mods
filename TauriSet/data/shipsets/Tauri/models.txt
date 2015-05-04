@@ -1,0 +1,11 @@
+Model: BC303
+	Tangents: on
+	Mesh: data/shipsets/Tauri/BC303.obj
+	
+Model: BC304
+	Tangents: on
+	Mesh: data/shipsets/Tauri/BC304.obj
+
+Model: TauriMidway
+	Tangents: on
+	Mesh: data/shipsets/Tauri/Midway.obj
