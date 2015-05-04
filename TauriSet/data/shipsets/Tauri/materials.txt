@@ -1,0 +1,24 @@
+Material: TauriTemplate
+	Texture4: data/shipsets/Tauri/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Tauri/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: BC303
+	Inherit: TauriTemplate
+	Texture: data/shipsets/Tauri/303.png
+	Texture2: data/shipsets/Tauri/303_normal.png
+	Texture3: data/shipsets/Tauri/303.png
+	
+Material: BC304
+	Inherit: TauriTemplate
+	Texture: data/shipsets/Tauri/304.png
+	Texture2: data/shipsets/Tauri/304_normal.png
+	Texture3: data/shipsets/Tauri/304.png
+
+Material: TauriMidway
+	Inherit: TauriTemplate
+	Texture: data/shipsets/Tauri/Midway.png
+	Texture2: data/shipsets/Tauri/Midway_normal.png
+	Texture3: data/shipsets/Tauri/Midway.png
