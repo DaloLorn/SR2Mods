@@ -1,0 +1,34 @@
+Shipset: Jraenar
+	Name: Jraenar
+	Available: Yes
+
+	Hull: JraenarBattleship
+	Hull: JraenarCarrier
+	Hull: JraenarColony
+	Hull: JraenarCruiser
+	Hull: JraenarDestroyer
+	Hull: JraenarDreadnought
+	Hull: JraenarFighter
+	Hull: JraenarFreighter
+	Hull: JraenarFrigate
+	Hull: JraenarLightCruiser
+	Hull: JraenarTroop
+	Hull: JraenarBaseship
+
+	Hull: JraenarMine
+	Hull: JraenarSatellite
+	Hull: JraenarStarbase
+	Hull: JraenarStation
+
+	Hull: SJraenarFighter
+	Hull: SJraenarBattleship
+	Hull: SJraenarCarrier
+	Hull: SJraenarColony
+	Hull: SJraenarCruiser
+	Hull: SJraenarDestroyer
+	Hull: SJraenarDreadnought
+	Hull: SJraenarFreighter
+	Hull: SJraenarFrigate
+	Hull: SJraenarLightCruiser
+	Hull: SJraenarTroop
+	Hull: SJraenarBaseship

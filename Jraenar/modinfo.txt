@@ -1,0 +1,8 @@
+	Name: Jraenar Imperium
+	Description: <<
+		[i]The Jraenar were originally a quiet hard working race which didn't have much interest in the outside galaxy. But after a number of wars and the rise of the first Master General, the Jraenar entered into an aggressive military expansion phase.[/i] - Space Empires 5 history
+
+		Adds the Jraenar shipset from Space Empires 5. Personally, I wouldn't even have ported this thing (SE5 vanilla shipsets are horrendously low-quality due to being designed for much weaker PCs, as the screenshots testify), but my younger brother wanted it, so... why not publish it, right?
+
+		All assets (including names, randomly selected from the Jraenar name files) by Malfador Machinations, all I did was convert, re-scale and rotate the assets so SR2 could read them. As with the rest of my shipset ports, there are no default designs (so the game will instead load from other shipsets), and you can only change the ship hull manually.
+	>>
