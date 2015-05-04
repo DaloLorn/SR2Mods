@@ -1,0 +1,6 @@
+	Name: Multiple Theme Enabler
+	Description: <<
+		Changes the code regulating the theme song in the main menu to randomly select a valid (in other words, an .ogg file the game is capable of reading) file from "data/music/theme" and play another file (again, randomly selected, possibly even the same one) after it's done.
+		
+				Includes the default theme moved to the appropriate path. To add new ones, just move them into Star Ruler 2/data/music/theme, and the script will take care of the rest. (Unless there's something wrong with the file that's keeping the game from reading it.) Needless to say, any mod with sound files in data/music/theme will do the same thing as placing the files into Star Ruler 2/data/music/theme, and you can have subfolders.
+	>>
