@@ -1,0 +1,16 @@
+	Name: Koprulu Navy
+	Description: <<
+		A Terran shipset from StarCraft 2. This one doesn't include subsets like the Protoss one. WARNING: As of the time of publishing, the shipset does not have any starting designs. I'll get around to that eventually, I guess - but until then, either ensure that all players are using my shipsets or use 'Disable Starting Fleets' in game settings, just to preserve the balance. (Apparently, shipsets without designs load all other designs - vanilla games will be fine, but Exa's Wars uses custom-named designs, which causes my shipsets to double-dip in terms of starting fleets in a game using Exa's shipset.)
+
+		Credits:
+		- Blizzard Entertainment for all models and textures except where stated otherwise
+
+		- SC2Mapster community for Valkyrie model and textures
+
+		- Yours truly for converting all of this stuff from .m3 and .dds files into the .obj and .png files SR2 knows how to interpret
+
+		- Thy Reaper for helping me resolve texturing issues. Without his guidance, this would not exist. Of course, the entire Blind Mind team should be in these credits just for making the game! :)
+
+
+		If I miscredited someone, or there's a bug, don't hesitate to point it out.
+	>>
