@@ -1,0 +1,127 @@
+Hull: SGReplicatorScout
+	Name: Scout
+	Background: SGReplicator
+	BackgroundScale: 0.9
+	Material: SGReplicator
+	Model: SGReplicatorScout
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: SGReplicatorCorvette
+	Name: Corvette
+	Background: SGReplicator
+	BackgroundScale: 1.2
+	Material: SGReplicator
+	Model: SGReplicatorCorvette
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: SGReplicatorSpider
+	Name: Spider Ship
+	Background: SGReplicator
+	BackgroundScale: 0.9
+	Material: SGReplicator
+	Model: SGReplicatorSpider
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: SGReplicatorFrigate
+	Name: Alien Frigate
+	Background: SGReplicatorFrigate
+	BackgroundScale: 0.8
+	Material: SGReplicatorFrigate
+	Model: SGReplicatorFrigate
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: SGReplicatorBattlecruiser
+	Name: Battlecruiser
+	Background: SGReplicator
+	BackgroundScale: 1.2
+	Material: SGReplicator
+	Model: SGReplicatorBattlecruiser
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: SGReplicatorBattleship
+	Name: Battleship
+	Background: SGReplicator
+	BackgroundScale: 1.2
+	Material: SGReplicator
+	Model: SGReplicatorBattleship
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+// STATIONS	
+
+Hull: SGReplicatorStation
+	Name: Station
+	Background: SGReplicator
+	BackgroundScale: 1.1
+	Material: SGReplicator
+	Model: SGReplicatorStation
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+// SUPPORTS
+	
+Hull: SSGReplicatorScout
+	Name: Scout
+	Background: SGReplicator
+	BackgroundScale: 0.9
+	Material: SGReplicator
+	Model: SGReplicatorScout
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SSGReplicatorCorvette
+	Name: Corvette
+	Background: SGReplicator
+	BackgroundScale: 1.2
+	Material: SGReplicator
+	Model: SGReplicatorCorvette
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SSGReplicatorSpider
+	Name: Spider Ship
+	Background: SGReplicator
+	BackgroundScale: 0.9
+	Material: SGReplicator
+	Model: SGReplicatorSpider
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SSGReplicatorFrigate
+	Name: Alien Frigate
+	Background: SGReplicatorFrigate
+	BackgroundScale: 0.8
+	Material: SGReplicatorFrigate
+	Model: SGReplicatorFrigate
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SSGReplicatorBattlecruiser
+	Name: Battlecruiser
+	Background: SGReplicator
+	BackgroundScale: 1.2
+	Material: SGReplicator
+	Model: SGReplicatorBattlecruiser
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SSGReplicatorBattleship
+	Name: Battleship
+	Background: SGReplicator
+	BackgroundScale: 1.2
+	Material: SGReplicator
+	Model: SGReplicatorBattleship
+	Subsystem: SupportHull
+	Tags: Support

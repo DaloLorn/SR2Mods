@@ -1,0 +1,19 @@
+Shipset: SGReplicator
+	Name: Replicators
+	Available: Yes
+	
+	Hull: SGReplicatorBattleship
+	Hull: SGReplicatorBattlecruiser
+	Hull: SGReplicatorCorvette
+	Hull: SGReplicatorFrigate
+	Hull: SGReplicatorSpider
+	Hull: SGReplicatorScout
+
+	Hull: SGReplicatorStation
+	
+	Hull: SSGReplicatorSpider
+	Hull: SSGReplicatorBattleship
+	Hull: SSGReplicatorBattlecruiser
+	Hull: SSGReplicatorCorvette
+	Hull: SSGReplicatorFrigate
+	Hull: SSGReplicatorScout
