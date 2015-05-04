@@ -1,0 +1,55 @@
+Shipset: KEC
+	Name: KEC
+	Available: Yes
+
+	Hull: BCHyperion
+	Hull: Battlecruiser
+	Hull: BCHurricane
+	Hull: BCLoki
+	Hull: BCYamato
+	Hull: TrainEngine
+	Hull: TrainCar
+	Hull: Raven
+	Hull: ScienceVessel
+	Hull: Valkyrie
+
+	Hull: ScienceStation
+	Hull: SpaceTower
+	Hull: ValerianStation
+
+	Hull: SBattlecruiser
+	Hull: SBCHyperion
+	Hull: SBCHurricane
+	Hull: SBCLoki
+	Hull: SBCYamato
+	Hull: STrainEngine
+	Hull: STrainCar
+	Hull: SRaven
+	Hull: SScienceVessel
+	Hull: SValkyrie
+
+	// END KOPRULU LIST
+
+	Hull: Kol
+	Hull: CobaltTEC
+	Hull: Garda
+	Hull: TECFreighter
+	Hull: Dunov
+	Hull: Akkan
+	Hull: Sova
+	Hull: Krosov
+	Hull: Marza
+	Hull: Ragnarov
+
+	Hull: Argonev
+
+	Hull: SCobaltTEC
+	Hull: SKrosov
+	Hull: SGarda
+	Hull: STECFreighter
+	Hull: SDunov
+	Hull: SAkkan
+	Hull: SSova
+	Hull: SKol
+	Hull: SMarza
+	Hull: SRagnarov
