@@ -1,0 +1,6 @@
+	Name: Khalai Unity
+	Description: <<
+		Seeing as I made a superset of the Dominion and TEC shipsets, it only seemed fair that I'd make a superset for their more technologically advanced counterparts. So, this merges the Protoss shipset with the Advent shipset.
+
+		WARNING: The assets required for this shipset to function are located within the 'The Firstborn' and 'Unity of the Advent' addons. Without both of them installed and enabled, this shipset will not function!
+	>>
