@@ -1,0 +1,87 @@
+Model: Carrier
+	Tangents: on
+	Mesh: data/shipsets/protoss/Carrier.obj
+
+Model: Arbiter
+	Tangents: on
+	Mesh: data/shipsets/protoss/arbiter.obj
+
+Model: Arbiter2
+	Tangents: on
+	Mesh: data/shipsets/protoss/arbiter2.obj
+
+Model: CarrierBW
+	Tangents: on
+	Mesh: data/shipsets/protoss/CarrierBW.obj
+
+Model: BWProbe
+	Tangents: on
+	Mesh: data/shipsets/protoss/BWProbe.obj
+
+Model: Interceptor
+	Tangents: on
+	Mesh: data/shipsets/protoss/Interceptor.obj
+
+Model: Mothership
+	Tangents: on
+	Mesh: data/shipsets/protoss/Mothership.obj
+
+Model: MothershipCore
+	Tangents: on
+	Mesh: data/shipsets/protoss/MothershipCoreNoEnergy.obj
+
+Model: Nexus
+	Tangents: on
+	Mesh: data/shipsets/protoss/Nexus.obj
+
+Model: Observer
+	Tangents: on
+	Mesh: data/shipsets/protoss/Observer.obj
+
+Model: Oracle
+	Tangents: on
+	Mesh: data/shipsets/protoss/OracleNoEnergy.obj
+
+Model: PhotonSphere
+	Tangents: on
+	Mesh: data/shipsets/protoss/PhotonSphere.obj
+
+Model: Probe
+	Tangents: on
+	Mesh: data/shipsets/protoss/Probe.obj
+
+Model: ProtossFrigate
+	Tangents: on
+	Mesh: data/shipsets/protoss/ProtossFrigate.obj
+
+Model: Sentry
+	Tangents: on
+	Mesh: data/shipsets/protoss/SentryNoEnergy.obj
+
+Model: Shuttle
+	Tangents: on
+	Mesh: data/shipsets/protoss/Shuttle.obj
+
+Model: DarkShrine
+	Tangents: on
+	Mesh: data/shipsets/protoss/DarkShrine.obj
+
+Model: Tempest
+	Tangents: on
+	Mesh: data/shipsets/protoss/TempestNoEnergy.obj
+
+Model: TemplarArchive
+	Tangents: on
+	Mesh: data/shipsets/protoss/TemplarArchive.obj
+
+Model: VoidRay
+	Tangents: on
+	Mesh: data/shipsets/protoss/VoidRay.obj
+
+Model: Mohandar
+	Tangents: on
+	Mesh: data/shipsets/protoss/VoidRayHero.obj
+
+Model: VoidSeeker
+	Tangents: on
+	Mesh: data/shipsets/protoss/VoidSeekerNoEnergy.obj

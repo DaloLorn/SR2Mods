@@ -1,0 +1,221 @@
+Material: ProtossTemplate
+	Texture4: data/shipsets/protoss/gloss.png
+	Texture5: data/images/skybox.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: Carrier
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/carrier_diffuse.png
+	Texture2: data/shipsets/protoss/carrier_normal2.png
+	Texture3: data/shipsets/protoss/carrier_specular.png
+	Texture6: data/shipsets/protoss/carrier_emissive.png
+
+Material: DarkCarrier
+	Inherit: Carrier
+	Texture: data/shipsets/protoss/darkcarrier_diffuse.png
+	Texture3: data/shipsets/protoss/darkcarrier_specular.png
+	Texture6: data/shipsets/protoss/darkcarrier_emissive.png
+
+Material: NerazimCarrier
+	Inherit: Carrier
+	Texture: data/shipsets/protoss/nerazimcarrier_diffuse.png
+	Texture3: data/shipsets/protoss/nerazimcarrier_specular.png
+
+Material: Arbiter
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/arbiter_diffuse.png
+	Texture2: data/shipsets/protoss/arbiter_normal.png
+	Texture3: data/shipsets/protoss/arbiter_specular.png
+	Texture6: data/shipsets/protoss/arbiter_emissive.png
+
+Material: DarkArbiter
+	Inherit: Arbiter
+	Texture: data/shipsets/protoss/darkarbiter_diffuse.png
+
+Material: Arbiter2
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/arbi_diffuse.png
+	Texture2: data/shipsets/protoss/arbi_normal.png
+	Texture3: data/shipsets/protoss/arbi_specular.png
+	Texture6: data/shipsets/protoss/arbi_emissive.png
+
+Material: CarrierBW
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/carrierBW_diffuse.png
+	Texture2: data/shipsets/protoss/carrierBW_normal.png
+	Texture3: data/shipsets/protoss/carrierBW_specular.png
+	Texture6: data/shipsets/protoss/carrierBW_emissive.png
+
+Material: DarkCarrierBW
+	Inherit: CarrierBW
+	Texture: data/shipsets/protoss/darkcarrierBW_diffuse.png
+
+Material: BWProbe
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/bwprobe_diffuse.png
+	Texture2: data/shipsets/protoss/bwprobe_normal.png
+	Texture3: data/shipsets/protoss/bwprobe_specular.png
+	Texture6: data/shipsets/protoss/bwprobe_emissive.png
+
+Material: Interceptor
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/interceptor_diffuse.png
+	Texture2: data/shipsets/protoss/interceptor_normal.png
+	Texture3: data/shipsets/protoss/interceptor_specular.png
+	Texture6: data/shipsets/protoss/interceptor_emissive.png
+
+Material: DarkInterceptor
+	Inherit: Interceptor
+	Texture: data/shipsets/protoss/darkinterceptor_diffuse.png
+	Texture3: data/shipsets/protoss/darkinterceptor_specular.png
+	Texture6: data/shipsets/protoss/darkinterceptor_emissive.png
+
+Material: Mothership
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/mothership_diffuse.png
+	Texture2: data/shipsets/protoss/mothership_normal.png
+	Texture3: data/shipsets/protoss/mothership_specular.png
+	Texture6: data/shipsets/protoss/mothership_emissive.png
+
+Material: DarkMothership
+	Inherit: Mothership
+	Texture: data/shipsets/protoss/darkmothership_diffuse.png
+
+Material: MothershipCore
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/purifiermatrix_diffuse.png
+	Texture2: data/shipsets/protoss/purifiermatrix_normal.png
+	Texture3: data/shipsets/protoss/purifiermatrix_specular.png
+	Texture6: data/shipsets/protoss/purifiermatrix_emissive.png
+
+Material: Nexus
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/nexus_diffuse.png
+	Texture2: data/shipsets/protoss/nexus_normal.png
+	Texture3: data/shipsets/protoss/nexus_specular.png
+	Texture6: data/shipsets/protoss/nexus_emissive.png
+
+Material: DarkNexus
+	Inherit: Nexus
+	Texture: data/shipsets/protoss/darknexus_diffuse.png
+	Texture3: data/shipsets/protoss/darknexus_specular.png
+	Texture6: data/shipsets/protoss/darknexus_emissive.png
+
+Material: Observer
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/observer_diffuse.png
+	Texture2: data/shipsets/protoss/observer_normal.png
+	Texture3: data/shipsets/protoss/observer_diffuse.png
+	Texture6: data/shipsets/protoss/observer_emissive.png
+
+Material: Oracle
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/purifiermp_diffuse.png
+	Texture2: data/shipsets/protoss/purifiermp_normal.png
+	Texture3: data/shipsets/protoss/purifiermp_specular.png
+	Texture6: data/shipsets/protoss/purifiermp_emissive.png
+
+Material: PhotonSphere
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/photon_diffuse.png
+	Texture2: data/shipsets/protoss/photon_normal.png
+	Texture3: data/shipsets/protoss/photon_specular.png
+	Texture6: data/shipsets/protoss/photon_emissive.png
+
+Material: DarkPhotonSphere
+	Inherit: PhotonSphere
+	Texture: data/shipsets/protoss/darkphoton_diffuse.png
+	Texture3: data/shipsets/protoss/darkphoton_specular.png
+	Texture6: data/shipsets/protoss/darkphoton_emissive.png
+
+Material: Probe
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/probe_diffuse.png
+	Texture2: data/shipsets/protoss/probe_normal.png
+	Texture3: data/shipsets/protoss/probe_specular.png
+	Texture6: data/shipsets/protoss/probe_emissive.png
+
+Material: ProtossFrigate
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/frigate_diffuse.png
+	Texture2: data/shipsets/protoss/frigate_normal.png
+	Texture3: data/shipsets/protoss/frigate_specular.png
+	Texture6: data/shipsets/protoss/frigate_emissive.png
+
+Material: Sentry
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/sentry_diffuse.png
+	Texture2: data/shipsets/protoss/sentry_normal.png
+	Texture3: data/shipsets/protoss/sentry_diffuse.png
+	Texture6: data/shipsets/protoss/sentry_emissive.png
+
+Material: Shuttle
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/shuttle_diffuse.png
+	Texture2: data/shipsets/protoss/shuttle_normal.png
+	Texture3: data/shipsets/protoss/shuttle_specular.png
+	Texture6: data/shipsets/protoss/gloss.png
+
+Material: DarkShuttle
+	Inherit: Shuttle
+	Texture: data/shipsets/protoss/darkshuttle_diffuse.png
+
+Material: Tempest
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/tempest_diffuse.png
+	Texture2: data/shipsets/protoss/tempest_normal.png
+	Texture3: data/shipsets/protoss/tempest_specular.png
+	Texture6: data/shipsets/protoss/tempest_emissive.png
+
+Material: VoidRay
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/voidray_diffuse.png
+	Texture2: data/shipsets/protoss/voidray_normal.png
+	Texture3: data/shipsets/protoss/voidray_specular.png
+	Texture6: data/shipsets/protoss/voidray_emissive.png
+
+Material: WarpRay
+	Inherit: VoidRay
+	Texture: data/shipsets/protoss/warpray_diffuse.png
+	Texture6: data/shipsets/protoss/voidrayhero_emissive.png
+
+Material: DarkVoidRay
+	Inherit: VoidRay
+	Texture: data/shipsets/protoss/darkvoidray_diffuse.png
+	Texture3: data/shipsets/protoss/darkvoidray_specular.png
+	Texture6: data/shipsets/protoss/darkvoidray_emissive.png
+
+Material: VoidSeeker
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/voidseeker_diffuse.png
+	Texture2: data/shipsets/protoss/voidseeker_normal.png
+	Texture3: data/shipsets/protoss/voidseeker_specular.png
+	Texture6: data/shipsets/protoss/voidseeker_glow.png
+
+Material: Mohandar
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/voidrayhero_diffuse.png
+	Texture2: data/shipsets/protoss/voidrayhero_normal.png
+	Texture3: data/shipsets/protoss/voidrayhero_specular.png
+	Texture6: data/shipsets/protoss/voidrayhero_emissive.png
+
+Material: TemplarArchive
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/archive_diffuse.png
+	Texture2: data/shipsets/protoss/archive_normal.png
+	Texture3: data/shipsets/protoss/archive_specular.png
+	Texture6: data/shipsets/protoss/archive_emissive.png
+
+Material: DarkArchive
+	Inherit: TemplarArchive
+	Texture: data/shipsets/protoss/darkarchive_diffuse.png
+	Texture3: data/shipsets/protoss/darkarchive_specular.png
+	Texture6: data/shipsets/protoss/darkarchive_emissive.png
+
+Material: DarkShrine
+	Inherit: ProtossTemplate
+	Texture: data/shipsets/protoss/darkshrine_diffuse.png
+	Texture2: data/shipsets/protoss/darkshrine_normal.png
+	Texture3: data/shipsets/protoss/darkshrine_specular.png
+	Texture6: data/shipsets/protoss/darkshrine_emissive.png
