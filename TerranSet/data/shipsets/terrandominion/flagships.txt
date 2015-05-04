@@ -1,0 +1,99 @@
+Hull: Battlecruiser
+	Name: Minotaur-class Battlecruiser
+	Background: Battlecruiser
+	BackgroundScale: 1.25
+	Material: Battlecruiser
+	Model: Battlecruiser
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: BCHurricane
+	Name: Hurricane-class Battlecruiser
+	Background: BCHurricane
+	BackgroundScale: 1.25
+	Material: BCHurricane
+	Model: BCHurricane
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: BCHyperion
+	Name: Behemoth-class Battlecruiser
+	Background: BCHyperion
+	BackgroundScale: 1.25
+	Material: BCHyperion
+	Model: BCHyperion
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: BCLoki
+	Name: Loki-class Battlecruiser
+	Background: BCLoki
+	BackgroundScale: 1.15
+	Material: BCLoki
+	Model: BCLoki
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: BCYamato
+	Name: Yamato-class Battlecruiser
+	Background: BCYamato
+	BackgroundScale: 1.15
+	Material: BCYamato
+	Model: BCYamato
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TrainEngine
+	Name: Train Engine
+	Background: Train
+	BackgroundScale: 1.2
+	Material: Train
+	Model: TrainEngine
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TrainCar
+	Name: Train Car
+	Background: Train
+	BackgroundScale: 1.2
+	Material: Train
+	Model: TrainCar
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Raven
+	Name: Raven
+	Background: Raven
+	BackgroundScale: 1.2
+	Material: Raven
+	Model: Raven
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: ScienceVessel
+	Name: Science Vessel
+	Background: ScienceVessel
+	BackgroundScale: 1.2
+	Material: ScienceVessel
+	Model: ScienceVessel
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Valkyrie
+	Name: Valkyrie
+	Background: Valkyrie
+	BackgroundScale: 1.2
+	Material: Valkyrie
+	Model: Valkyrie
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
