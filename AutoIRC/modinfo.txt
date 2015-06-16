@@ -1,0 +1,6 @@
+	Name: AutoIRC
+	Description: <<
+		Adds a new option under Options/Game.
+
+		When toggled on, 'Automatically Connect to IRC' will instruct the game to, as the name says, connect to the IRC (as if you pressed the 'Open IRC Chat' button in the main menu) whenever the game is started.
+	>>
