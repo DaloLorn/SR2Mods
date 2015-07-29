@@ -148,7 +148,8 @@ class ModsMenu : MenuBox, IInputDialogCallback {
 
 	void editMod(const string& modName) {
 		array<string> mods;
-		mods.insertLast("ABEM Modding Toolkit");
+		if(modName != "ABEM Modding Toolkit")
+			mods.insertLast("ABEM Modding Toolkit");
 		mods.insertLast(modName);
 
 		GameSettings settings;
