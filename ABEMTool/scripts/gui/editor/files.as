@@ -142,7 +142,7 @@ class FileFolder : BaseGuiElement {
 
 		FileList list(folder, "*", false, resolve);
 		for(uint i = 0, cnt = list.length; i < cnt; ++i) {
-			if(list.isDirectory[i]) {
+			if(list.isDirectory[i] && list.basename[i] != ".git") {
 				FileFolder elem(this, recti());
 				elem.load(path_join(fullPath, list.basename[i]), path_join(basePath, list.basename[i]), resolve=resolve, extension=extension);
 				elem.heading.visible = true;
