@@ -33,12 +33,14 @@
 				{
 					"name": "Trader Emergency Coalition",
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "TECSet"
+					"branch": "master",
+					"modName": "Trader Emergency Coalition"
 				},
 				{
 					"name": "Koprulu Navy",
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "TerranSet",
+					"branch": "master",
+					"modName": "Koprulu Navy"
 				}
 			]
 		}
@@ -51,13 +53,13 @@
 				{
 					"name": "Unity of the Advent",
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "All-Mods",
+					"branch": "master",
 					"modName": "Unity of the Advent"
 				},
 				{
 					"name": "The Firstborn",
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "All-Mods",
+					"branch": "master",
 					"modName": "The Firstborn"
 				}
 			]
