@@ -1,0 +1,43 @@
+Material: GoauldTemplate
+	Texture2: data/shipsets/Goauld/normal.png
+	Texture4: data/shipsets/Goauld/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Goauld/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: NewHatak
+	Inherit: GoauldTemplate
+	Texture: data/shipsets/Goauld/NewHatak.png
+	Texture3: data/shipsets/Goauld/NewHatak.png
+	
+Material: OldHatak
+	Inherit: GoauldTemplate
+	Texture: data/shipsets/Goauld/OldHatak.png
+	Texture2: data/shipsets/Goauld/OldHatak_normal.png
+	Texture3: data/shipsets/Goauld/OldHatak.png
+	
+Material: ApophisHatak
+	Inherit: GoauldTemplate
+	Texture: data/shipsets/Goauld/ApophisHatak.png
+	Texture2: data/shipsets/Goauld/ApophisHatak_normal.png
+	Texture3: data/shipsets/Goauld/ApophisHatak.png
+	
+Material: PyramidShip
+	Inherit: GoauldTemplate
+	Texture: data/shipsets/Goauld/PyramidShip.png
+	Texture2: data/shipsets/Goauld/PyramidShip_normal.png
+	Texture3: data/shipsets/Goauld/PyramidShip.png
+
+Material: SuperHatak
+	Inherit: GoauldTemplate
+	Texture: data/shipsets/Goauld/SuperHatak.png
+	Texture2: data/shipsets/Goauld/SuperHatak_normal.png
+	Texture3: data/shipsets/Goauld/SuperHatak.png
+
+Material: GoauldStation
+	Inherit: GoauldTemplate
+	Texture: data/shipsets/Goauld/Station.png
+	Texture2: data/shipsets/Goauld/Station_normal.png
+	Texture3: data/shipsets/Goauld/Station.png
+	Shininess: 20

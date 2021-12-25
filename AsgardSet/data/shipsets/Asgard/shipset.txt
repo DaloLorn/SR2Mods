@@ -1,0 +1,13 @@
+Shipset: Asgard
+	Name: Asgard
+	Available: Yes
+	
+	Hull: AsgardONeill
+	Hull: AsgardDanielJackson
+	Hull: AsgardBeliskner
+	
+	Hull: AsgardShipyard
+	
+	Hull: SAsgardBeliskner
+	Hull: SAsgardDanielJackson
+	Hull: SAsgardONeill

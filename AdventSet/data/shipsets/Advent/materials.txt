@@ -1,0 +1,72 @@
+Material: AdventTemplate
+	Texture2: data/shipsets/Advent/normal.png
+	Texture4: data/shipsets/Advent/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Advent/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: AdventDefense
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/DefenseVessel.png
+	Texture3: data/shipsets/Advent/DefenseVessel.png
+
+Material: AdventDestra
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Destra.png
+	Texture3: data/shipsets/Advent/Destra.png
+
+Material: AdventDisciple
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/DiscipleVessel.png
+	Texture3: data/shipsets/Advent/DiscipleVessel.png
+
+Material: AdventDomina
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Domina.png
+	Texture3: data/shipsets/Advent/Domina.png
+
+Material: AdventEradica
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Eradica.png
+	Texture3: data/shipsets/Advent/Eradica.png
+
+Material: AdventFreighter
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Freighter.png
+	Texture3: data/shipsets/Advent/Freighter.png
+
+Material: AdventHalcyon
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Halcyon.png
+	Texture3: data/shipsets/Advent/Halcyon.png
+
+Material: AdventIlluminator
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Illuminator.png
+	Texture3: data/shipsets/Advent/Illuminator.png
+
+Material: AdventProgenitor
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Progenitor.png
+	Texture3: data/shipsets/Advent/Progenitor.png
+
+Material: AdventRadiance
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Radiance.png
+	Texture3: data/shipsets/Advent/Radiance.png
+
+Material: AdventRapture
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Rapture.png
+	Texture3: data/shipsets/Advent/Rapture.png
+
+Material: AdventSeeker
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/SeekerVessel.png
+	Texture3: data/shipsets/Advent/SeekerVessel.png
+
+Material: AdventTranscencia
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Transcencia.png
+	Texture3: data/shipsets/Advent/Transcencia.png

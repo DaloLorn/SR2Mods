@@ -1,0 +1,27 @@
+Material: WraithTemplate
+	Texture4: data/shipsets/Wraith/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Wraith/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: WraithCruiser
+	Inherit: WraithTemplate
+	Texture: data/shipsets/Wraith/Cruiser.png
+	Texture2: data/shipsets/Wraith/Cruiser_normal.png
+	Texture3: data/shipsets/Wraith/Cruiser.png
+	
+Material: WraithHive
+	Inherit: WraithTemplate
+	Texture: data/shipsets/Wraith/Hive.png
+	Texture2: data/shipsets/Wraith/Hive_normal.png
+	Texture3: data/shipsets/Wraith/Hive.png
+
+Material: WraithLab
+	Inherit: WraithTemplate
+	Texture: data/shipsets/Wraith/Lab.png
+	Texture2: data/shipsets/Wraith/Lab_normal.png
+	Texture3: data/shipsets/Wraith/Lab.png
+	
+Material: WraithStation
+	Inherit: WraithHive

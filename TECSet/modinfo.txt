@@ -1,0 +1,5 @@
+	Name: Trader Emergency Coalition
+	Description: <<
+		A TEC (Sins of a Solar Empire faction) shipset ported from Space Empires 5. All graphics originally ported from Sins of a Solar Empire (or created - but the naming scheme indicates otherwise) by Prometeu from spaceempires.net. WARNING: This shipset does not have any default designs, so other shipsets' designs will be automatically substituted by the game. This, in and of itself, is not a big deal - but if you're using this with Exa's Wars, make sure all players are using my shipsets or use 'Disable Starting Fleets'. This is to prevent double-dipping caused by the interaction of the game's "load other shipsets" function and Exa's custom-named designs.
+
+	>>

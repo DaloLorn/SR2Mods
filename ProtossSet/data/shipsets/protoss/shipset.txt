@@ -1,0 +1,220 @@
+Shipset: Protoss
+	Name: Protoss
+	Available: Yes
+
+	Hull: Carrier
+	Hull: NerazimCarrier
+	Hull: DarkCarrier
+	Hull: Arbiter
+	Hull: DarkArbiter
+	Hull: Arbiter2
+	Hull: CarrierBW
+	Hull: DarkCarrierBW
+	Hull: BWProbe
+	Hull: Interceptor
+	Hull: DarkInterceptor
+	Hull: Mothership
+	Hull: DarkMothership
+	Hull: MothershipCore
+	Hull: Observer
+	Hull: Oracle
+	Hull: PhotonSphere
+	Hull: DarkPhotonSphere
+	Hull: Probe
+	Hull: ProtossFrigate
+	Hull: Sentry
+	Hull: Shuttle
+	Hull: DarkShuttle
+	Hull: VoidRay
+	Hull: WarpRay
+	Hull: DarkVoidRay
+	Hull: Mohandar
+	Hull: VoidSeeker
+	Hull: TemplarArchive
+	Hull: DarkArchive
+	Hull: Tempest
+
+	Hull: Nexus
+	Hull: Motherstation
+	Hull: DarkMotherstation
+	Hull: MotherstationCore
+	Hull: DarkNexus
+	Hull: DarkShrine
+
+	Hull: SInterceptor
+	Hull: SCarrier
+	Hull: SNerazimCarrier
+	Hull: SDarkCarrier
+	Hull: SArbiter
+	Hull: SDarkArbiter
+	Hull: SArbiter2
+	Hull: SCarrierBW
+	Hull: SDarkCarrierBW
+	Hull: SBWProbe
+	Hull: SDarkInterceptor
+	Hull: SMothership
+	Hull: SDarkMothership
+	Hull: SMothershipCore
+	Hull: SObserver
+	Hull: SOracle
+	Hull: SPhotonSphere
+	Hull: SDarkPhotonSphere
+	Hull: SProbe
+	Hull: SProtossFrigate
+	Hull: SSentry
+	Hull: SShuttle
+	Hull: SDarkShuttle
+	Hull: SVoidRay
+	Hull: SWarpRay
+	Hull: SDarkVoidRay
+	Hull: SMohandar
+	Hull: SVoidSeeker
+	Hull: STemplarArchive
+	Hull: SDarkArchive
+	Hull: STempest
+
+
+Shipset: Nerazim
+	Name: Nerazim
+	Available: Yes
+
+	Hull: VoidRay
+	Hull: NerazimCarrier
+	Hull: Oracle
+	Hull: Mohandar
+	Hull: VoidSeeker
+
+	Hull: DarkShrine
+
+	Hull: SOracle
+	Hull: SNerazimCarrier
+	Hull: SVoidRay
+	Hull: SMohandar
+	Hull: SVoidSeeker
+
+
+Shipset: Daelaam
+	Name: Daelaam
+	Available: Yes
+
+	Hull: Carrier
+	Hull: NerazimCarrier
+	Hull: Arbiter
+	Hull: Arbiter2
+	Hull: CarrierBW
+	Hull: BWProbe
+	Hull: Interceptor
+	Hull: Mothership
+	Hull: MothershipCore
+	Hull: Observer
+	Hull: Oracle
+	Hull: PhotonSphere
+	Hull: Probe
+	Hull: ProtossFrigate
+	Hull: Sentry
+	Hull: Shuttle
+	Hull: VoidRay
+	Hull: WarpRay
+	Hull: Mohandar
+	Hull: VoidSeeker
+	Hull: TemplarArchive
+	Hull: Tempest
+
+	Hull: Nexus
+	Hull: Motherstation
+	Hull: MotherstationCore
+	Hull: DarkShrine
+
+	Hull: SInterceptor
+	Hull: SCarrier
+	Hull: SNerazimCarrier
+	Hull: SArbiter
+	Hull: SArbiter2
+	Hull: SCarrierBW
+	Hull: SBWProbe
+	Hull: SMothership
+	Hull: SMothershipCore
+	Hull: SObserver
+	Hull: SOracle
+	Hull: SPhotonSphere
+	Hull: SProbe
+	Hull: SProtossFrigate
+	Hull: SSentry
+	Hull: SShuttle
+	Hull: SVoidRay
+	Hull: SWarpRay
+	Hull: SMohandar
+	Hull: SVoidSeeker
+	Hull: STemplarArchive
+	Hull: STempest
+
+Shipset: Aiur
+	Name: Khalai
+	Available: Yes
+
+	Hull: Carrier
+	Hull: Arbiter
+	Hull: Arbiter2
+	Hull: CarrierBW
+	Hull: BWProbe
+	Hull: Interceptor
+	Hull: Mothership
+	Hull: MothershipCore
+	Hull: Observer
+	Hull: PhotonSphere
+	Hull: Probe
+	Hull: ProtossFrigate
+	Hull: Sentry
+	Hull: Shuttle
+	Hull: WarpRay
+	Hull: TemplarArchive
+	Hull: Tempest
+
+	Hull: Nexus
+	Hull: Motherstation
+	Hull: MotherstationCore
+
+	Hull: SInterceptor
+	Hull: SCarrier
+	Hull: SArbiter
+	Hull: SArbiter2
+	Hull: SCarrierBW
+	Hull: SBWProbe
+	Hull: SMothership
+	Hull: SMothershipCore
+	Hull: SObserver
+	Hull: SPhotonSphere
+	Hull: SProbe
+	Hull: SProtossFrigate
+	Hull: SSentry
+	Hull: SShuttle
+	Hull: SWarpRay
+	Hull: STemplarArchive
+	Hull: STempest
+
+Shipset: Tal'Darim
+	Name: Tal'Darim
+	Available: Yes
+
+	Hull: DarkCarrier
+	Hull: DarkArbiter
+	Hull: DarkCarrierBW
+	Hull: DarkInterceptor
+	Hull: DarkMothership
+	Hull: DarkPhotonSphere
+	Hull: DarkShuttle
+	Hull: DarkVoidRay
+	Hull: DarkArchive
+
+	Hull: DarkNexus
+	Hull: DarkMotherstation
+
+	Hull: SDarkInterceptor
+	Hull: SDarkCarrier
+	Hull: SDarkArbiter
+	Hull: SDarkCarrierBW
+	Hull: SDarkMothership
+	Hull: SDarkPhotonSphere
+	Hull: SDarkShuttle
+	Hull: SDarkVoidRay
+	Hull: SDarkArchive

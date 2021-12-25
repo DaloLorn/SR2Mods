@@ -1,0 +1,78 @@
+Material: TerranTemplate
+	Texture4: data/shipsets/terrandominion/gloss.png
+	Texture5: data/images/skybox.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: Battlecruiser
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/battlecruiser_diffuse.png
+	Texture2: data/shipsets/terrandominion/battlecruiser_normal.png
+	Texture3: data/shipsets/terrandominion/battlecruiser_specular.png
+	Texture6: data/shipsets/terrandominion/battlecruiser_emissive.png
+
+Material: BCHurricane
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/hurricane_diffuse.png
+	Texture2: data/shipsets/terrandominion/hurricane_normal.png
+	Texture3: data/shipsets/terrandominion/hurricane_specular.png
+	Texture6: data/shipsets/terrandominion/hurricane_emissive.png
+
+Material: BCHyperion
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/hyperbc_diffuse.png
+	Texture2: data/shipsets/terrandominion/hyperbc_normal.png
+	Texture3: data/shipsets/terrandominion/hyperbc_specular.png
+	Texture6: data/shipsets/terrandominion/hyperbc_emissive.png
+
+Material: BCLoki
+	Inherit: Battlecruiser
+
+Material: BCYamato
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/yamato_diffuse.png
+	Texture2: data/shipsets/terrandominion/hurricane_normal.png
+	Texture3: data/shipsets/terrandominion/yamato_specular.png
+	Texture6: data/shipsets/terrandominion/yamato_emissive.png
+
+Material: Train
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/freightcar_diffuse.png
+	Texture2: data/shipsets/terrandominion/freightcar_normal.png
+	Texture3: data/shipsets/terrandominion/freightcar_diffuse.png
+	Texture6: data/shipsets/terrandominion/freightcar_emissive.png
+
+Material: Raven
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/raven_diffuse.png
+	Texture2: data/shipsets/terrandominion/raven_normal.png
+	Texture3: data/shipsets/terrandominion/raven_specular.png
+	Texture6: data/shipsets/terrandominion/raven_emissive.png
+
+Material: ScienceVessel
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/sciencevessel_diffuse.png
+	Texture2: data/shipsets/terrandominion/sciencevessel_normal.png
+	Texture3: data/shipsets/terrandominion/sciencevessel_diffuse.png
+	Texture6: data/shipsets/terrandominion/sciencevessel_emissive.png
+
+Material: SpaceTower
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/spacetower_diffuse.png
+	Texture2: data/shipsets/terrandominion/spacetower_normal.png
+	Texture3: data/shipsets/terrandominion/spacetower_specular.png
+	Texture6: data/shipsets/terrandominion/spacetower_emissive.png
+
+Material: ValerianStation
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/mengskstation_diffuse.png
+	Texture2: data/shipsets/terrandominion/mengskstation_normal.png
+	Texture3: data/shipsets/terrandominion/mengskstation_specular.png
+	Texture6: data/shipsets/terrandominion/mengskstation_emissive.png
+
+Material: Valkyrie
+	Inherit: TerranTemplate
+	Texture: data/shipsets/terrandominion/valkyrie_diffuse.png
+	Texture2: data/shipsets/terrandominion/valkyrie_normal.png
+	Texture3: data/shipsets/terrandominion/valkyrie_specular.png
+	Texture6: data/shipsets/terrandominion/gloss.png

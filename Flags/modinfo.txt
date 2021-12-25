@@ -1,0 +1,29 @@
+	Name: Dalo's Flag Extension
+	Description: <<
+		I've had these flags lying around since before the Workshop integration, I just never got around to uploading it.
+
+		Adds 9 flags from various science fiction:[list]
+		[*]Stargate:[list]
+		[*]Anubis' symbol (scale is wrong, nothing I can do about it)
+		[*]Apophis' symbol (scale may be wrong too - the game only takes square images and resizes others accordingly)
+		[*]Earth point of origin (Tau'ri symbol)
+		[/list]
+		[*]Star Trek:[list]
+		[*]Klingon Empire (minor rescaling)
+		[*]Romulan Star Empire (minor rescaling, I think)
+		[*]United Federation of Planets (minor rescaling, I think)
+		[/list]
+		[*]Star Wars:[list]
+		[*]Galactic Empire
+		[*]Rebel Alliance (minor rescaling, I think)
+		[/list]
+		[*]Homeworld (No, I do not have the games. No, I cannot port its shipsets without the proper assets. A friend of mine linked to the image when we were coming up with ideas for this mod, and I went with it.):[list]
+		[*]Hiigarans
+		[/list]
+		[/list]
+
+
+		DISCLAIMER: I did not make any of the source images. I took them from the Stargate, Star Wars, Star Trek and Homeworld wikis, resized as needed, and did a bit of grayscaling and bumpmapping to match the game's flags from the period these were made in. I'm actually surprised I'm the first one to publish a flag addon...
+
+		Namespaces occupied (mostly here to help other modders avoid conflicts): ANUBIS, APOPHIS, EMPIRE, HIIGARA, KDF, REBEL, RSE, TAURI, UFP. I might remake the flags some time, now that the game's flag style changed...
+	>>

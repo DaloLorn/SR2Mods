@@ -1,0 +1,47 @@
+Model: ValerianStation
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/ValerianStation.obj
+
+Model: Valkyrie
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/Valkyrie.obj
+
+Model: Battlecruiser
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/Battlecruiser.obj
+
+Model: BCHurricane
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/BattlecruiserHurricane.obj
+
+Model: BCHyperion
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/BattlecruiserHyperion.obj
+
+Model: BCLoki
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/BattlecruiserLoki.obj
+
+Model: BCYamato
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/BCyamato.obj
+
+Model: TrainEngine
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/Engine.obj
+
+Model: TrainCar
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/FreightCar.obj
+
+Model: Raven
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/Raven.obj
+
+Model: ScienceVessel
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/ScienceVessel.obj
+
+Model: SpaceTower
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/spacetower.obj

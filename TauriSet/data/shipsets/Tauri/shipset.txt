@@ -1,0 +1,11 @@
+Shipset: Tauri
+	Name: Tau'ri
+	Available: Yes
+	
+	Hull: BC304
+	Hull: BC303
+	
+	Hull: TauriMidway
+	
+	Hull: SBC303
+	Hull: SBC304

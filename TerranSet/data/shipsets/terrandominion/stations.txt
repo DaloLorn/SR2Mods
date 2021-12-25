@@ -1,0 +1,29 @@
+Hull: ScienceStation
+	Name: Science Vessel
+	Background: ScienceVessel
+	BackgroundScale: 1.2
+	Material: ScienceVessel
+	Model: ScienceVessel
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+Hull: SpaceTower
+	Name: Ordnance Tower
+	Background: SpaceTower
+	BackgroundScale: 1.1
+	Material: SpaceTower
+	Model: SpaceTower
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+Hull: ValerianStation
+	Name: Mengsk-type Station
+	Background: ValerianStation
+	BackgroundScale: 1
+	Material: ValerianStation
+	Model: ValerianStation
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station

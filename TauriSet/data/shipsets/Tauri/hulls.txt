@@ -1,0 +1,51 @@
+Hull: BC303
+	Name: BC-303
+	Background: BC303
+	BackgroundScale: 1.0
+	Material: BC303
+	Model: BC303
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+	
+Hull: BC304
+	Name: BC-304
+	Background: BC304
+	BackgroundScale: 1.2
+	Material: BC304
+	Model: BC304
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+// STATIONS	
+
+Hull: TauriMidway
+	Name: Midway Station
+	Background: TauriMidway
+	BackgroundScale: 1.0
+	Material: TauriMidway
+	Model: TauriMidway
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
+// SUPPORTS
+
+Hull: SBC303
+	Name: BC-303
+	Background: BC303
+	BackgroundScale: 1.0
+	Material: BC303
+	Model: BC303
+	Subsystem: SupportHull
+	Tags: Support
+	
+Hull: SBC304
+	Name: BC-304
+	Background: BC304
+	BackgroundScale: 1.2
+	Material: BC304
+	Model: BC304
+	Subsystem: SupportHull
+	Tags: Support

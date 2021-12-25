@@ -1,0 +1,15 @@
+Model: AsgardBeliskner
+	Tangents: on
+	Mesh: data/shipsets/Asgard/Beliskner.obj
+	
+Model: AsgardDanielJackson
+	Tangents: on
+	Mesh: data/shipsets/Asgard/DanielJackson.obj
+
+Model: AsgardONeill
+	Tangents: on
+	Mesh: data/shipsets/Asgard/ONeill.obj
+
+Model: AsgardShipyard
+	Tangents: on
+	Mesh: data/shipsets/Asgard/Shipyard.obj

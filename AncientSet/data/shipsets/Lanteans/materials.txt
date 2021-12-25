@@ -1,0 +1,30 @@
+Material: AncientTemplate
+	Texture4: data/shipsets/Lanteans/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Lanteans/gloss.png
+	Shader: SupportShip
+	Shininess: 12
+
+Material: AncientCorvette
+	Inherit: AncientTemplate
+	Texture: data/shipsets/Lanteans/Corvette.png
+	Texture2: data/shipsets/Lanteans/Corvette_normal.png
+	Texture3: data/shipsets/Lanteans/Corvette.png
+	
+Material: AncientCruiser
+	Inherit: AncientTemplate
+	Texture: data/shipsets/Lanteans/Cruiser.png
+	Texture2: data/shipsets/Lanteans/Cruiser_normal.png
+	Texture3: data/shipsets/Lanteans/Cruiser.png
+	
+Material: AncientWarship
+	Inherit: AncientTemplate
+	Texture: data/shipsets/Lanteans/Warship.png
+	Texture2: data/shipsets/Lanteans/Warship_normal.png
+	Texture3: data/shipsets/Lanteans/Warship.png
+	
+Material: AncientSatellite
+	Inherit: AncientTemplate
+	Texture: data/shipsets/Lanteans/Satellite.png
+	Texture2: data/shipsets/Lanteans/Satellite_normal.png
+	Texture3: data/shipsets/Lanteans/Satellite.png

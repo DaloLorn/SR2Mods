@@ -1,0 +1,311 @@
+Hull: Carrier
+	Name: Carrier
+	Background: Carrier
+	BackgroundScale: 1.35
+	Material: Carrier
+	Model: Carrier
+	Subsystem: FlagshipHull
+	MinSize: 16
+
+	Tags: Flagship
+
+Hull: DarkCarrier
+	Name: Tal'Darim Carrier
+	Background: DarkCarrier
+	BackgroundScale: 1.35
+	Material: DarkCarrier
+	Model: Carrier
+	Subsystem: FlagshipHull
+	MinSize: 16
+
+	Tags: Flagship
+
+Hull: NerazimCarrier
+	Name: Nerazim Carrier
+	Background: NerazimCarrier
+	BackgroundScale: 1.35
+	Material: NerazimCarrier
+	Model: Carrier
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Arbiter
+	Name: Arbiter
+	Background: Arbiter
+	BackgroundScale: 1.3
+	Material: Arbiter
+	Model: Arbiter
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkArbiter
+	Name: Tal'Darim Arbiter
+	Background: DarkArbiter
+	BackgroundScale: 1.3
+	Material: DarkArbiter
+	Model: Arbiter
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Arbiter2
+	Name: Danimoth-type Arbiter
+	Background: Arbiter2
+	BackgroundScale: 1.3
+	Material: Arbiter2
+	Model: Arbiter2
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: CarrierBW
+	Name: Supercarrier
+	Background: CarrierBW
+	BackgroundScale: 1.2
+	Material: CarrierBW
+	Model: CarrierBW
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkCarrierBW
+	Name: Tal'Darim Supercarrier
+	Background: DarkCarrierBW
+	BackgroundScale: 1.2
+	Material: DarkCarrierBW
+	Model: CarrierBW
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: BWProbe
+	Name: Early Probe
+	Background: BWProbe
+	BackgroundScale: 1.3
+	Material: BWProbe
+	Model: BWProbe
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Interceptor
+	Name: Interceptor
+	Background: Interceptor
+	BackgroundScale: 1.3
+	Material: Interceptor
+	Model: Interceptor
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkInterceptor
+	Name: Tal'Darim Interceptor
+	Background: DarkInterceptor
+	BackgroundScale: 1.3
+	Material: DarkInterceptor
+	Model: Interceptor
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Mothership
+	Name: Mothership
+	Background: Mothership
+	BackgroundScale: 0.8
+	Material: Mothership
+	Model: Mothership
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkMothership
+	Name: Tal'Darim Mothership
+	Background: DarkMothership
+	BackgroundScale: 0.8
+	Material: DarkMothership
+	Model: Mothership
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: MothershipCore
+	Name: Mothership Core
+	Background: MothershipCore
+	BackgroundScale: 1.3
+	Material: MothershipCore
+	Model: MothershipCore
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Observer
+	Name: Observer
+	Background: Observer
+	BackgroundScale: 1.4
+	Material: Observer
+	Model: Observer
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Oracle
+	Name: Oracle
+	Background: Oracle
+	BackgroundScale: 1.3
+	Material: Oracle
+	Model: Oracle
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PhotonSphere
+	Name: Photon Sphere
+	Background: PhotonSphere
+	BackgroundScale: 1.4
+	Material: PhotonSphere
+	Model: PhotonSphere
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkPhotonSphere
+	Name: Tal'Darim Photon Sphere
+	Background: DarkPhotonSphere
+	BackgroundScale: 1.4
+	Material: DarkPhotonSphere
+	Model: PhotonSphere
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Probe
+	Name: Probe
+	Background: Probe
+	BackgroundScale: 1.3
+	Material: Probe
+	Model: Probe
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: ProtossFrigate
+	Name: Evacuation Transport
+	Background: ProtossFrigate
+	BackgroundScale: 1
+	Material: ProtossFrigate
+	Model: ProtossFrigate
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Sentry
+	Name: Sentry
+	Background: Sentry
+	BackgroundScale: 1.2
+	Material: Sentry
+	Model: Sentry
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Shuttle
+	Name: Shuttle
+	Background: Shuttle
+	BackgroundScale: 1.2
+	Material: Shuttle
+	Model: Shuttle
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkShuttle
+	Name: Tal'Darim Shuttle
+	Background: DarkShuttle
+	BackgroundScale: 1.2
+	Material: DarkShuttle
+	Model: Shuttle
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidRay
+	Name: Void Ray
+	Background: VoidRay
+	BackgroundScale: 1.3
+	Material: VoidRay
+	Model: VoidRay
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: WarpRay
+	Name: Warp Ray
+	Background: WarpRay
+	BackgroundScale: 1.3
+	Material: WarpRay
+	Model: VoidRay
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkVoidRay
+	Name: Tal'Darim Warp Ray
+	Background: DarkVoidRay
+	BackgroundScale: 1.3
+	Material: DarkVoidRay
+	Model: VoidRay
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Mohandar
+	Name: Mohandar-type Void Ray
+	Background: Mohandar
+	BackgroundScale: 1.3
+	Material: Mohandar
+	Model: Mohandar
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidSeeker
+	Name: Void Seeker
+	Background: VoidSeeker
+	BackgroundScale: 1.2
+	Material: VoidSeeker
+	Model: VoidSeeker
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TemplarArchive
+	Name: Templar Battleship
+	Background: TemplarArchive
+	BackgroundScale: 1.2
+	Material: TemplarArchive
+	Model: TemplarArchive
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkArchive
+	Name: Tal'Darim Battleship
+	Background: DarkArchive
+	BackgroundScale: 1.2
+	Material: DarkArchive
+	Model: TemplarArchive
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Tempest
+	Name: Tempest
+	Background: Tempest
+	BackgroundScale: 1.1
+	Material: Tempest
+	Model: Tempest
+	Subsystems: FlagshipHull
+	MinSize: 16
+	Tags: Flagship

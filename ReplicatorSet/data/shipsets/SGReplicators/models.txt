@@ -1,0 +1,27 @@
+Model: SGReplicatorBattlecruiser
+	Tangents: on
+	Mesh: data/shipsets/SGReplicators/Battlecruiser.obj
+
+Model: SGReplicatorBattleship
+	Tangents: on
+	Mesh: data/shipsets/SGReplicators/Battleship.obj
+
+Model: SGReplicatorCorvette
+	Tangents: on
+	Mesh: data/shipsets/SGReplicators/Corvette.obj
+
+Model: SGReplicatorFrigate
+	Tangents: on
+	Mesh: data/shipsets/SGReplicators/Frigate.obj
+
+Model: SGReplicatorScout
+	Tangents: on
+	Mesh: data/shipsets/SGReplicators/Scout.obj
+
+Model: SGReplicatorSpider
+	Tangents: on
+	Mesh: data/shipsets/SGReplicators/Spider.obj
+
+Model: SGReplicatorStation
+	Tangents: on
+	Mesh: data/shipsets/SGReplicators/Station.obj

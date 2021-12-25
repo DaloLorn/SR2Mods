@@ -1,0 +1,29 @@
+Shipset: TerranDominion
+	Name: Dominion
+	Available: Yes
+
+	Hull: BCHyperion
+	Hull: Battlecruiser
+	Hull: BCHurricane
+	Hull: BCLoki
+	Hull: BCYamato
+	Hull: TrainEngine
+	Hull: TrainCar
+	Hull: Raven
+	Hull: ScienceVessel
+	Hull: Valkyrie
+
+	Hull: ScienceStation
+	Hull: SpaceTower
+	Hull: ValerianStation
+
+	Hull: SBattlecruiser
+	Hull: SBCHyperion
+	Hull: SBCHurricane
+	Hull: SBCLoki
+	Hull: SBCYamato
+	Hull: STrainEngine
+	Hull: STrainCar
+	Hull: SRaven
+	Hull: SScienceVessel
+	Hull: SValkyrie

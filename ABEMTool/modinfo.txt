@@ -1,0 +1,7 @@
+	Name: ABEM Modding Toolkit
+	Description: <<
+		A modified version of the mod editor adapted for the new options in the Alternate Balance Expansion Mod (currently compatible with the 0.4.0 beta). Also contains a few convenience tweaks and bug fixes, namely these:
+
+		[list][*]Editing the size of artifacts will no longer cause an invalid key to be printed into artifacts. (Changed the 'Physical Size' field to 'Size' to match the artifact loading scripts.)
+		[*]The editor will no longer spend somewhere between 5 and 30 seconds trying to index the contents of Git repositories every time it opens the Overview tab.[/list]
+	>>

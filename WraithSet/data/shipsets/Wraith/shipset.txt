@@ -1,0 +1,12 @@
+Shipset: Wraith
+	Name: Wraith
+	Available: Yes
+	
+	Hull: WraithHive
+	Hull: WraithCruiser
+	
+	Hull: WraithStation
+	Hull: WraithLab
+	
+	Hull: SWraithCruiser
+	Hull: SWraithHive

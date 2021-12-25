@@ -1,0 +1,275 @@
+Hull: AdventRadiance
+	Name: Radiance-class Battleship
+	Background: AdventRadiance
+	BackgroundScale: 1.25
+	Material: AdventRadiance
+	Model: AdventRadiance
+	Subsystem: FlagshipHull
+	Subsystem: AdventRadiance
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventDefense
+	Name: Defense Vessel
+	Background: AdventDefense
+	BackgroundScale: 1.25
+	Material: AdventDefense
+	Model: AdventDefense
+	Subsystem: FlagshipHull
+	Subsystem: AdventDefense
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventDestra
+	Name: Destra Crusader
+	Background: AdventDestra
+	BackgroundScale: 1.0
+	Material: AdventDestra
+	Model: AdventDestra
+	Subsystem: FlagshipHull
+	Subsystem: AdventDestra
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventDomina
+	Name: Domina Subjugator
+	Background: AdventDomina
+	BackgroundScale: 1.7
+	Material: AdventDomina
+	Model: AdventDomina
+	Subsystem: FlagshipHull
+	Subsystem: AdventDomina
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventDisciple
+	Name: Disciple Vessel
+	Background: AdventDisciple
+	BackgroundScale: 1.4
+	Material: AdventDisciple
+	Model: AdventDisciple
+	Subsystem: FlagshipHull
+	Subsystem: AdventDisciple
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventEradica
+	Name: Eradica-class Titan
+	Background: AdventEradica
+	BackgroundScale: 1.3
+	Material: AdventEradica
+	Model: AdventEradica
+	Subsystem: FlagshipHull
+	Subsystem: AdventEradica
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventFreighter
+	Name: Cargo Drone
+	Background: AdventFreighter
+	BackgroundScale: 1.0
+	Material: AdventFreighter
+	Model: AdventFreighter
+	Subsystem: FlagshipHull
+	Subsystem: AdventFreighter
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventHalcyon
+	Name: Halcyon-class Carrier
+	Background: AdventHalcyon
+	BackgroundScale: 1.3
+	Material: AdventHalcyon
+	Model: AdventHalcyon
+	Subsystem: FlagshipHull
+	Subsystem: AdventHalcyon
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventIlluminator
+	Name: Illuminator Vessel
+	Background: AdventIlluminator
+	BackgroundScale: 1.15
+	Material: AdventIlluminator
+	Model: AdventIlluminator
+	Subsystem: FlagshipHull
+	Subsystem: AdventIlluminator
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventProgenitor
+	Name: Progenitor Mothership
+	Background: AdventProgenitor
+	BackgroundScale: 1.3
+	Material: AdventProgenitor
+	Model: AdventProgenitor
+	Subsystem: FlagshipHull
+	Subsystem: AdventProgenitor
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventRapture
+	Name: Rapture-class Battlecruiser
+	Background: AdventRapture
+	BackgroundScale: 1.1
+	Material: AdventRapture
+	Model: AdventRapture
+	Subsystem: FlagshipHull
+	Subsystem: AdventRapture
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventSeeker
+	Name: Seeker Vessel
+	Background: AdventSeeker
+	BackgroundScale: 1.25
+	Material: AdventSeeker
+	Model: AdventSeeker
+	Subsystem: FlagshipHull
+	Subsystem: AdventSeeker
+	MinSize: 16
+	Tags: Flagship
+
+// END FLAGSHIP LIST HERE
+
+Hull: AdventTranscencia
+	Name: Transcencia-class Starbase
+	Background: AdventTranscencia
+	BackgroundScale: 1.2
+	Material: AdventTranscencia
+	Model: AdventTranscencia
+	Subsystem: StationHull
+	Subsystem: AdventTranscencia
+	MinSize: 16
+	Tags: Station
+
+// END STATION LIST HERE
+
+Hull: SAdventRadiance
+	Name: Radiance-class Battleship
+	Background: AdventRadiance
+	BackgroundScale: 1.25
+	Material: AdventRadiance
+	Model: AdventRadiance
+	Subsystem: SupportHull
+	Subsystem: AdventRadiance
+	
+	Tags: Support
+
+Hull: SAdventDefense
+	Name: Defense Vessel
+	Background: AdventDefense
+	BackgroundScale: 1.25
+	Material: AdventDefense
+	Model: AdventDefense
+	Subsystem: SupportHull
+	Subsystem: AdventDefense
+	
+	Tags: Support
+
+Hull: SAdventDestra
+	Name: Destra Crusader
+	Background: AdventDestra
+	BackgroundScale: 1.0
+	Material: AdventDestra
+	Model: AdventDestra
+	Subsystem: SupportHull
+	Subsystem: AdventDestra
+	Tags: Support
+
+Hull: SAdventDomina
+	Name: Domina Subjugator
+	Background: AdventDomina
+	BackgroundScale: 1.7
+	Material: AdventDomina
+	Model: AdventDomina
+	Subsystem: SupportHull
+	Subsystem: AdventDomina
+	Tags: Support
+
+Hull: SAdventDisciple
+	Name: Disciple Vessel
+	Background: AdventDisciple
+	BackgroundScale: 1.4
+	Material: AdventDisciple
+	Model: AdventDisciple
+	Subsystem: SupportHull
+	Subsystem: AdventDisciple
+
+	Tags: Support
+
+Hull: SAdventEradica
+	Name: Eradica-class Titan
+	Background: AdventEradica
+	BackgroundScale: 1.3
+	Material: AdventEradica
+	Model: AdventEradica
+	Subsystem: SupportHull
+	Subsystem: AdventEradica
+	
+	Tags: Support
+
+Hull: SAdventFreighter
+	Name: Cargo Drone
+	Background: AdventFreighter
+	BackgroundScale: 1.0
+	Material: AdventFreighter
+	Model: AdventFreighter
+	Subsystem: SupportHull
+	Subsystem: AdventFreighter
+	Tags: Support
+
+Hull: SAdventHalcyon
+	Name: Halcyon-class Carrier
+	Background: AdventHalcyon
+	BackgroundScale: 1.3
+	Material: AdventHalcyon
+	Model: AdventHalcyon
+	Subsystem: SupportHull
+	Subsystem: AdventHalcyon
+	
+	Tags: Support
+
+Hull: SAdventIlluminator
+	Name: Illuminator Vessel
+	Background: AdventIlluminator
+	BackgroundScale: 1.15
+	Material: AdventIlluminator
+	Model: AdventIlluminator
+	Subsystem: SupportHull
+	Subsystem: AdventIlluminator
+	
+	Tags: Support
+
+Hull: SAdventProgenitor
+	Name: Progenitor Mothership
+	Background: AdventProgenitor
+	BackgroundScale: 1.3
+	Material: AdventProgenitor
+	Model: AdventProgenitor
+	Subsystem: SupportHull
+	Subsystem: AdventProgenitor
+
+	Tags: Support
+
+Hull: SAdventRapture
+	Name: Rapture-class Battlecruiser
+	Background: AdventRapture
+	BackgroundScale: 1.1
+	Material: AdventRapture
+	Model: AdventRapture
+	Subsystem: SupportHull
+	Subsystem: AdventRapture
+	
+	Tags: Support
+
+Hull: SAdventSeeker
+	Name: Seeker Vessel
+	Background: AdventSeeker
+	BackgroundScale: 1.25
+	Material: AdventSeeker
+	Model: AdventSeeker
+	Subsystem: SupportHull
+	Subsystem: AdventSeeker
+	
+	Tags: Support

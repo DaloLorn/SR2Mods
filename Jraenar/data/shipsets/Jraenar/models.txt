@@ -1,0 +1,59 @@
+Model: JraenarBattleship
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Battleship.obj
+
+Model: JraenarCarrier
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Carrier.obj
+
+Model: JraenarColony
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Colony.obj
+
+Model: JraenarCruiser
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Cruiser.obj
+
+Model: JraenarDestroyer
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Destroyer.obj
+
+Model: JraenarDreadnought
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Dreadnought.obj
+
+Model: JraenarFighter
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Fighter.obj
+
+Model: JraenarFreighter
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Freighter.obj
+
+Model: JraenarFrigate
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Frigate.obj
+
+Model: JraenarLightCruiser
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/LightCruiser.obj
+
+Model: JraenarMine
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Mine.obj
+
+Model: JraenarSatellite
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Satellite.obj
+
+Model: JraenarStarbase
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Starbase.obj
+
+Model: JraenarStation
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Station.obj
+
+Model: JraenarTroop
+	Tangents: on
+	Mesh: data/shipsets/Jraenar/Troop.obj

@@ -1,0 +1,27 @@
+Model: NewHatak
+	Tangents: on
+	Mesh: data/shipsets/Goauld/NewHatak.obj
+	
+Model: OldHatak
+	Tangents: on
+	Mesh: data/shipsets/Goauld/OldHatak.obj
+	
+Model: ApophisHatak
+	Tangents: on
+	Mesh: data/shipsets/Goauld/ApophisHatak.obj
+	
+Model: PyramidShip
+	Tangents: on
+	Mesh: data/shipsets/Goauld/PyramidShip.obj
+
+Model: SuperHatak
+	Tangents: on
+	Mesh: data/shipsets/Goauld/SuperHatak.obj
+
+Model: GoauldSuperweapon
+	Tangents: on
+	Mesh: data/shipsets/Goauld/Superweapon.obj
+
+Model: GoauldStation
+	Tangents: on
+	Mesh: data/shipsets/Goauld/Station.obj

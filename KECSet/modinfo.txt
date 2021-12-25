@@ -1,0 +1,7 @@
+	Name: Koprulu Emergency Coalition
+	Description: <<
+		Combines the TEC and Dominion shipsets into one superset. Probably not needed by anyone except roleplayers (if even them), but I thought it might be a nice idea.
+
+		WARNING: The assets required for this shipset to function are located within the 'Koprulu Navy' and 'Trader Emergency Coalition' addons. Without both of them installed and enabled, this shipset will not function!
+
+	>>
