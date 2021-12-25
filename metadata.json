@@ -1,0 +1,87 @@
+{
+	"mods": {
+		"[OBSOLETE] ABEM Modding Toolkit": {
+			"rootFolder": "ABEMTool"
+		},
+		"Unity of the Advent": {
+			"rootFolder": "AdventSet"
+		},
+		"Lantean Society": {
+			"rootFolder": "AncientSet"
+		},
+		"Asgard Empire": {
+			"rootFolder": "AsgardSet"
+		},
+		"[OBSOLETE] AutoIRC": {
+			"rootFolder": "AutoIRC"
+		},
+		"Better Particle Editor": {
+			"rootFolder": "BetterParticleEditor"
+		},
+		"Dalo's Flag Extension": {
+			"rootFolder": "Flags"
+		},
+		"System Lord Alliance": {
+			"rootFolder": "GoauldSet"
+		},
+		"Jraenar Imperium": {
+			"rootFolder": "Jraenar"
+		},
+		"Koprulu Emergency Coalition": {
+			"rootFolder": "KECSet",
+			"dependencies": [
+				{
+					"name": "Trader Emergency Coalition",
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "TECSet"
+				},
+				{
+					"name": "Koprulu Navy",
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "TerranSet",
+				}
+			]
+		}
+		"Multiple Theme Enabler": {
+			"rootFolder": "MultiTheme"
+		},
+		"Khalai Unity": {
+			"rootFolder": "ProtossAdventSet",
+			"dependencies": [
+				{
+					"name": "Unity of the Advent",
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "All-Mods",
+					"modName": "Unity of the Advent"
+				},
+				{
+					"name": "The Firstborn",
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "All-Mods",
+					"modName": "The Firstborn"
+				}
+			]
+		},
+		"The Firstborn": {
+			"rootFolder": "ProtossSet"
+		},
+		"Replicator Collective": {
+			"rootFolder": "ReplicatorSet"
+		},
+		"[OBSOLETE] Hex Limit Reverter": {
+			"rootFolder": "ShipsetReset"
+		},
+		"Trader Emergency Coalition": {
+			"rootFolder": "TECSet"
+		},
+		"Stargate Command": {
+			"rootFolder": "TauriSet"
+		},
+		"Koprulu Navy": {
+			"rootFolder": "TerranSet"
+		},
+		"Wraith Alliance": {
+			"rootFolder": "WraithSet"
+		}
+	}
+}
