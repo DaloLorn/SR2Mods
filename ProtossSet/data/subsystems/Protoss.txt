@@ -1,285 +1,278 @@
 Subsystem: ProtossCarrier
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
-	SupportHexes := 55
-	FlagshipHexes := 37
+	SupportHexes := 30
+	FlagshipHexes := 42
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossArbiter
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := -20
 	FlagshipHexes := -36
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: ProtossDanimoth
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := -20
 	FlagshipHexes := -43
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+Subsystem: ProtossGoldenArbiter
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
 	
 Subsystem: ProtossSupercarrier
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 55
 	FlagshipHexes := 103
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossBWProbe
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := -20
 	FlagshipHexes := -63
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossMothership
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 5
 	FlagshipHexes := -8
 	StationHexes := -40
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossMothercore
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 5
 	FlagshipHexes := 0
 	StationHexes := -32
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossObserver
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 0
 	FlagshipHexes := -35
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossOracle
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := -10
 	FlagshipHexes := -40
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossPhoton
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 0
 	FlagshipHexes := -28
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+Subsystem: ProtossVoidSphere
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 30
+	FlagshipHexes := 20
+	StationHexes := 0
 	
 Subsystem: ProtossProbe
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := -20
 	FlagshipHexes := -68
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossFrigate
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 50
 	FlagshipHexes := 60
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+Subsystem: ProtossVoidFrigate
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 70
+	FlagshipHexes := 80
+	StationHexes := 0
 	
 Subsystem: ProtossShuttle
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 0
 	FlagshipHexes := -8
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: ProtossVoidRay
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
-	SupportHexes := 30
-	FlagshipHexes := 47
+	SupportHexes := 15
+	FlagshipHexes := 37
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossMohandar
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 40
 	FlagshipHexes := 62
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossInterceptor
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := -20
 	FlagshipHexes := -43
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossSentry
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 5
 	FlagshipHexes := -8
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+Subsystem: ProtossEnergizer
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 15
+	FlagshipHexes := -3
+	StationHexes := 0
+
+Subsystem: ProtossHavoc
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 15
+	FlagshipHexes := 12
+	StationHexes := 0
 	
 Subsystem: ProtossArchive
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 20
 	FlagshipHexes := 12
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossTempest
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := -8
 	FlagshipHexes := -5
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+Subsystem: ProtossPurifierTempest
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 20
+	FlagshipHexes := 32
+	StationHexes := 0
+
+Subsystem: ProtossVoidTempest
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 15
+	FlagshipHexes := 25
+	StationHexes := 0
 	
 Subsystem: ProtossVoidSeeker
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 0
-	FlagshipHexes := -8
+	FlagshipHexes := -13
 	StationHexes := 0
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossNexus
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 0
 	FlagshipHexes := 0
 	StationHexes := -45
-
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
 	
 Subsystem: ProtossShrine
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
+	EvaluationOrder: -2500
 	Hull: Flagship,Support,Station
 
 	SupportHexes := 0
 	FlagshipHexes := 0
 	StationHexes := -30
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+Subsystem: ProtossStargate
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 70
+
+Subsystem: ProtossVoidgate
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 80

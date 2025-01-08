@@ -3,75 +3,210 @@ Shipset: Protoss
 	Available: Yes
 
 	Hull: Carrier
-	Hull: NerazimCarrier
 	Hull: DarkCarrier
+	Hull: NerazimCarrier
+	Hull: VoidCarrier
 	Hull: Arbiter
 	Hull: DarkArbiter
+	Hull: NerazimArbiter
 	Hull: Arbiter2
+	Hull: DarkArbiter2
+	Hull: NerazimArbiter2
+	Hull: VoidArbiter2
+	Hull: ArbiterLotV
+	Hull: NerazimArbiterLotV
 	Hull: CarrierBW
 	Hull: DarkCarrierBW
+	Hull: DarkCarrierBWNormal
+	Hull: NerazimCarrierBW
 	Hull: BWProbe
+	Hull: NerazimBWProbe
 	Hull: Interceptor
 	Hull: DarkInterceptor
+	Hull: PurifierInterceptor
+	Hull: VoidInterceptor
+	Hull: NerazimInterceptor
 	Hull: Mothership
 	Hull: DarkMothership
+	Hull: PurifierMothership
+	Hull: NerazimMothership
 	Hull: MothershipCore
+	Hull: DarkMothershipCore
+	Hull: NerazimMothershipCore
+	Hull: PurifierMothershipCore
+	Hull: VoidMothershipCore
 	Hull: Observer
+	Hull: DarkObserver
+	Hull: VoidObserver
+	Hull: NerazimObserver
 	Hull: Oracle
+	Hull: DarkOracle
+	Hull: KhalaiOracle
+	Hull: PurifierOracle
+	Hull: VoidOracle
 	Hull: PhotonSphere
 	Hull: DarkPhotonSphere
+	Hull: VoidPhotonSphere
 	Hull: Probe
+	Hull: DarkProbe
+	Hull: VoidProbe
+	Hull: NerazimProbe
 	Hull: ProtossFrigate
+	Hull: DarkFrigate
+	Hull: VoidFrigate
+	Hull: NerazimFrigate
 	Hull: Sentry
+	Hull: DarkSentry
+	Hull: NerazimSentry
+	Hull: PurifierSentry
+	Hull: VoidSentry
 	Hull: Shuttle
 	Hull: DarkShuttle
 	Hull: VoidRay
+	Hull: Destroyer
 	Hull: WarpRay
 	Hull: DarkVoidRay
 	Hull: Mohandar
+	Hull: WarpMohandar
+	Hull: DarkMohandar
 	Hull: VoidSeeker
 	Hull: TemplarArchive
 	Hull: DarkArchive
+	Hull: NerazimArchive
+	Hull: PurifierArchive
+	Hull: VoidArchive
 	Hull: Tempest
+	Hull: DarkTempest
+	Hull: NerazimTempest
+	Hull: PurifierTempest
+	Hull: VoidTempest
 
 	Hull: Nexus
 	Hull: Motherstation
 	Hull: DarkMotherstation
+	Hull: PurifierMotherstation
+	Hull: NerazimMotherstation
 	Hull: MotherstationCore
+	Hull: DarkMotherstationCore
+	Hull: NerazimMotherstationCore
+	Hull: PurifierMotherstationCore
+	Hull: VoidMotherstationCore
 	Hull: DarkNexus
+	Hull: NerazimNexus
+	Hull: PurifierNexus
 	Hull: DarkShrine
+
+	Hull: SNexus
+	Hull: SMotherstation
+	Hull: SDarkMotherstation
+	Hull: SPurifierMotherstation
+	Hull: SNerazimMotherstation
+	Hull: SMotherstationCore
+	Hull: SDarkMotherstationCore
+	Hull: SNerazimMotherstationCore
+	Hull: SPurifierMotherstationCore
+	Hull: SVoidMotherstationCore
+	Hull: SDarkNexus
+	Hull: SNerazimNexus
+	Hull: SPurifierNexus
+	Hull: SDarkShrine
+
+	Hull: ProtossStargate
+	Hull: VoidStargate
+	Hull: NerazimStargate
+	Hull: DarkStargate
+	Hull: PurifierStargate
 
 	Hull: SInterceptor
 	Hull: SCarrier
-	Hull: SNerazimCarrier
 	Hull: SDarkCarrier
+	Hull: SNerazimCarrier
+	Hull: SVoidCarrier
 	Hull: SArbiter
 	Hull: SDarkArbiter
+	Hull: SNerazimArbiter
 	Hull: SArbiter2
+	Hull: SDarkArbiter2
+	Hull: SVoidArbiter2
+	Hull: SNerazimArbiter2
+	Hull: SArbiterLotV
+	Hull: SNerazimArbiterLotV
 	Hull: SCarrierBW
-	Hull: SDarkCarrierBW
+	Hull: SDarkCarrierBW	
+	Hull: SDarkCarrierBWNormal
+	Hull: SNerazimCarrierBW
 	Hull: SBWProbe
+	Hull: SNerazimBWProbe
 	Hull: SDarkInterceptor
+	Hull: SPurifierInterceptor
+	Hull: SVoidInterceptor
+	Hull: SNerazimInterceptor
 	Hull: SMothership
 	Hull: SDarkMothership
+	Hull: SPurifierMothership
+	Hull: SNerazimMothership
 	Hull: SMothershipCore
+	Hull: SDarkMothershipCore
+	Hull: SNerazimMothershipCore
+	Hull: SPurifierMothershipCore
+	Hull: SVoidMothershipCore
 	Hull: SObserver
+	Hull: SDarkObserver
+	Hull: SVoidObserver
+	Hull: SNerazimObserver
 	Hull: SOracle
+	Hull: SDarkOracle
+	Hull: SKhalaiOracle
+	Hull: SPurifierOracle
+	Hull: SVoidOracle
 	Hull: SPhotonSphere
 	Hull: SDarkPhotonSphere
+	Hull: SVoidPhotonSphere
 	Hull: SProbe
+	Hull: SDarkProbe
+	Hull: SVoidProbe
+	Hull: SNerazimProbe
 	Hull: SProtossFrigate
+	Hull: SDarkFrigate
+	Hull: SVoidFrigate
+	Hull: SNerazimFrigate
 	Hull: SSentry
+	Hull: SDarkSentry
+	Hull: SNerazimSentry
+	Hull: SPurifierSentry
+	Hull: SVoidSentry
 	Hull: SShuttle
 	Hull: SDarkShuttle
 	Hull: SVoidRay
+	Hull: SDestroyer
 	Hull: SWarpRay
 	Hull: SDarkVoidRay
 	Hull: SMohandar
+	Hull: SWarpMohandar
+	Hull: SDarkMohandar
 	Hull: SVoidSeeker
 	Hull: STemplarArchive
 	Hull: SDarkArchive
+	Hull: SNerazimArchive
+	Hull: SPurifierArchive
+	Hull: SVoidArchive
 	Hull: STempest
+	Hull: SDarkTempest
+	Hull: SNerazimTempest
+	Hull: SPurifierTempest
+	Hull: SVoidTempest
+
+	Skin: Missionary
+		Model: Observer
+		Material: Observer
+
+	Skin: Freighter
+		Model: Shuttle
+		Material: ProtossShuttle
+
+	Skin: Colonizer
+		Model: ProtossFrigate
+		Material: ProtossFrigate
 
 
 Shipset: Nerazim
@@ -79,18 +214,68 @@ Shipset: Nerazim
 	Available: Yes
 
 	Hull: VoidRay
+	Hull: NerazimArbiter
+	Hull: NerazimArbiter2
+	Hull: NerazimArbiterLotV
 	Hull: NerazimCarrier
+	Hull: NerazimCarrierBW
+	Hull: NerazimBWProbe
 	Hull: Oracle
+	Hull: NerazimInterceptor
+	Hull: NerazimMothership
+	Hull: NerazimMothershipCore
+	Hull: NerazimFrigate
+	Hull: NerazimProbe
+	Hull: NerazimObserver
+	Hull: NerazimSentry
 	Hull: Mohandar
 	Hull: VoidSeeker
+	Hull: NerazimTempest
+	Hull: NerazimArchive
 
+	Hull: NerazimNexus
 	Hull: DarkShrine
+	Hull: NerazimMotherstation
+	Hull: NerazimMotherstationCore
 
-	Hull: SOracle
+	Hull: SNerazimNexus
+	Hull: SDarkShrine
+	Hull: SNerazimMotherstation
+	Hull: SNerazimMotherstationCore
+
+	Hull: NerazimStargate
+
+	Hull: SNerazimInterceptor
+	Hull: SNerazimArbiter
+	Hull: SNerazimArbiter2
+	Hull: SNerazimArbiterLotV
 	Hull: SNerazimCarrier
+	Hull: SNerazimCarrierBW
+	Hull: SNerazimBWProbe
+	Hull: SOracle
 	Hull: SVoidRay
+	Hull: SNerazimMothership
+	Hull: SNerazimMothershipCore
+	Hull: SNerazimFrigate
+	Hull: SNerazimObserver
+	Hull: SNerazimProbe
+	Hull: SNerazimSentry
 	Hull: SMohandar
 	Hull: SVoidSeeker
+	Hull: SNerazimTempest
+	Hull: SNerazimArchive
+
+	Skin: Missionary
+		Model: Observer
+		Material: NerazimObserver
+
+	Skin: Freighter
+		Model: VoidSeeker
+		Material: VoidSeeker
+
+	Skin: Colonizer
+		Model: ProtossFrigate
+		Material: NerazimFrigate
 
 
 Shipset: Daelaam
@@ -100,53 +285,113 @@ Shipset: Daelaam
 	Hull: Carrier
 	Hull: NerazimCarrier
 	Hull: Arbiter
+	Hull: NerazimArbiter
 	Hull: Arbiter2
+	Hull: NerazimArbiter2
+	Hull: ArbiterLotV
+	Hull: NerazimArbiterLotV
 	Hull: CarrierBW
+	Hull: NerazimCarrierBW
 	Hull: BWProbe
+	Hull: NerazimBWProbe
 	Hull: Interceptor
+	Hull: NerazimInterceptor
 	Hull: Mothership
+	Hull: NerazimMothership
 	Hull: MothershipCore
+	Hull: NerazimMothershipCore
 	Hull: Observer
+	Hull: NerazimObserver
 	Hull: Oracle
+	Hull: KhalaiOracle
 	Hull: PhotonSphere
 	Hull: Probe
+	Hull: NerazimProbe
 	Hull: ProtossFrigate
+	Hull: NerazimFrigate
 	Hull: Sentry
+	Hull: NerazimSentry
 	Hull: Shuttle
 	Hull: VoidRay
 	Hull: WarpRay
 	Hull: Mohandar
+	Hull: WarpMohandar
 	Hull: VoidSeeker
 	Hull: TemplarArchive
+	Hull: NerazimArchive
 	Hull: Tempest
+	Hull: NerazimTempest
 
 	Hull: Nexus
 	Hull: Motherstation
 	Hull: MotherstationCore
+	Hull: NerazimNexus
+	Hull: NerazimMotherstation
+	Hull: NerazimMotherstationCore
 	Hull: DarkShrine
+
+	Hull: SNexus
+	Hull: SMotherstation
+	Hull: SMotherstationCore
+	Hull: SNerazimNexus
+	Hull: SNerazimMotherstation
+	Hull: SNerazimMotherstationCore
+	Hull: SDarkShrine
+	
+	Hull: ProtossStargate
+	Hull: NerazimStargate
 
 	Hull: SInterceptor
 	Hull: SCarrier
 	Hull: SNerazimCarrier
 	Hull: SArbiter
+	Hull: SNerazimArbiter
 	Hull: SArbiter2
+	Hull: SNerazimArbiter2
+	Hull: SArbiterLotV
+	Hull: SNerazimArbiterLotV
 	Hull: SCarrierBW
+	Hull: SNerazimCarrierBW
 	Hull: SBWProbe
+	Hull: SNerazimBWProbe
+	Hull: SNerazimInterceptor
 	Hull: SMothership
+	Hull: SNerazimMothership
 	Hull: SMothershipCore
+	Hull: SNerazimMothershipCore
 	Hull: SObserver
+	Hull: SNerazimObserver
 	Hull: SOracle
+	Hull: SKhalaiOracle
 	Hull: SPhotonSphere
 	Hull: SProbe
+	Hull: SNerazimProbe
 	Hull: SProtossFrigate
+	Hull: SNerazimFrigate
 	Hull: SSentry
+	Hull: SNerazimSentry
 	Hull: SShuttle
 	Hull: SVoidRay
 	Hull: SWarpRay
 	Hull: SMohandar
+	Hull: SWarpMohandar
 	Hull: SVoidSeeker
 	Hull: STemplarArchive
+	Hull: SNerazimArchive
 	Hull: STempest
+	Hull: SNerazimTempest
+
+	Skin: Missionary
+		Model: Observer
+		Material: Observer
+
+	Skin: Freighter
+		Model: Shuttle
+		Material: ProtossShuttle
+
+	Skin: Colonizer
+		Model: ProtossFrigate
+		Material: ProtossFrigate
 
 Shipset: Aiur
 	Name: Khalai
@@ -155,18 +400,21 @@ Shipset: Aiur
 	Hull: Carrier
 	Hull: Arbiter
 	Hull: Arbiter2
+	Hull: ArbiterLotV
 	Hull: CarrierBW
 	Hull: BWProbe
 	Hull: Interceptor
 	Hull: Mothership
 	Hull: MothershipCore
 	Hull: Observer
+	Hull: KhalaiOracle
 	Hull: PhotonSphere
 	Hull: Probe
 	Hull: ProtossFrigate
 	Hull: Sentry
 	Hull: Shuttle
 	Hull: WarpRay
+	Hull: WarpMohandar
 	Hull: TemplarArchive
 	Hull: Tempest
 
@@ -174,47 +422,178 @@ Shipset: Aiur
 	Hull: Motherstation
 	Hull: MotherstationCore
 
+	Hull: SNexus
+	Hull: SMotherstation
+	Hull: SMotherstationCore
+
+	Hull: ProtossStargate
+
 	Hull: SInterceptor
 	Hull: SCarrier
 	Hull: SArbiter
 	Hull: SArbiter2
+	Hull: SArbiterLotV
 	Hull: SCarrierBW
 	Hull: SBWProbe
 	Hull: SMothership
 	Hull: SMothershipCore
 	Hull: SObserver
+	Hull: SKhalaiOracle
 	Hull: SPhotonSphere
 	Hull: SProbe
 	Hull: SProtossFrigate
 	Hull: SSentry
 	Hull: SShuttle
 	Hull: SWarpRay
+	Hull: SWarpMohandar
 	Hull: STemplarArchive
 	Hull: STempest
 
+	Skin: Missionary
+		Model: Observer
+		Material: Observer
+
+	Skin: Freighter
+		Model: Shuttle
+		Material: ProtossShuttle
+
+	Skin: Colonizer
+		Model: ProtossFrigate
+		Material: ProtossFrigate
+
 Shipset: Tal'Darim
-	Name: Tal'Darim
+	Name: Tal'darim
 	Available: Yes
 
 	Hull: DarkCarrier
+	Hull: VoidCarrier
 	Hull: DarkArbiter
+	Hull: DarkArbiter2
+	Hull: VoidArbiter2
 	Hull: DarkCarrierBW
+	Hull: DarkCarrierBWNormal
 	Hull: DarkInterceptor
+	Hull: VoidInterceptor
 	Hull: DarkMothership
+	Hull: DarkMothershipCore
+	Hull: VoidMothershipCore
+	Hull: DarkProbe
+	Hull: VoidProbe
+	Hull: DarkSentry
+	Hull: VoidSentry
+	Hull: DarkTempest
+	Hull: VoidTempest
+	Hull: DarkFrigate
+	Hull: VoidFrigate
+	Hull: DarkObserver
+	Hull: VoidObserver
+	Hull: DarkOracle
+	Hull: VoidObserver
 	Hull: DarkPhotonSphere
+	Hull: VoidPhotonSphere
 	Hull: DarkShuttle
 	Hull: DarkVoidRay
+	Hull: Destroyer
+	Hull: DarkMohandar
 	Hull: DarkArchive
+	Hull: VoidArchive
 
 	Hull: DarkNexus
 	Hull: DarkMotherstation
+	Hull: DarkMotherstationCore
+	Hull: VoidMotherstationCore
+
+	Hull: SDarkNexus
+	Hull: SDarkMotherstation
+	Hull: SDarkMotherstationCore
+	Hull: SVoidMotherstationCore
+
+	Hull: DarkStargate
+	Hull: VoidStargate
 
 	Hull: SDarkInterceptor
+	Hull: SVoidInterceptor
 	Hull: SDarkCarrier
+	Hull: SVoidCarrier
 	Hull: SDarkArbiter
+	Hull: SDarkArbiter2
+	Hull: SVoidArbiter2
 	Hull: SDarkCarrierBW
+	Hull: SDarkCarrierBWNormal
 	Hull: SDarkMothership
+	Hull: SDarkMothershipCore
+	Hull: SVoidMothershipCore
+	Hull: SDarkProbe
+	Hull: SVoidProbe
+	Hull: SDarkSentry
+	Hull: SVoidSentry
+	Hull: SDarkTempest
+	Hull: SVoidTempest
+	Hull: SDarkObserver
+	Hull: SVoidObserver
+	Hull: SDarkFrigate
+	Hull: SVoidFrigate
+	Hull: SDarkOracle
+	Hull: SVoidOracle
 	Hull: SDarkPhotonSphere
+	Hull: SVoidPhotonSphere
 	Hull: SDarkShuttle
 	Hull: SDarkVoidRay
+	Hull: SDestroyer
+	Hull: SDarkMohandar
 	Hull: SDarkArchive
+	Hull: SVoidArchive
+
+	Skin: Missionary
+		Model: Observer
+		Material: DarkObserver
+
+	Skin: Freighter
+		Model: Shuttle
+		Material: DarkShuttle
+
+	Skin: Colonizer
+		Model: ProtossFrigate
+		Material: DarkFrigate
+
+Shipset: Purifier
+	Name: Purifier
+	Available: Yes
+
+	Hull: PurifierMothership
+	Hull: PurifierInterceptor
+	Hull: PurifierTempest
+	Hull: PurifierOracle
+	Hull: PurifierMothershipCore
+	Hull: PurifierSentry
+	Hull: PurifierArchive
+
+	Hull: PurifierNexus
+	Hull: PurifierMotherstation
+	Hull: PurifierMotherstationCore
+
+	Hull: SPurifierNexus
+	Hull: SPurifierMotherstation
+	Hull: SPurifierMotherstationCore
+
+	Hull: PurifierStargate
+
+	Hull: SPurifierInterceptor
+	Hull: SPurifierMothership
+	Hull: SPurifierTempest
+	Hull: SPurifierSentry
+	Hull: SPurifierOracle
+	Hull: SPurifierMothershipCore
+	Hull: SPurifierArchive
+
+	Skin: Missionary
+		Model: Oracle
+		Material: PurifierOracle
+
+	Skin: Freighter
+		Model: PurifierTempest
+		Material: PurifierTempest
+
+	Skin: Colonizer
+		Model: PurifierSentry
+		Material: PurifierSentry

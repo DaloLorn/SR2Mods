@@ -10,9 +10,21 @@ Model: Arbiter2
 	Tangents: on
 	Mesh: data/shipsets/protoss/arbiter2.obj
 
+Model: ArbiterLotV
+	Tangents: on
+	Mesh: data/shipsets/protoss/arbiterlotv.obj
+
 Model: CarrierBW
 	Tangents: on
 	Mesh: data/shipsets/protoss/CarrierBW.obj
+
+Model: PurifierSentry
+	Tangents: on
+	Mesh: data/shipsets/protoss/Energizer.obj
+
+Model: VoidSentry
+	Tangents: on
+	Mesh: data/shipsets/protoss/Havoc.obj
 
 Model: BWProbe
 	Tangents: on
@@ -46,6 +58,10 @@ Model: PhotonSphere
 	Tangents: on
 	Mesh: data/shipsets/protoss/PhotonSphere.obj
 
+Model: VoidPhotonSphere
+	Tangents: on
+	Mesh: data/shipsets/protoss/VoidPhotonSphere.obj
+
 Model: Probe
 	Tangents: on
 	Mesh: data/shipsets/protoss/Probe.obj
@@ -53,6 +69,10 @@ Model: Probe
 Model: ProtossFrigate
 	Tangents: on
 	Mesh: data/shipsets/protoss/ProtossFrigate.obj
+
+Model: VoidFrigate
+	Tangents: on
+	Mesh: data/shipsets/protoss/VoidFrigate.obj
 
 Model: Sentry
 	Tangents: on
@@ -70,6 +90,14 @@ Model: Tempest
 	Tangents: on
 	Mesh: data/shipsets/protoss/TempestNoEnergy.obj
 
+Model: PurifierTempest
+	Tangents: on
+	Mesh: data/shipsets/protoss/PurifierTempest.obj
+
+Model: VoidTempest
+	Tangents: on
+	Mesh: data/shipsets/protoss/VoidTempest.obj
+
 Model: TemplarArchive
 	Tangents: on
 	Mesh: data/shipsets/protoss/TemplarArchive.obj
@@ -85,3 +113,11 @@ Model: Mohandar
 Model: VoidSeeker
 	Tangents: on
 	Mesh: data/shipsets/protoss/VoidSeekerNoEnergy.obj
+
+Model: ProtossStargate
+	Tangents: on
+	Mesh: data/shipsets/protoss/Stargate.obj
+
+Model: VoidStargate
+	Tangents: on
+	Mesh: data/shipsets/protoss/VoidStargate.obj

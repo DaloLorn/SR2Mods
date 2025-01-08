@@ -11,7 +11,7 @@ Hull: Carrier
 	Tags: Flagship
 
 Hull: DarkCarrier
-	Name: Tal'Darim Carrier
+	Name: Tal'darim Carrier
 	Background: DarkCarrier
 	BackgroundScale: 1.35
 	Material: DarkCarrier
@@ -31,6 +31,19 @@ Hull: NerazimCarrier
 	Subsystem: FlagshipHull
 	Subsystem: ProtossCarrier
 	MinSize: 16
+
+	Tags: Flagship
+
+Hull: VoidCarrier
+	Name: Death Fleet Carrier
+	Background: VoidCarrier
+	BackgroundScale: 1.35
+	Material: VoidCarrier
+	Model: Carrier
+	Subsystem: FlagshipHull
+	Subsystem: ProtossCarrier
+	MinSize: 16
+
 	Tags: Flagship
 
 Hull: Arbiter
@@ -44,8 +57,19 @@ Hull: Arbiter
 	MinSize: 16
 	Tags: Flagship
 
+Hull: NerazimArbiter
+	Name: Nerazim Arbiter
+	Background: NerazimArbiter
+	BackgroundScale: 1.3
+	Material: NerazimArbiter
+	Model: Arbiter
+	Subsystem: FlagshipHull
+	Subsystem: ProtossArbiter
+	MinSize: 16
+	Tags: Flagship
+
 Hull: DarkArbiter
-	Name: Tal'Darim Arbiter
+	Name: Tal'darim Arbiter
 	Background: DarkArbiter
 	BackgroundScale: 1.3
 	Material: DarkArbiter
@@ -56,13 +80,68 @@ Hull: DarkArbiter
 	Tags: Flagship
 
 Hull: Arbiter2
-	Name: Danimoth-type Arbiter
+	Name: Kailrinis-type Arbiter
 	Background: Arbiter2
 	BackgroundScale: 1.3
 	Material: Arbiter2
 	Model: Arbiter2
 	Subsystem: FlagshipHull
 	Subsystem: ProtossDanimoth
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimArbiter2
+	Name: Nerazim Kailrinis-type Arbiter
+	Background: NerazimArbiter2
+	BackgroundScale: 1.3
+	Material: NerazimArbiter2
+	Model: Arbiter2
+	Subsystem: FlagshipHull
+	Subsystem: ProtossDanimoth
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkArbiter2
+	Name: Tal'darim Kailrinis-type Arbiter
+	Background: DarkArbiter2
+	BackgroundScale: 1.3
+	Material: DarkArbiter2
+	Model: Arbiter2
+	Subsystem: FlagshipHull
+	Subsystem: ProtossDanimoth
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidArbiter2
+	Name: Death Fleet Kailrinis-type Arbiter
+	Background: VoidArbiter2
+	BackgroundScale: 1.3
+	Material: VoidArbiter2
+	Model: Arbiter2
+	Subsystem: FlagshipHull
+	Subsystem: ProtossDanimoth
+	MinSize: 16
+	Tags: Flagship
+
+Hull: ArbiterLotV
+	Name: Golden Armada Arbiter
+	Background: ArbiterLotV
+	BackgroundScale: 1.3
+	Material: ArbiterLotV
+	Model: ArbiterLotV
+	Subsystem: FlagshipHull
+	Subsystem: ProtossGoldenArbiter
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimArbiterLotV
+	Name: Silver Armada Arbiter
+	Background: NerazimArbiterLotV
+	BackgroundScale: 1.3
+	Material: NerazimArbiterLotV
+	Model: ArbiterLotV
+	Subsystem: FlagshipHull
+	Subsystem: ProtossGoldenArbiter
 	MinSize: 16
 	Tags: Flagship
 
@@ -77,11 +156,33 @@ Hull: CarrierBW
 	MinSize: 16
 	Tags: Flagship
 
+Hull: NerazimCarrierBW
+	Name: Nerazim Supercarrier
+	Background: NerazimCarrierBW
+	BackgroundScale: 1.2
+	Material: NerazimCarrierBW
+	Model: CarrierBW
+	Subsystem: FlagshipHull
+	Subsystem: ProtossSupercarrier
+	MinSize: 16
+	Tags: Flagship
+
 Hull: DarkCarrierBW
-	Name: Tal'Darim Supercarrier
+	Name: Early Tal'darim Supercarrier
 	Background: DarkCarrierBW
 	BackgroundScale: 1.2
 	Material: DarkCarrierBW
+	Model: CarrierBW
+	Subsystem: FlagshipHull
+	Subsystem: ProtossSupercarrier
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkCarrierBWNormal
+	Name: Tal'darim Supercarrier
+	Background: DarkCarrierBWNormal
+	BackgroundScale: 1.2
+	Material: DarkCarrierBWNormal
 	Model: CarrierBW
 	Subsystem: FlagshipHull
 	Subsystem: ProtossSupercarrier
@@ -93,6 +194,17 @@ Hull: BWProbe
 	Background: BWProbe
 	BackgroundScale: 1.3
 	Material: BWProbe
+	Model: BWProbe
+	Subsystem: FlagshipHull
+	Subsystem: ProtossBWProbe
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimBWProbe
+	Name: Early Nerazim Probe
+	Background: NerazimBWProbe
+	BackgroundScale: 1.3
+	Material: NerazimBWProbe
 	Model: BWProbe
 	Subsystem: FlagshipHull
 	Subsystem: ProtossBWProbe
@@ -111,10 +223,43 @@ Hull: Interceptor
 	Tags: Flagship
 
 Hull: DarkInterceptor
-	Name: Tal'Darim Interceptor
+	Name: Tal'darim Interceptor
 	Background: DarkInterceptor
 	BackgroundScale: 1.0
 	Material: DarkInterceptor
+	Model: Interceptor
+	Subsystem: FlagshipHull
+	Subsystem: ProtossInterceptor
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PurifierInterceptor
+	Name: Purifier Interceptor
+	Background: PurifierInterceptor
+	BackgroundScale: 1.0
+	Material: PurifierInterceptor
+	Model: Interceptor
+	Subsystem: FlagshipHull
+	Subsystem: ProtossInterceptor
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidInterceptor
+	Name: Death Fleet Interceptor
+	Background: VoidInterceptor
+	BackgroundScale: 1.0
+	Material: VoidInterceptor
+	Model: Interceptor
+	Subsystem: FlagshipHull
+	Subsystem: ProtossInterceptor
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimInterceptor
+	Name: Nerazim Interceptor
+	Background: NerazimInterceptor
+	BackgroundScale: 1.0
+	Material: NerazimInterceptor
 	Model: Interceptor
 	Subsystem: FlagshipHull
 	Subsystem: ProtossInterceptor
@@ -133,10 +278,32 @@ Hull: Mothership
 	Tags: Flagship
 
 Hull: DarkMothership
-	Name: Tal'Darim Mothership
+	Name: Tal'darim Mothership
 	Background: DarkMothership
 	BackgroundScale: 0.8
 	Material: DarkMothership
+	Model: Mothership
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PurifierMothership
+	Name: Purifier
+	Background: PurifierMothership
+	BackgroundScale: 0.8
+	Material: PurifierMothership
+	Model: Mothership
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimMothership
+	Name: Obscurer
+	Background: NerazimMothership
+	BackgroundScale: 0.8
+	Material: NerazimMothership
 	Model: Mothership
 	Subsystem: FlagshipHull
 	Subsystem: ProtossMothership
@@ -154,6 +321,50 @@ Hull: MothershipCore
 	MinSize: 16
 	Tags: Flagship
 
+Hull: VoidMothershipCore
+	Name: Death Fleet Mothership Core
+	Background: VoidMothershipCore
+	BackgroundScale: 1.3
+	Material: VoidMothershipCore
+	Model: MothershipCore
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkMothershipCore
+	Name: Tal'darim Mothership Core
+	Background: DarkMothershipCore
+	BackgroundScale: 1.3
+	Material: DarkMothershipCore
+	Model: MothershipCore
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimMothershipCore
+	Name: Obscurer Core
+	Background: NerazimMothershipCore
+	BackgroundScale: 1.3
+	Material: NerazimMothershipCore
+	Model: MothershipCore
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PurifierMothershipCore
+	Name: Purifier Core
+	Background: PurifierMothershipCore
+	BackgroundScale: 1.3
+	Material: PurifierMothershipCore
+	Model: MothershipCore
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Flagship
+
 Hull: Observer
 	Name: Observer
 	Background: Observer
@@ -165,11 +376,88 @@ Hull: Observer
 	MinSize: 16
 	Tags: Flagship
 
+Hull: NerazimObserver
+	Name: Nerazim Observer
+	Background: NerazimObserver
+	BackgroundScale: 1.4
+	Material: NerazimObserver
+	Model: Observer
+	Subsystem: FlagshipHull
+	Subsystem: ProtossObserver
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkObserver
+	Name: Tal'darim Observer
+	Background: DarkObserver
+	BackgroundScale: 1.4
+	Material: DarkObserver
+	Model: Observer
+	Subsystem: FlagshipHull
+	Subsystem: ProtossObserver
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidObserver
+	Name: Death Fleet Observer
+	Background: VoidObserver
+	BackgroundScale: 1.4
+	Material: VoidObserver
+	Model: Observer
+	Subsystem: FlagshipHull
+	Subsystem: ProtossObserver
+	MinSize: 16
+	Tags: Flagship
+
 Hull: Oracle
 	Name: Oracle
 	Background: Oracle
 	BackgroundScale: 1.3
 	Material: Oracle
+	Model: Oracle
+	Subsystem: FlagshipHull
+	Subsystem: ProtossOracle
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkOracle
+	Name: Tal'darim Prophet
+	Background: DarkOracle
+	BackgroundScale: 1.3
+	Material: DarkOracle
+	Model: Oracle
+	Subsystem: FlagshipHull
+	Subsystem: ProtossOracle
+	MinSize: 16
+	Tags: Flagship
+
+Hull: KhalaiOracle
+	Name: Prophet
+	Background: KhalaiOracle
+	BackgroundScale: 1.3
+	Material: KhalaiOracle
+	Model: Oracle
+	Subsystem: FlagshipHull
+	Subsystem: ProtossOracle
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PurifierOracle
+	Name: Purifier Prophet
+	Background: PurifierOracle
+	BackgroundScale: 1.3
+	Material: PurifierOracle
+	Model: Oracle
+	Subsystem: FlagshipHull
+	Subsystem: ProtossOracle
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidOracle
+	Name: Death Fleet Prophet
+	Background: VoidOracle
+	BackgroundScale: 1.3
+	Material: VoidOracle
 	Model: Oracle
 	Subsystem: FlagshipHull
 	Subsystem: ProtossOracle
@@ -188,13 +476,24 @@ Hull: PhotonSphere
 	Tags: Flagship
 
 Hull: DarkPhotonSphere
-	Name: Tal'Darim Photon Sphere
+	Name: Tal'darim Photon Sphere
 	Background: DarkPhotonSphere
 	BackgroundScale: 1.4
 	Material: DarkPhotonSphere
 	Model: PhotonSphere
 	Subsystem: FlagshipHull
 	Subsystem: ProtossPhoton
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidPhotonSphere
+	Name: Death Fleet Photon Sphere
+	Background: VoidPhotonSphere
+	BackgroundScale: 1.4
+	Material: VoidPhotonSphere
+	Model: VoidPhotonSphere
+	Subsystem: FlagshipHull
+	Subsystem: ProtossVoidSphere
 	MinSize: 16
 	Tags: Flagship
 
@@ -209,14 +508,80 @@ Hull: Probe
 	MinSize: 16
 	Tags: Flagship
 
+Hull: NerazimProbe
+	Name: Nerazim Probe
+	Background: NerazimProbe
+	BackgroundScale: 1.3
+	Material: NerazimProbe
+	Model: Probe
+	Subsystem: FlagshipHull
+	Subsystem: ProtossProbe
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkProbe
+	Name: Tal'darim Probe
+	Background: DarkProbe
+	BackgroundScale: 1.3
+	Material: DarkProbe
+	Model: Probe
+	Subsystem: FlagshipHull
+	Subsystem: ProtossProbe
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidProbe
+	Name: Death Fleet Probe
+	Background: VoidProbe
+	BackgroundScale: 1.3
+	Material: VoidProbe
+	Model: Probe
+	Subsystem: FlagshipHull
+	Subsystem: ProtossProbe
+	MinSize: 16
+	Tags: Flagship
+
 Hull: ProtossFrigate
-	Name: Evacuation Transport
+	Name: Ark Shuttle
 	Background: ProtossFrigate
 	BackgroundScale: 1
 	Material: ProtossFrigate
 	Model: ProtossFrigate
 	Subsystem: FlagshipHull
 	Subsystem: ProtossFrigate
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimFrigate
+	Name: Nerazim Ark Shuttle
+	Background: NerazimFrigate
+	BackgroundScale: 1
+	Material: NerazimFrigate
+	Model: ProtossFrigate
+	Subsystem: FlagshipHull
+	Subsystem: ProtossFrigate
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkFrigate
+	Name: Tal'darim Ark Shuttle
+	Background: DarkFrigate
+	BackgroundScale: 1
+	Material: DarkFrigate
+	Model: ProtossFrigate
+	Subsystem: FlagshipHull
+	Subsystem: ProtossFrigate
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidFrigate
+	Name: Death Fleet Ark Shuttle
+	Background: VoidFrigate
+	BackgroundScale: 1
+	Material: VoidFrigate
+	Model: VoidFrigate
+	Subsystem: FlagshipHull
+	Subsystem: ProtossVoidFrigate
 	MinSize: 16
 	Tags: Flagship
 
@@ -231,11 +596,55 @@ Hull: Sentry
 	MinSize: 16
 	Tags: Flagship
 
+Hull: NerazimSentry
+	Name: Nerazim Sentry
+	Background: NerazimSentry
+	BackgroundScale: 1.0
+	Material: NerazimSentry
+	Model: Sentry
+	Subsystem: FlagshipHull
+	Subsystem: ProtossSentry
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkSentry
+	Name: Tal'darim Sentry
+	Background: DarkSentry
+	BackgroundScale: 1.0
+	Material: DarkSentry
+	Model: Sentry
+	Subsystem: FlagshipHull
+	Subsystem: ProtossSentry
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PurifierSentry
+	Name: Energizer
+	Background: PurifierSentry
+	BackgroundScale: 1.0
+	Material: PurifierSentry
+	Model: PurifierSentry
+	Subsystem: FlagshipHull
+	Subsystem: ProtossEnergizer
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidSentry
+	Name: Havoc
+	Background: VoidSentry
+	BackgroundScale: 1.0
+	Material: VoidSentry
+	Model: VoidSentry
+	Subsystem: FlagshipHull
+	Subsystem: ProtossHavoc
+	MinSize: 16
+	Tags: Flagship
+
 Hull: Shuttle
 	Name: Shuttle
 	Background: Shuttle
 	BackgroundScale: 1.2
-	Material: Shuttle
+	Material: ProtossShuttle
 	Model: Shuttle
 	Subsystem: FlagshipHull
 	Subsystem: ProtossShuttle
@@ -243,7 +652,7 @@ Hull: Shuttle
 	Tags: Flagship
 
 Hull: DarkShuttle
-	Name: Tal'Darim Shuttle
+	Name: Tal'darim Shuttle
 	Background: DarkShuttle
 	BackgroundScale: 1.2
 	Material: DarkShuttle
@@ -276,10 +685,21 @@ Hull: WarpRay
 	Tags: Flagship
 
 Hull: DarkVoidRay
-	Name: Tal'Darim Warp Ray
+	Name: Tal'darim Warp Ray
 	Background: DarkVoidRay
 	BackgroundScale: 1.3
 	Material: DarkVoidRay
+	Model: VoidRay
+	Subsystem: FlagshipHull
+	Subsystem: ProtossVoidRay
+	MinSize: 16
+	Tags: Flagship
+
+Hull: Destroyer
+	Name: Destroyer
+	Background: Destroyer
+	BackgroundScale: 1.3
+	Material: Destroyer
 	Model: VoidRay
 	Subsystem: FlagshipHull
 	Subsystem: ProtossVoidRay
@@ -291,6 +711,28 @@ Hull: Mohandar
 	Background: Mohandar
 	BackgroundScale: 1.3
 	Material: Mohandar
+	Model: Mohandar
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMohandar
+	MinSize: 16
+	Tags: Flagship
+
+Hull: WarpMohandar
+	Name: Mohandar-type Warp Ray
+	Background: WarpMohandar
+	BackgroundScale: 1.3
+	Material: WarpMohandar
+	Model: Mohandar
+	Subsystem: FlagshipHull
+	Subsystem: ProtossMohandar
+	MinSize: 16
+	Tags: Flagship
+
+Hull: DarkMohandar
+	Name: Mohandar-type Tal'darim Warp Ray
+	Background: DarkMohandar
+	BackgroundScale: 1.3
+	Material: DarkMohandar
 	Model: Mohandar
 	Subsystem: FlagshipHull
 	Subsystem: ProtossMohandar
@@ -320,10 +762,43 @@ Hull: TemplarArchive
 	Tags: Flagship
 
 Hull: DarkArchive
-	Name: Tal'Darim Battleship
+	Name: Tal'darim Battleship
 	Background: DarkArchive
 	BackgroundScale: 1.2
 	Material: DarkArchive
+	Model: TemplarArchive
+	Subsystem: FlagshipHull
+	Subsystem: ProtossArchive
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimArchive
+	Name: Nerazim Battleship
+	Background: NerazimArchive
+	BackgroundScale: 1.2
+	Material: NerazimArchive
+	Model: TemplarArchive
+	Subsystem: FlagshipHull
+	Subsystem: ProtossArchive
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidArchive
+	Name: Death Fleet Battleship
+	Background: VoidArchive
+	BackgroundScale: 1.2
+	Material: VoidArchive
+	Model: TemplarArchive
+	Subsystem: FlagshipHull
+	Subsystem: ProtossArchive
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PurifierArchive
+	Name: Purifier Battleship
+	Background: PurifierArchive
+	BackgroundScale: 1.2
+	Material: PurifierArchive
 	Model: TemplarArchive
 	Subsystem: FlagshipHull
 	Subsystem: ProtossArchive
@@ -341,6 +816,50 @@ Hull: Tempest
 	MinSize: 16
 	Tags: Flagship
 
+Hull: DarkTempest
+	Name: Tal'darim Tempest
+	Background: DarkTempest
+	BackgroundScale: 1.1
+	Material: DarkTempest
+	Model: Tempest
+	Subsystem: FlagshipHull
+	Subsystem: ProtossTempest
+	MinSize: 16
+	Tags: Flagship
+
+Hull: NerazimTempest
+	Name: Typhoon
+	Background: NerazimTempest
+	BackgroundScale: 1.1
+	Material: NerazimTempest
+	Model: Tempest
+	Subsystem: FlagshipHull
+	Subsystem: ProtossTempest
+	MinSize: 16
+	Tags: Flagship
+
+Hull: PurifierTempest
+	Name: Purifier Tempest
+	Background: PurifierTempest
+	BackgroundScale: 1.1
+	Material: PurifierTempest
+	Model: PurifierTempest
+	Subsystem: FlagshipHull
+	Subsystem: ProtossPurifierTempest
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VoidTempest
+	Name: Death Fleet Tempest
+	Background: VoidTempest
+	BackgroundScale: 1.1
+	Material: VoidTempest
+	Model: VoidTempest
+	Subsystem: FlagshipHull
+	Subsystem: ProtossVoidTempest
+	MinSize: 16
+	Tags: Flagship
+
 // END FLAGSHIP LIST HERE
 
 Hull: Motherstation
@@ -355,10 +874,32 @@ Hull: Motherstation
 	Tags: Station
 
 Hull: DarkMotherstation
-	Name: Tal'Darim Mothership
+	Name: Tal'darim Mothership
 	Background: DarkMothership
 	BackgroundScale: 0.8
 	Material: DarkMothership
+	Model: Mothership
+	Subsystem: StationHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Station
+
+Hull: PurifierMotherstation
+	Name: Purifier
+	Background: PurifierMothership
+	BackgroundScale: 0.8
+	Material: PurifierMothership
+	Model: Mothership
+	Subsystem: StationHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Station
+
+Hull: NerazimMotherstation
+	Name: Obscurer
+	Background: NerazimMothership
+	BackgroundScale: 0.8
+	Material: NerazimMothership
 	Model: Mothership
 	Subsystem: StationHull
 	Subsystem: ProtossMothership
@@ -370,6 +911,50 @@ Hull: MotherstationCore
 	Background: MothershipCore
 	BackgroundScale: 1.3
 	Material: MothershipCore
+	Model: MothershipCore
+	Subsystem: StationHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Station
+
+Hull: DarkMotherstationCore
+	Name: Tal'darim Mothership Core
+	Background: DarkMothershipCore
+	BackgroundScale: 1.3
+	Material: DarkMothershipCore
+	Model: MothershipCore
+	Subsystem: StationHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Station
+
+Hull: NerazimMotherstationCore
+	Name: Obscurer Core
+	Background: NerazimMothershipCore
+	BackgroundScale: 1.3
+	Material: NerazimMothershipCore
+	Model: MothershipCore
+	Subsystem: StationHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Station
+
+Hull: PurifierMotherstationCore
+	Name: Purifier Core
+	Background: PurifierMothershipCore
+	BackgroundScale: 1.3
+	Material: PurifierMothershipCore
+	Model: MothershipCore
+	Subsystem: StationHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Station
+
+Hull: VoidMotherstationCore
+	Name: Death Fleet Mothership Core
+	Background: VoidMothershipCore
+	BackgroundScale: 1.3
+	Material: VoidMothershipCore
 	Model: MothershipCore
 	Subsystem: StationHull
 	Subsystem: ProtossMothercore
@@ -388,10 +973,32 @@ Hull: Nexus
 	Tags: Station
 
 Hull: DarkNexus
-	Name: Tal'Darim Nexus
+	Name: Tal'darim Nexus
 	Background: DarkNexus
 	BackgroundScale: 1.0
 	Material: DarkNexus
+	Model: Nexus
+	Subsystem: StationHull
+	Subsystem: ProtossNexus
+	MinSize: 16
+	Tags: Station
+
+Hull: NerazimNexus
+	Name: Nerazim Nexus
+	Background: NerazimNexus
+	BackgroundScale: 1.0
+	Material: NerazimNexus
+	Model: Nexus
+	Subsystem: StationHull
+	Subsystem: ProtossNexus
+	MinSize: 16
+	Tags: Station
+
+Hull: PurifierNexus
+	Name: Purifier Nexus
+	Background: PurifierNexus
+	BackgroundScale: 1.0
+	Material: PurifierNexus
 	Model: Nexus
 	Subsystem: StationHull
 	Subsystem: ProtossNexus
@@ -411,6 +1018,162 @@ Hull: DarkShrine
 
 // END STATION LIST HERE
 
+Hull: SMotherstation
+	Name: Mothership
+	Background: Mothership
+	BackgroundScale: 0.8
+	Material: Mothership
+	Model: Mothership
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SDarkMotherstation
+	Name: Tal'darim Mothership
+	Background: DarkMothership
+	BackgroundScale: 0.8
+	Material: DarkMothership
+	Model: Mothership
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SPurifierMotherstation
+	Name: Purifier
+	Background: PurifierMothership
+	BackgroundScale: 0.8
+	Material: PurifierMothership
+	Model: Mothership
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SNerazimMotherstation
+	Name: Obscurer
+	Background: NerazimMothership
+	BackgroundScale: 0.8
+	Material: NerazimMothership
+	Model: Mothership
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothership
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SMotherstationCore
+	Name: Mothership Core
+	Background: MothershipCore
+	BackgroundScale: 1.3
+	Material: MothershipCore
+	Model: MothershipCore
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SDarkMotherstationCore
+	Name: Tal'darim Mothership Core
+	Background: DarkMothershipCore
+	BackgroundScale: 1.3
+	Material: DarkMothershipCore
+	Model: MothershipCore
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SNerazimMotherstationCore
+	Name: Obscurer Core
+	Background: NerazimMothershipCore
+	BackgroundScale: 1.3
+	Material: NerazimMothershipCore
+	Model: MothershipCore
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SPurifierMotherstationCore
+	Name: Purifier Core
+	Background: PurifierMothershipCore
+	BackgroundScale: 1.3
+	Material: PurifierMothershipCore
+	Model: MothershipCore
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SVoidMotherstationCore
+	Name: Death Fleet Mothership Core
+	Background: VoidMothershipCore
+	BackgroundScale: 1.3
+	Material: VoidMothershipCore
+	Model: MothershipCore
+	Subsystem: SatelliteHull
+	Subsystem: ProtossMothercore
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SNexus
+	Name: Nexus
+	Background: Nexus
+	BackgroundScale: 1.0
+	Material: Nexus
+	Model: Nexus
+	Subsystem: SatelliteHull
+	Subsystem: ProtossNexus
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SDarkNexus
+	Name: Tal'darim Nexus
+	Background: DarkNexus
+	BackgroundScale: 1.0
+	Material: DarkNexus
+	Model: Nexus
+	Subsystem: SatelliteHull
+	Subsystem: ProtossNexus
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SNerazimNexus
+	Name: Nerazim Nexus
+	Background: NerazimNexus
+	BackgroundScale: 1.0
+	Material: NerazimNexus
+	Model: Nexus
+	Subsystem: SatelliteHull
+	Subsystem: ProtossNexus
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SPurifierNexus
+	Name: Purifier Nexus
+	Background: PurifierNexus
+	BackgroundScale: 1.0
+	Material: PurifierNexus
+	Model: Nexus
+	Subsystem: SatelliteHull
+	Subsystem: ProtossNexus
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SDarkShrine
+	Name: Dark Shrine
+	Background: DarkShrine
+	BackgroundScale: 1.1
+	Material: DarkShrine
+	Model: DarkShrine
+	Subsystem: SatelliteHull
+	Subsystem: ProtossShrine
+	MinSize: 16
+	Tags: Satellite
+
+// END SATELLITE LIST HERE
+
 Hull: SCarrier
 	Name: Carrier
 	Background: Carrier
@@ -422,7 +1185,7 @@ Hull: SCarrier
 	Tags: Support
 
 Hull: SDarkCarrier
-	Name: Tal'Darim Carrier
+	Name: Tal'darim Carrier
 	Background: DarkCarrier
 	BackgroundScale: 1.35
 	Material: DarkCarrier
@@ -441,6 +1204,16 @@ Hull: SNerazimCarrier
 	Subsystem: ProtossCarrier
 	Tags: Support
 
+Hull: SVoidCarrier
+	Name: Death Fleet Carrier
+	Background: VoidCarrier
+	BackgroundScale: 1.35
+	Material: VoidCarrier
+	Model: Carrier
+	Subsystem: SupportHull
+	Subsystem: ProtossCarrier
+	Tags: Support
+
 Hull: SArbiter
 	Name: Arbiter
 	Background: Arbiter
@@ -451,8 +1224,18 @@ Hull: SArbiter
 	Subsystem: ProtossArbiter
 	Tags: Support
 
+Hull: SNerazimArbiter
+	Name: NerazimArbiter
+	Background: NerazimArbiter
+	BackgroundScale: 1.3
+	Material: NerazimArbiter
+	Model: Arbiter
+	Subsystem: SupportHull
+	Subsystem: ProtossArbiter
+	Tags: Support
+
 Hull: SDarkArbiter
-	Name: Tal'Darim Arbiter
+	Name: Tal'darim Arbiter
 	Background: DarkArbiter
 	BackgroundScale: 1.3
 	Material: DarkArbiter
@@ -462,13 +1245,63 @@ Hull: SDarkArbiter
 	Tags: Support
 
 Hull: SArbiter2
-	Name: Danimoth-type Arbiter
+	Name: Kailrinis-type Arbiter
 	Background: Arbiter2
 	BackgroundScale: 1.3
 	Material: Arbiter2
 	Model: Arbiter2
 	Subsystem: SupportHull
 	Subsystem: ProtossDanimoth
+	Tags: Support
+
+Hull: SNerazimArbiter2
+	Name: Nerazim Kailrinis-type Arbiter
+	Background: NerazimArbiter2
+	BackgroundScale: 1.3
+	Material: NerazimArbiter2
+	Model: Arbiter2
+	Subsystem: SupportHull
+	Subsystem: ProtossDanimoth
+	Tags: Support
+
+Hull: SDarkArbiter2
+	Name: Tal'darim Kailrinis-type Arbiter
+	Background: DarkArbiter2
+	BackgroundScale: 1.3
+	Material: DarkArbiter2
+	Model: Arbiter2
+	Subsystem: SupportHull
+	Subsystem: ProtossDanimoth
+	Tags: Support
+
+Hull: SVoidArbiter2
+	Name: Death Fleet Kailrinis-type Arbiter
+	Background: VoidArbiter2
+	BackgroundScale: 1.3
+	Material: VoidArbiter2
+	Model: Arbiter2
+	Subsystem: SupportHull
+	Subsystem: ProtossDanimoth
+	Tags: Support
+
+Hull: SArbiterLotV
+	Name: Golden Armada Arbiter
+	Background: ArbiterLotV
+	BackgroundScale: 1.3
+	Material: ArbiterLotV
+	Model: ArbiterLotV
+	Subsystem: SupportHull
+	Subsystem: ProtossGoldenArbiter
+	Tags: Support
+
+Hull: SNerazimArbiterLotV
+	Name: Silver Armada Arbiter
+	Background: NerazimArbiterLotV
+	BackgroundScale: 1.3
+	Material: NerazimArbiterLotV
+	Model: ArbiterLotV
+	Subsystem: SupportHull
+	Subsystem: ProtossGoldenArbiter
 	Tags: Support
 
 Hull: SCarrierBW
@@ -481,11 +1314,31 @@ Hull: SCarrierBW
 	Subsystem: ProtossSupercarrier
 	Tags: Support
 
+Hull: SNerazimCarrierBW
+	Name: Nerazim Supercarrier
+	Background: NerazimCarrierBW
+	BackgroundScale: 1.2
+	Material: NerazimCarrierBW
+	Model: CarrierBW
+	Subsystem: SupportHull
+	Subsystem: ProtossSupercarrier
+	Tags: Support
+
 Hull: SDarkCarrierBW
-	Name: Tal'Darim Supercarrier
+	Name: Early Tal'darim Supercarrier
 	Background: DarkCarrierBW
 	BackgroundScale: 1.2
 	Material: DarkCarrierBW
+	Model: CarrierBW
+	Subsystem: SupportHull
+	Subsystem: ProtossSupercarrier
+	Tags: Support
+
+Hull: SDarkCarrierBWNormal
+	Name: Tal'darim Supercarrier
+	Background: DarkCarrierBWNormal
+	BackgroundScale: 1.2
+	Material: DarkCarrierBWNormal
 	Model: CarrierBW
 	Subsystem: SupportHull
 	Subsystem: ProtossSupercarrier
@@ -496,6 +1349,16 @@ Hull: SBWProbe
 	Background: BWProbe
 	BackgroundScale: 1.3
 	Material: BWProbe
+	Model: BWProbe
+	Subsystem: SupportHull
+	Subsystem: ProtossBWProbe
+	Tags: Support
+
+Hull: SNerazimBWProbe
+	Name: Early Nerazim Probe
+	Background: NerazimBWProbe
+	BackgroundScale: 1.3
+	Material: NerazimBWProbe
 	Model: BWProbe
 	Subsystem: SupportHull
 	Subsystem: ProtossBWProbe
@@ -512,10 +1375,40 @@ Hull: SInterceptor
 	Tags: Support
 
 Hull: SDarkInterceptor
-	Name: Tal'Darim Interceptor
+	Name: Tal'darim Interceptor
 	Background: DarkInterceptor
 	BackgroundScale: 1.0
 	Material: DarkInterceptor
+	Model: Interceptor
+	Subsystem: SupportHull
+	Subsystem: ProtossInterceptor
+	Tags: Support
+
+Hull: SPurifierInterceptor
+	Name: Purifier Interceptor
+	Background: PurifierInterceptor
+	BackgroundScale: 1.0
+	Material: PurifierInterceptor
+	Model: Interceptor
+	Subsystem: SupportHull
+	Subsystem: ProtossInterceptor
+	Tags: Support
+
+Hull: SVoidInterceptor
+	Name: Death Fleet Interceptor
+	Background: VoidInterceptor
+	BackgroundScale: 1.0
+	Material: VoidInterceptor
+	Model: Interceptor
+	Subsystem: SupportHull
+	Subsystem: ProtossInterceptor
+	Tags: Support
+
+Hull: SNerazimInterceptor
+	Name: Nerazim Interceptor
+	Background: NerazimInterceptor
+	BackgroundScale: 1.0
+	Material: NerazimInterceptor
 	Model: Interceptor
 	Subsystem: SupportHull
 	Subsystem: ProtossInterceptor
@@ -532,10 +1425,30 @@ Hull: SMothership
 	Tags: Support
 
 Hull: SDarkMothership
-	Name: Tal'Darim Mothership
+	Name: Tal'darim Mothership
 	Background: DarkMothership
 	BackgroundScale: 0.8
 	Material: DarkMothership
+	Model: Mothership
+	Subsystem: SupportHull
+	Subsystem: ProtossMothership
+	Tags: Support
+
+Hull: SPurifierMothership
+	Name: Purifier
+	Background: PurifierMothership
+	BackgroundScale: 0.8
+	Material: PurifierMothership
+	Model: Mothership
+	Subsystem: SupportHull
+	Subsystem: ProtossMothership
+	Tags: Support
+
+Hull: SNerazimMothership
+	Name: Obscurer
+	Background: NerazimMothership
+	BackgroundScale: 0.8
+	Material: NerazimMothership
 	Model: Mothership
 	Subsystem: SupportHull
 	Subsystem: ProtossMothership
@@ -551,6 +1464,46 @@ Hull: SMothershipCore
 	Subsystem: ProtossMothercore
 	Tags: Support
 
+Hull: SDarkMothershipCore
+	Name: Tal'darim Mothership Core
+	Background: DarkMothershipCore
+	BackgroundScale: 1.3
+	Material: DarkMothershipCore
+	Model: MothershipCore
+	Subsystem: SupportHull
+	Subsystem: ProtossMothercore
+	Tags: Support
+
+Hull: SNerazimMothershipCore
+	Name: Obscurer Core
+	Background: NerazimMothershipCore
+	BackgroundScale: 1.3
+	Material: NerazimMothershipCore
+	Model: MothershipCore
+	Subsystem: SupportHull
+	Subsystem: ProtossMothercore
+	Tags: Support
+
+Hull: SPurifierMothershipCore
+	Name: Purifier Core
+	Background: PurifierMothershipCore
+	BackgroundScale: 1.3
+	Material: PurifierMothershipCore
+	Model: MothershipCore
+	Subsystem: SupportHull
+	Subsystem: ProtossMothercore
+	Tags: Support
+
+Hull: SVoidMothershipCore
+	Name: Death Fleet Mothership Core
+	Background: VoidMothershipCore
+	BackgroundScale: 1.3
+	Material: VoidMothershipCore
+	Model: MothershipCore
+	Subsystem: SupportHull
+	Subsystem: ProtossMothercore
+	Tags: Support
+
 Hull: SObserver
 	Name: Observer
 	Background: Observer
@@ -561,11 +1514,81 @@ Hull: SObserver
 	Subsystem: ProtossObserver
 	Tags: Support
 
+Hull: SNerazimObserver
+	Name: Nerazim Observer
+	Background: NerazimObserver
+	BackgroundScale: 1.4
+	Material: NerazimObserver
+	Model: Observer
+	Subsystem: SupportHull
+	Subsystem: ProtossObserver
+	Tags: Support
+
+Hull: SDarkObserver
+	Name: Tal'darim Observer
+	Background: DarkObserver
+	BackgroundScale: 1.4
+	Material: DarkObserver
+	Model: Observer
+	Subsystem: SupportHull
+	Subsystem: ProtossObserver
+	Tags: Support
+
+Hull: SVoidObserver
+	Name: Death Fleet Observer
+	Background: VoidObserver
+	BackgroundScale: 1.4
+	Material: VoidObserver
+	Model: Observer
+	Subsystem: SupportHull
+	Subsystem: ProtossObserver
+	Tags: Support
+
 Hull: SOracle
 	Name: Oracle
 	Background: Oracle
 	BackgroundScale: 1.3
 	Material: Oracle
+	Model: Oracle
+	Subsystem: SupportHull
+	Subsystem: ProtossOracle
+	Tags: Support
+
+Hull: SDarkOracle
+	Name: Tal'darim Prophet
+	Background: DarkOracle
+	BackgroundScale: 1.3
+	Material: DarkOracle
+	Model: Oracle
+	Subsystem: SupportHull
+	Subsystem: ProtossOracle
+	Tags: Support
+
+Hull: SKhalaiOracle
+	Name: Prophet
+	Background: KhalaiOracle
+	BackgroundScale: 1.3
+	Material: KhalaiOracle
+	Model: Oracle
+	Subsystem: SupportHull
+	Subsystem: ProtossOracle
+	Tags: Support
+
+Hull: SPurifierOracle
+	Name: Purifier Prophet
+	Background: PurifierOracle
+	BackgroundScale: 1.3
+	Material: PurifierOracle
+	Model: Oracle
+	Subsystem: SupportHull
+	Subsystem: ProtossOracle
+	Tags: Support
+
+Hull: SVoidOracle
+	Name: Death Fleet Prophet
+	Background: VoidOracle
+	BackgroundScale: 1.3
+	Material: VoidOracle
 	Model: Oracle
 	Subsystem: SupportHull
 	Subsystem: ProtossOracle
@@ -582,13 +1605,23 @@ Hull: SPhotonSphere
 	Tags: Support
 
 Hull: SDarkPhotonSphere
-	Name: Tal'Darim Photon Sphere
+	Name: Tal'darim Photon Sphere
 	Background: DarkPhotonSphere
 	BackgroundScale: 1.4
 	Material: DarkPhotonSphere
 	Model: PhotonSphere
 	Subsystem: SupportHull
 	Subsystem: ProtossPhoton
+	Tags: Support
+
+Hull: SVoidPhotonSphere
+	Name: Death Fleet Photon Sphere
+	Background: VoidPhotonSphere
+	BackgroundScale: 1.4
+	Material: VoidPhotonSphere
+	Model: VoidPhotonSphere
+	Subsystem: SupportHull
+	Subsystem: ProtossVoidSphere
 	Tags: Support
 
 Hull: SProbe
@@ -601,14 +1634,74 @@ Hull: SProbe
 	Subsystem: ProtossProbe
 	Tags: Support
 
+Hull: SNerazimProbe
+	Name: Nerazim Probe
+	Background: NerazimProbe
+	BackgroundScale: 1.3
+	Material: NerazimProbe
+	Model: Probe
+	Subsystem: SupportHull
+	Subsystem: ProtossProbe
+	Tags: Support
+
+Hull: SDarkProbe
+	Name: Tal'darim Probe
+	Background: DarkProbe
+	BackgroundScale: 1.3
+	Material: DarkProbe
+	Model: Probe
+	Subsystem: SupportHull
+	Subsystem: ProtossProbe
+	Tags: Support
+
+Hull: SVoidProbe
+	Name: Death Fleet Probe
+	Background: VoidProbe
+	BackgroundScale: 1.3
+	Material: VoidProbe
+	Model: Probe
+	Subsystem: SupportHull
+	Subsystem: ProtossProbe
+	Tags: Support
+
 Hull: SProtossFrigate
-	Name: Evacuation Transport
+	Name: Ark Shuttle
 	Background: ProtossFrigate
 	BackgroundScale: 1
 	Material: ProtossFrigate
 	Model: ProtossFrigate
 	Subsystem: SupportHull
 	Subsystem: ProtossFrigate
+	Tags: Support
+
+Hull: SNerazimFrigate
+	Name: Nerazim Ark Shuttle
+	Background: NerazimFrigate
+	BackgroundScale: 1
+	Material: NerazimFrigate
+	Model: ProtossFrigate
+	Subsystem: SupportHull
+	Subsystem: ProtossFrigate
+	Tags: Support
+
+Hull: SDarkFrigate
+	Name: Tal'darim Ark Shuttle
+	Background: DarkFrigate
+	BackgroundScale: 1
+	Material: DarkFrigate
+	Model: ProtossFrigate
+	Subsystem: SupportHull
+	Subsystem: ProtossFrigate
+	Tags: Support
+
+Hull: SVoidFrigate
+	Name: Death Fleet Ark Shuttle
+	Background: VoidFrigate
+	BackgroundScale: 1
+	Material: VoidFrigate
+	Model: VoidFrigate
+	Subsystem: SupportHull
+	Subsystem: ProtossVoidFrigate
 	Tags: Support
 
 Hull: SSentry
@@ -621,18 +1714,58 @@ Hull: SSentry
 	Subsystem: ProtossSentry
 	Tags: Support
 
+Hull: SNerazimSentry
+	Name: Nerazim Sentry
+	Background: NerazimSentry
+	BackgroundScale: 1.0
+	Material: NerazimSentry
+	Model: Sentry
+	Subsystem: SupportHull
+	Subsystem: ProtossSentry
+	Tags: Support
+
+Hull: SDarkSentry
+	Name: Tal'darim Sentry
+	Background: DarkSentry
+	BackgroundScale: 1.0
+	Material: DarkSentry
+	Model: Sentry
+	Subsystem: SupportHull
+	Subsystem: ProtossSentry
+	Tags: Support
+
+Hull: SPurifierSentry
+	Name: Energizer
+	Background: PurifierSentry
+	BackgroundScale: 1.0
+	Material: PurifierSentry
+	Model: PurifierSentry
+	Subsystem: SupportHull
+	Subsystem: ProtossEnergizer
+	Tags: Support
+
+Hull: SVoidSentry
+	Name: Havoc
+	Background: VoidSentry
+	BackgroundScale: 1.0
+	Material: VoidSentry
+	Model: VoidSentry
+	Subsystem: SupportHull
+	Subsystem: ProtossHavoc
+	Tags: Support
+
 Hull: SShuttle
 	Name: Shuttle
 	Background: Shuttle
 	BackgroundScale: 1.2
-	Material: Shuttle
+	Material: ProtossShuttle
 	Model: Shuttle
 	Subsystem: SupportHull
 	Subsystem: ProtossShuttle
 	Tags: Support
 
 Hull: SDarkShuttle
-	Name: Tal'Darim Shuttle
+	Name: Tal'darim Shuttle
 	Background: DarkShuttle
 	BackgroundScale: 1.2
 	Material: DarkShuttle
@@ -662,10 +1795,20 @@ Hull: SWarpRay
 	Tags: Support
 
 Hull: SDarkVoidRay
-	Name: Tal'Darim Warp Ray
+	Name: Tal'darim Warp Ray
 	Background: DarkVoidRay
 	BackgroundScale: 1.3
 	Material: DarkVoidRay
+	Model: VoidRay
+	Subsystem: SupportHull
+	Subsystem: ProtossVoidRay
+	Tags: Support
+
+Hull: SDestroyer
+	Name: Destroyer
+	Background: Destroyer
+	BackgroundScale: 1.3
+	Material: Destroyer
 	Model: VoidRay
 	Subsystem: SupportHull
 	Subsystem: ProtossVoidRay
@@ -676,6 +1819,26 @@ Hull: SMohandar
 	Background: Mohandar
 	BackgroundScale: 1.3
 	Material: Mohandar
+	Model: Mohandar
+	Subsystem: SupportHull
+	Subsystem: ProtossMohandar
+	Tags: Support
+
+Hull: SDarkMohandar
+	Name: Mohandar-type Tal'darim Warp Ray
+	Background: DarkMohandar
+	BackgroundScale: 1.3
+	Material: DarkMohandar
+	Model: Mohandar
+	Subsystem: SupportHull
+	Subsystem: ProtossMohandar
+	Tags: Support
+
+Hull: SWarpMohandar
+	Name: Mohandar-type Warp Ray
+	Background: WarpMohandar
+	BackgroundScale: 1.3
+	Material: WarpMohandar
 	Model: Mohandar
 	Subsystem: SupportHull
 	Subsystem: ProtossMohandar
@@ -702,10 +1865,40 @@ Hull: STemplarArchive
 	Tags: Support
 
 Hull: SDarkArchive
-	Name: Tal'Darim Battleship
+	Name: Tal'darim Battleship
 	Background: DarkArchive
 	BackgroundScale: 1.2
 	Material: DarkArchive
+	Model: TemplarArchive
+	Subsystem: SupportHull
+	Subsystem: ProtossArchive
+	Tags: Support
+
+Hull: SNerazimArchive
+	Name: Nerazim Battleship
+	Background: NerazimArchive
+	BackgroundScale: 1.2
+	Material: NerazimArchive
+	Model: TemplarArchive
+	Subsystem: SupportHull
+	Subsystem: ProtossArchive
+	Tags: Support
+
+Hull: SVoidArchive
+	Name: Death Fleet Battleship
+	Background: VoidArchive
+	BackgroundScale: 1.2
+	Material: VoidArchive
+	Model: TemplarArchive
+	Subsystem: SupportHull
+	Subsystem: ProtossArchive
+	Tags: Support
+
+Hull: SPurifierArchive
+	Name: Purifier Battleship
+	Background: PurifierArchive
+	BackgroundScale: 1.2
+	Material: PurifierArchive
 	Model: TemplarArchive
 	Subsystem: SupportHull
 	Subsystem: ProtossArchive
@@ -721,4 +1914,106 @@ Hull: STempest
 	Subsystem: ProtossTempest
 	Tags: Support
 
+Hull: SDarkTempest
+	Name: Tal'darim Tempest
+	Background: DarkTempest
+	BackgroundScale: 1.1
+	Material: DarkTempest
+	Model: Tempest
+	Subsystem: SupportHull
+	Subsystem: ProtossTempest
+	Tags: Support
+
+Hull: SNerazimTempest
+	Name: Typhoon
+	Background: NerazimTempest
+	BackgroundScale: 1.1
+	Material: NerazimTempest
+	Model: Tempest
+	Subsystem: SupportHull
+	Subsystem: ProtossTempest
+	Tags: Support
+
+Hull: SPurifierTempest
+	Name: Purifier Tempest
+	Background: PurifierTempest
+	BackgroundScale: 1.1
+	Material: PurifierTempest
+	Model: PurifierTempest
+	Subsystem: SupportHull
+	Subsystem: ProtossPurifierTempest
+	Tags: Support
+
+Hull: SVoidTempest
+	Name: Death Fleet Tempest
+	Background: VoidTempest
+	BackgroundScale: 1.1
+	Material: VoidTempest
+	Model: VoidTempest
+	Subsystem: SupportHull
+	Subsystem: ProtossVoidTempest
+	Tags: Support
+
 // END SUPPORT LIST HERE
+
+Hull: ProtossStargate
+	Name: Stargate
+	Background: ProtossStargate
+	BackgroundScale: 1.0
+	Material: ProtossStargate
+	Model: ProtossStargate
+	Subsystem: StationHull
+	Subsystem: ProtossStargate
+	Subsystem: GateHull
+	MinSize: 16
+	Tags: Station
+
+Hull: DarkStargate
+	Name: Tal'darim Stargate
+	Background: DarkStargate
+	BackgroundScale: 1.0
+	Material: DarkStargate
+	Model: ProtossStargate
+	Subsystem: StationHull
+	Subsystem: ProtossStargate
+	Subsystem: GateHull
+	MinSize: 16
+	Tags: Station
+
+Hull: NerazimStargate
+	Name: Nerazim Stargate
+	Background: NerazimStargate
+	BackgroundScale: 1.0
+	Material: NerazimStargate
+	Model: ProtossStargate
+	Subsystem: StationHull
+	Subsystem: ProtossStargate
+	Subsystem: GateHull
+	MinSize: 16
+	Tags: Station
+
+Hull: VoidStargate
+	Name: Death Fleet Stargate
+	Background: VoidStargate
+	BackgroundScale: 1.0
+	Material: VoidStargate
+	Model: VoidStargate
+	Subsystem: StationHull
+	Subsystem: ProtossVoidgate
+	Subsystem: GateHull
+	MinSize: 16
+	Tags: Station
+
+Hull: PurifierStargate
+	Name: Purifier Stargate
+	Background: PurifierStargate
+	BackgroundScale: 1.0
+	Material: PurifierStargate
+	Model: ProtossStargate
+	Subsystem: StationHull
+	Subsystem: ProtossStargate
+	Subsystem: GateHull
+	MinSize: 16
+	Tags: Station
+
+// END GATE LIST HERE

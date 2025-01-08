@@ -1,23 +1,19 @@
 	Name: The Firstborn
 	Description: <<
-		A Protoss shipset ported from StarCraft 2. Includes subsets - variants of the shipset which have had some ships thematically stripped out, subsets are intended for use by the AI; though they can quite easily be used by players. Does not have any default designs (except Motherships). Custom hex limits, compatible with the Hex Limit Reverter.
+		[b][i][u]NOTE[/u]: It is absolutely vital that you download the 'DOF-Shipset-Common Library' addon from here: [url]http://steamcommunity.com/sharedfiles/filedetails/?id=505348416[/url]. Failure to do so will have unpredictable effects, the least of which will invariably be that all hulls will be untextured black blobs - worst-case scenario, the game may cease functioning altogether![/i][/b] 
+
+		A Protoss shipset ported from StarCraft 2. Includes subsets - variants of the shipset which have had some ships thematically stripped out, subsets are intended for use by the AI; though they can quite easily be used by players. Does not have any default designs. Includes custom hex limits through use of the Hex Limit Modifier.
 
 		Subsets:
-		- Nerazim: Dark Templar, only contains Dark Templar units. The smallest subset of them all.
-		- Tal'Darim: 'Dark Protoss' models were used in Heart of the Swarm to represent the Tal'Darim. Second smallest subset, but still fairly large.
+		- Nerazim: Dark Templar, only contains Dark Templar units. Fairly decently-sized.
+		- Tal'darim: 'Dark Protoss' models were used in Heart of the Swarm to represent the Tal'darim. Second smallest subset, but still fairly large. Now also includes several 'Death Fleet' units from the Legacy of the Void Tal'darim.
 		- Khalai: 'Light Protoss' models, but no Dark Templar units. Smaller only than the Daelaam subset.
 		- Daelaam: The Aiur and Nerazim subsets combined; in other words, StarCraft 2 units.
+		- Purifier: Purifiers as seen in Legacy of the Void. Smaller even than the Nerazim.
 
-		Credits:
-		- Blizzard Entertainment for all models and textures except where stated otherwise
-
-		- SC2Mapster community for both Arbiters (and the Tal'Darim variant), Supercarrier (GnaReffotsirk's work - I don't know the names of the other authors, nor do I know what who did; I'm just porting stuff), Tal'Darim Supercarrier texture, Tal'Darim Mothership texture, Shuttle (GnaReffotsirk again), Tal'Darim Shuttle texture, 'Early Probe', Warp Ray (diffuse texture only)
-
-		- Yours truly for converting all of this stuff from .m3 and .dds files into the .obj and .png files SR2 knows how to interpret, as well as modifying the Dark Shrine (taken from Blizzard's assets of the same name, stripped down and fused to a mirror image of itself), Sentry and Probe (both taken from Blizzard's portrait models for those units), Nexus (taken from Blizzard's assets and fused to a mirror image of itself) and Templar Battleship (taken from 'Templar Archives' Blizzard assets and fused to a mirror image of itself)
-
-		- Thy Reaper for helping me resolve texturing issues. Without his guidance, this would not exist. Of course, the entire Blind Mind team should be in these credits just for making the game! :)
-
-
+		Credits: http://steamcommunity.com/workshop/filedetails/discussion/361747890/485623406958402265/
 
 		If I miscredited someone, or there's a bug, don't hesitate to point it out.
 	>>
+	Compatibility: 200
+	Derives From: DOF-Shipset-Common Library v1.000
