@@ -3,53 +3,107 @@ Shipset: KEC
 	Available: Yes
 
 	Hull: BCHyperion
+	Hull: BCBehemoth
 	Hull: Battlecruiser
 	Hull: BCHurricane
 	Hull: BCLoki
 	Hull: BCYamato
-	Hull: TrainEngine
-	Hull: TrainCar
+	Hull: Liberator
+	Hull: ScienceVesselBW
 	Hull: Raven
 	Hull: ScienceVessel
 	Hull: Valkyrie
 
 	Hull: ScienceStation
+	Hull: ScienceStationBW
 	Hull: SpaceTower
 	Hull: ValerianStation
+	Hull: HanStation
+
+	Hull: SScienceStation
+	Hull: SScienceStationBW
+	Hull: SSpaceTower
+	Hull: SValerianStation
+	Hull: SHanStation
 
 	Hull: SBattlecruiser
 	Hull: SBCHyperion
+	Hull: SBCBehemoth
 	Hull: SBCHurricane
 	Hull: SBCLoki
 	Hull: SBCYamato
-	Hull: STrainEngine
-	Hull: STrainCar
+	Hull: SLiberator
+	Hull: SScienceVesselBW
 	Hull: SRaven
 	Hull: SScienceVessel
 	Hull: SValkyrie
 
 	// END KOPRULU LIST
 
-	Hull: Kol
-	Hull: CobaltTEC
-	Hull: Garda
+	Hull: TECKol
+	Hull: TECAkkan
+	Hull: TECAnkylon
+	Hull: TECCielo
+	Hull: TECCobalt
+	Hull: TECCorsev
+	Hull: TECDunov
 	Hull: TECFreighter
-	Hull: Dunov
-	Hull: Akkan
-	Hull: Sova
-	Hull: Krosov
-	Hull: Marza
-	Hull: Ragnarov
+	Hull: TECGarda
+	Hull: TECHoshiko
+	Hull: TECJavelis
+	Hull: TECKodiak
+	Hull: TECKrosov
+	Hull: TECMarza
+	Hull: TECNeruda
+	Hull: TECOgrov
+	Hull: TECPercheron
+	Hull: TECProtev
+	Hull: TECRagnarov
+	Hull: TECRaloz
+	Hull: TECShriken
+	Hull: TECSova
+	Hull: TECStilat
 
-	Hull: Argonev
+	Hull: TECArgonev
+	Hull: TECRefinery
+	Hull: TECTradePort
 
-	Hull: SCobaltTEC
-	Hull: SKrosov
-	Hull: SGarda
+	Hull: STECArgonev
+	Hull: STECRefinery
+	Hull: STECTradePort
+
+	Hull: STECCobalt
+	Hull: STECAkkan
+	Hull: STECAnkylon
+	Hull: STECCielo
+	Hull: STECCorsev
+	Hull: STECDunov
 	Hull: STECFreighter
-	Hull: SDunov
-	Hull: SAkkan
-	Hull: SSova
-	Hull: SKol
-	Hull: SMarza
-	Hull: SRagnarov
+	Hull: STECGarda
+	Hull: STECHoshiko
+	Hull: STECJavelis
+	Hull: STECKodiak
+	Hull: STECKol
+	Hull: STECKrosov
+	Hull: STECMarza
+	Hull: STECNeruda
+	Hull: STECOgrov
+	Hull: STECPercheron
+	Hull: STECProtev
+	Hull: STECRagnarov
+	Hull: STECRaloz
+	Hull: STECShriken
+	Hull: STECSova
+	Hull: STECStilat
+
+	Skin: Missionary
+		Model: TECNeruda
+		Material: TECNeruda
+
+	Skin: Freighter
+		Model: TECFreighter
+		Material: TECFreighter
+
+	Skin: Colonizer
+		Model: TECProtev
+		Material: TECProtev

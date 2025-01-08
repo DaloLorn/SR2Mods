@@ -5,3 +5,4 @@
 		WARNING: The assets required for this shipset to function are located within the 'Koprulu Navy' and 'Trader Emergency Coalition' addons. Without both of them installed and enabled, this shipset will not function!
 
 	>>
+	Compatibility: 200
