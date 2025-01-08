@@ -3,70 +3,267 @@ Material: AdventTemplate
 	Texture4: data/shipsets/Advent/gloss.png
 	Texture5: data/images/skybox.png
 	Texture6: data/shipsets/Advent/gloss.png
-	Shader: SupportShip
+	Shader: DOFSupportShipLCXN
 	Shininess: 12
+
+Material: AdventTemplatePBR
+	Blend: Alpha
+	Texture2: data/shipsets/Advent/normal.png
+	Texture4: data/shipsets/DOFCommon/damage_tiler.png
+	Cubemap5: data/images/skycube.png
+	Shader: PBRModShipS
+
+Material: AdventAeria
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Aeria.png
+	Texture2: data/shipsets/Advent/Aeria_normal.png
+	Texture3: data/shipsets/Advent/Aeria_specular.png
+	Texture4: data/shipsets/Advent/Aeria_gloss.png
+	Texture6: data/shipsets/Advent/Aeria_masks.png
+
+Material: AdventAcolyte
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Acolyte.png
+	Texture2: data/shipsets/Advent/Acolyte_normal.png
+	Texture3: data/shipsets/Advent/Acolyte_specular.png
+	Texture4: data/shipsets/Advent/Acolyte_gloss.png
+	Texture6: data/shipsets/Advent/Acolyte_masks.png
+
+Material: AdventAntimatter
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/AntimatterRecharger.png
+	Texture2: data/shipsets/Advent/AntimatterRecharger_normal.png
+	Texture3: data/shipsets/Advent/AntimatterRecharger_specular.png
+	Texture4: data/shipsets/Advent/AntimatterRecharger_gloss.png
+	Texture6: data/shipsets/Advent/AntimatterRecharger_masks.png
+
+Material: AdventCapital
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/CapitalFactory.png
+	Texture2: data/shipsets/Advent/CapitalFactory_normal.png
+	Texture3: data/shipsets/Advent/CapitalFactory_specular.png
+	Texture4: data/shipsets/Advent/CapitalFactory_gloss.png
+	Texture6: data/shipsets/Advent/CapitalFactory_masks.png
+
+Material: AdventCoronata
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Coronata.png
+	Texture2: data/shipsets/Advent/Coronata_normal.png
+	Texture3: data/shipsets/Advent/Coronata_specular.png
+	Texture4: data/shipsets/Advent/Coronata_gloss.png
+	Texture6: data/shipsets/Advent/Coronata_masks.png
 
 Material: AdventDefense
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/DefenseVessel.png
-	Texture3: data/shipsets/Advent/DefenseVessel.png
+	Texture2: data/shipsets/Advent/DefenseVessel_normal.png
+	Texture3: data/shipsets/Advent/DefenseVessel_specular.png
+	Texture4: data/shipsets/Advent/DefenseVessel_gloss.png
+	Texture6: data/shipsets/Advent/DefenseVessel_masks.png
+
+Material: AdventDeliverance
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/DeliveranceEngine.png
+	Texture2: data/shipsets/Advent/DeliveranceEngine_normal.png
+	Texture3: data/shipsets/Advent/DeliveranceEngine_specular.png
+	Texture4: data/shipsets/Advent/DeliveranceEngine_gloss.png
+	Texture6: data/shipsets/Advent/DeliveranceEngine_masks.png
 
 Material: AdventDestra
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Destra.png
-	Texture3: data/shipsets/Advent/Destra.png
+	Texture2: data/shipsets/Advent/Destra_normal.png
+	Texture3: data/shipsets/Advent/Destra_specular.png
+	Texture4: data/shipsets/Advent/Destra_gloss.png
+	Texture6: data/shipsets/Advent/Destra_masks.png
 
 Material: AdventDisciple
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/DiscipleVessel.png
-	Texture3: data/shipsets/Advent/DiscipleVessel.png
+	Texture2: data/shipsets/Advent/DiscipleVessel_normal.png
+	Texture3: data/shipsets/Advent/DiscipleVessel_specular.png
+	Texture4: data/shipsets/Advent/DiscipleVessel_gloss.png
+	Texture6: data/shipsets/Advent/DiscipleVessel_masks.png
+
+Material: AdventDiscord
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Discord.png
+	Texture2: data/shipsets/Advent/Discord_normal.png
+	Texture3: data/shipsets/Advent/Discord_specular.png
+	Texture4: data/shipsets/Advent/Discord_gloss.png
+	Texture6: data/shipsets/Advent/Discord_masks.png
 
 Material: AdventDomina
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Domina.png
-	Texture3: data/shipsets/Advent/Domina.png
+	Texture2: data/shipsets/Advent/Domina_normal.png
+	Texture3: data/shipsets/Advent/Domina_specular.png
+	Texture4: data/shipsets/Advent/Domina_gloss.png
+	Texture6: data/shipsets/Advent/Domina_masks.png
 
 Material: AdventEradica
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Eradica.png
-	Texture3: data/shipsets/Advent/Eradica.png
+	Texture2: data/shipsets/Advent/Eradica_normal.png
+	Texture3: data/shipsets/Advent/Eradica_specular.png
+	Texture4: data/shipsets/Advent/Eradica_gloss.png
+	Texture6: data/shipsets/Advent/Eradica_masks.png
 
 Material: AdventFreighter
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Freighter.png
-	Texture3: data/shipsets/Advent/Freighter.png
+	Texture2: data/shipsets/Advent/Freighter_normal.png
+	Texture3: data/shipsets/Advent/Freighter_specular.png
+	Texture4: data/shipsets/Advent/Freighter_gloss.png
+	Texture6: data/shipsets/Advent/Freighter_masks.png
+
+Material: AdventFrigateFactory
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/FrigateFactory.png
+	Texture2: data/shipsets/Advent/FrigateFactory_normal.png
+	Texture3: data/shipsets/Advent/FrigateFactory_specular.png
+	Texture4: data/shipsets/Advent/FrigateFactory_gloss.png
+	Texture6: data/shipsets/Advent/FrigateFactory_masks.png
 
 Material: AdventHalcyon
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Halcyon.png
-	Texture3: data/shipsets/Advent/Halcyon.png
+	Texture2: data/shipsets/Advent/Halcyon_normal.png
+	Texture3: data/shipsets/Advent/Halcyon_specular.png
+	Texture4: data/shipsets/Advent/Halcyon_gloss.png
+	Texture6: data/shipsets/Advent/Halcyon_masks.png
+
+Material: AdventHerald
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Herald.png
+	Texture2: data/shipsets/Advent/Herald_normal.png
+	Texture3: data/shipsets/Advent/Herald_specular.png
+	Texture4: data/shipsets/Advent/Herald_gloss.png
+	Texture6: data/shipsets/Advent/Herald_masks.png
+
+Material: AdventIconus
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Iconus.png
+	Texture2: data/shipsets/Advent/Iconus_normal.png
+	Texture3: data/shipsets/Advent/Iconus_specular.png
+	Texture4: data/shipsets/Advent/Iconus_gloss.png
+	Texture6: data/shipsets/Advent/Iconus_masks.png
 
 Material: AdventIlluminator
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Illuminator.png
-	Texture3: data/shipsets/Advent/Illuminator.png
+	Texture2: data/shipsets/Advent/Illuminator_normal.png
+	Texture3: data/shipsets/Advent/Illuminator_specular.png
+	Texture4: data/shipsets/Advent/Illuminator_gloss.png
+	Texture6: data/shipsets/Advent/Illuminator_masks.png
+
+Material: AdventMissionary
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/MissionaryVessel.png
+	Texture2: data/shipsets/Advent/MissionaryVessel_normal.png
+	Texture3: data/shipsets/Advent/MissionaryVessel_specular.png
+	Texture4: data/shipsets/Advent/MissionaryVessel_gloss.png
+	Texture6: data/shipsets/Advent/MissionaryVessel_masks.png
 
 Material: AdventProgenitor
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Progenitor.png
-	Texture3: data/shipsets/Advent/Progenitor.png
+	Texture2: data/shipsets/Advent/Progenitor_normal.png
+	Texture3: data/shipsets/Advent/Progenitor_specular.png
+	Texture4: data/shipsets/Advent/Progenitor_gloss.png
+	Texture6: data/shipsets/Advent/Progenitor_masks.png
+
+Material: AdventPurge
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/PurgeVessel.png
+	Texture2: data/shipsets/Advent/PurgeVessel_normal.png
+	Texture3: data/shipsets/Advent/PurgeVessel_specular.png
+	Texture4: data/shipsets/Advent/PurgeVessel_gloss.png
+	Texture6: data/shipsets/Advent/PurgeVessel_masks.png
 
 Material: AdventRadiance
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Radiance.png
-	Texture3: data/shipsets/Advent/Radiance.png
+	Texture2: data/shipsets/Advent/Radiance_normal.png
+	Texture3: data/shipsets/Advent/Radiance_specular.png
+	Texture4: data/shipsets/Advent/Radiance_gloss.png
+	Texture6: data/shipsets/Advent/Radiance_masks.png
 
 Material: AdventRapture
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Rapture.png
-	Texture3: data/shipsets/Advent/Rapture.png
+	Texture2: data/shipsets/Advent/Rapture_normal.png
+	Texture3: data/shipsets/Advent/Rapture_specular.png
+	Texture4: data/shipsets/Advent/Rapture_gloss.png
+	Texture6: data/shipsets/Advent/Rapture_masks.png
+
+Material: AdventRepair
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/RepairPlatform.png
+	Texture2: data/shipsets/Advent/RepairPlatform_normal.png
+	Texture3: data/shipsets/Advent/RepairPlatform_specular.png
+	Texture4: data/shipsets/Advent/RepairPlatform_gloss.png
+	Texture6: data/shipsets/Advent/RepairPlatform_masks.png
 
 Material: AdventSeeker
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/SeekerVessel.png
-	Texture3: data/shipsets/Advent/SeekerVessel.png
+	Texture2: data/shipsets/Advent/SeekerVessel_normal.png
+	Texture3: data/shipsets/Advent/SeekerVessel_specular.png
+	Texture4: data/shipsets/Advent/SeekerVessel_gloss.png
+	Texture6: data/shipsets/Advent/SeekerVessel_masks.png
+
+Material: AdventSolanus
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Solanus.png
+	Texture3: data/shipsets/Advent/Solanus_specular.png
+	Texture4: data/shipsets/Advent/Solanus_gloss.png
+	Texture6: data/shipsets/Advent/Solanus_masks.png
+
+Material: AdventTalion
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Talion.png
+	Texture2: data/shipsets/Advent/Talion_normal.png
+	Texture3: data/shipsets/Advent/Talion_specular.png
+	Texture4: data/shipsets/Advent/Talion_gloss.png
+	Texture6: data/shipsets/Advent/Talion_masks.png
+
+Material: AdventTempleCommunion
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/TempleCommunion.png
+	Texture2: data/shipsets/Advent/TempleCommunion_normal.png
+	Texture3: data/shipsets/Advent/TempleCommunion_specular.png
+	Texture4: data/shipsets/Advent/TempleCommunion_gloss.png
+	Texture6: data/shipsets/Advent/TempleCommunion_masks.png
+
+Material: AdventTempleHarmony
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/TempleHarmony.png
+	Texture2: data/shipsets/Advent/TempleHarmony_normal.png
+	Texture3: data/shipsets/Advent/TempleHarmony_specular.png
+	Texture4: data/shipsets/Advent/TempleHarmony_gloss.png
+	Texture6: data/shipsets/Advent/TempleHarmony_masks.png
+
+Material: AdventTempleHostility
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/TempleHostility.png
+	Texture2: data/shipsets/Advent/TempleHostility_normal.png
+	Texture3: data/shipsets/Advent/TempleHostility_specular.png
+	Texture4: data/shipsets/Advent/TempleHostility_gloss.png
+	Texture6: data/shipsets/Advent/TempleHostility_masks.png
 
 Material: AdventTranscencia
 	Inherit: AdventTemplate
 	Texture: data/shipsets/Advent/Transcencia.png
-	Texture3: data/shipsets/Advent/Transcencia.png
+	Texture2: data/shipsets/Advent/Transcencia_normal.png
+	Texture3: data/shipsets/Advent/Transcencia_specular.png
+	Texture4: data/shipsets/Advent/Transcencia_gloss.png
+	Texture6: data/shipsets/Advent/Transcencia_masks.png
+
+Material: AdventVespa
+	Inherit: AdventTemplate
+	Texture: data/shipsets/Advent/Vespa.png
+	Texture2: data/shipsets/Advent/Vespa_normal.png
+	Texture3: data/shipsets/Advent/Vespa_specular.png
+	Texture4: data/shipsets/Advent/Vespa_gloss.png
+	Texture6: data/shipsets/Advent/Vespa_masks.png

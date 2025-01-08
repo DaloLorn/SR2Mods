@@ -9,6 +9,39 @@ Hull: AdventRadiance
 	MinSize: 16
 	Tags: Flagship
 
+Hull: AdventAeria
+	Name: Aeria Drone Host
+	Background: AdventAeria
+	BackgroundScale: 1.25
+	Material: AdventAeria
+	Model: AdventAeria
+	Subsystem: FlagshipHull
+	Subsystem: AdventAeria
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventAcolyte
+	Name: Acolyte-class Corvette
+	Background: AdventAcolyte
+	BackgroundScale: 1.1
+	Material: AdventAcolyte
+	Model: AdventCorvette
+	Subsystem: FlagshipHull
+	Subsystem: AdventCorvette
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventCoronata
+	Name: Coronata-class Titan
+	Background: AdventCoronata
+	BackgroundScale: 2.05
+	Material: AdventCoronata
+	Model: AdventCoronata
+	Subsystem: FlagshipHull
+	Subsystem: AdventCoronata
+	MinSize: 16
+	Tags: Flagship
+
 Hull: AdventDefense
 	Name: Defense Vessel
 	Background: AdventDefense
@@ -53,6 +86,17 @@ Hull: AdventDisciple
 	MinSize: 16
 	Tags: Flagship
 
+Hull: AdventDiscord
+	Name: Discord-class Battleship
+	Background: AdventDiscord
+	BackgroundScale: 1.25
+	Material: AdventDiscord
+	Model: AdventDiscord
+	Subsystem: FlagshipHull
+	Subsystem: AdventDiscord
+	MinSize: 16
+	Tags: Flagship
+
 Hull: AdventEradica
 	Name: Eradica-class Titan
 	Background: AdventEradica
@@ -86,6 +130,28 @@ Hull: AdventHalcyon
 	MinSize: 16
 	Tags: Flagship
 
+Hull: AdventHerald
+	Name: Herald Envoy
+	Background: AdventHerald
+	BackgroundScale: 1.35
+	Material: AdventHerald
+	Model: AdventHerald
+	Subsystem: FlagshipHull
+	Subsystem: AdventHerald
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventIconus
+	Name: Iconus Guardian
+	Background: AdventIconus
+	BackgroundScale: 1.35
+	Material: AdventIconus
+	Model: AdventIconus
+	Subsystem: FlagshipHull
+	Subsystem: AdventIconus
+	MinSize: 16
+	Tags: Flagship
+
 Hull: AdventIlluminator
 	Name: Illuminator Vessel
 	Background: AdventIlluminator
@@ -97,6 +163,17 @@ Hull: AdventIlluminator
 	MinSize: 16
 	Tags: Flagship
 
+Hull: AdventMissionary
+	Name: Missionary Vessel
+	Background: AdventMissionary
+	BackgroundScale: 2.25
+	Material: AdventMissionary
+	Model: AdventMissionary
+	Subsystem: FlagshipHull
+	Subsystem: AdventMissionary
+	MinSize: 16
+	Tags: Flagship
+
 Hull: AdventProgenitor
 	Name: Progenitor Mothership
 	Background: AdventProgenitor
@@ -105,6 +182,17 @@ Hull: AdventProgenitor
 	Model: AdventProgenitor
 	Subsystem: FlagshipHull
 	Subsystem: AdventProgenitor
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventPurge
+	Name: Purge Vessel
+	Background: AdventPurge
+	BackgroundScale: 1.25
+	Material: AdventPurge
+	Model: AdventPurge
+	Subsystem: FlagshipHull
+	Subsystem: AdventPurge
 	MinSize: 16
 	Tags: Flagship
 
@@ -130,6 +218,39 @@ Hull: AdventSeeker
 	MinSize: 16
 	Tags: Flagship
 
+Hull: AdventSolanus
+	Name: Solanus Adjudicator
+	Background: AdventSolanus
+	BackgroundScale: 1.25
+	Material: AdventSolanus
+	Model: AdventSolanus
+	Subsystem: FlagshipHull
+	Subsystem: AdventSolanus
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventTalion
+	Name: Talion Savior
+	Background: AdventTalion
+	BackgroundScale: 1.25
+	Material: AdventTalion
+	Model: AdventTalion
+	Subsystem: FlagshipHull
+	Subsystem: AdventTalion
+	MinSize: 16
+	Tags: Flagship
+
+Hull: AdventVespa
+	Name: Vespa-class Corvette
+	Background: AdventVespa
+	BackgroundScale: 1.1
+	Material: AdventVespa
+	Model: AdventCorvette
+	Subsystem: FlagshipHull
+	Subsystem: AdventCorvette
+	MinSize: 16
+	Tags: Flagship
+
 // END FLAGSHIP LIST HERE
 
 Hull: AdventTranscencia
@@ -140,6 +261,94 @@ Hull: AdventTranscencia
 	Model: AdventTranscencia
 	Subsystem: StationHull
 	Subsystem: AdventTranscencia
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventAntimatter
+	Name: Temple of Renewal
+	Background: AdventAntimatter
+	BackgroundScale: 1.25
+	Material: AdventAntimatter
+	Model: AdventAntimatter
+	Subsystem: StationHull
+	Subsystem: AdventAntimatter
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventCapitalFactory
+	Name: Large Shipyard
+	Background: AdventCapital
+	BackgroundScale: 1.2
+	Material: AdventCapital
+	Model: AdventCapitalFactory
+	Subsystem: StationHull
+	Subsystem: AdventCapitalFactory
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventDeliverance
+	Name: Deliverance Cannon
+	Background: AdventDeliverance
+	BackgroundScale: 1.2
+	Material: AdventDeliverance
+	Model: AdventDeliverance
+	Subsystem: StationHull
+	Subsystem: AdventDeliverance
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventFrigateFactory
+	Name: Small Shipyard
+	Background: AdventFrigateFactory
+	BackgroundScale: 1.35
+	Material: AdventFrigateFactory
+	Model: AdventFrigateFactory
+	Subsystem: StationHull
+	Subsystem: AdventFrigateFactory
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventRepair
+	Name: Repair Platform
+	Background: AdventRepair
+	BackgroundScale: 1.2
+	Material: AdventRepair
+	Model: AdventRepair
+	Subsystem: StationHull
+	Subsystem: AdventRepair
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventTempleCommunion
+	Name: Temple of Communion
+	Background: AdventTempleCommunion
+	BackgroundScale: 1.6
+	Material: AdventTempleCommunion
+	Model: AdventTempleCommunion
+	Subsystem: StationHull
+	Subsystem: AdventTempleCommunion
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventTempleHarmony
+	Name: Temple of Harmony
+	Background: AdventTempleHarmony
+	BackgroundScale: 2.75
+	Material: AdventTempleHarmony
+	Model: AdventTempleHarmony
+	Subsystem: StationHull
+	Subsystem: AdventTempleHarmony
+	MinSize: 16
+	Tags: Station
+
+Hull: AdventTempleHostility
+	Name: Temple of Hostility
+	Background: AdventTempleHostility
+	BackgroundScale: 2.25
+	Material: AdventTempleHostility
+	Model: AdventTempleHostility
+	Subsystem: StationHull
+	Subsystem: AdventTempleHostility
 	MinSize: 16
 	Tags: Station
 
@@ -154,6 +363,36 @@ Hull: SAdventRadiance
 	Subsystem: SupportHull
 	Subsystem: AdventRadiance
 	
+	Tags: Support
+
+Hull: SAdventAeria
+	Name: Aeria Drone Host
+	Background: AdventAeria
+	BackgroundScale: 1.25
+	Material: AdventAeria
+	Model: AdventAeria
+	Subsystem: SupportHull
+	Subsystem: AdventAeria
+	Tags: Support
+
+Hull: SAdventAcolyte
+	Name: Acolyte-class Corvette
+	Background: AdventAcolyte
+	BackgroundScale: 1.1
+	Material: AdventAcolyte
+	Model: AdventCorvette
+	Subsystem: SupportHull
+	Subsystem: AdventCorvette
+	Tags: Support
+
+Hull: SAdventCoronata
+	Name: Coronata-class Titan
+	Background: AdventCoronata
+	BackgroundScale: 2.05
+	Material: AdventCoronata
+	Model: AdventCoronata
+	Subsystem: SupportHull
+	Subsystem: AdventCoronata
 	Tags: Support
 
 Hull: SAdventDefense
@@ -198,6 +437,17 @@ Hull: SAdventDisciple
 
 	Tags: Support
 
+Hull: SAdventDiscord
+	Name: Discord-class Battleship
+	Background: AdventDiscord
+	BackgroundScale: 1.25
+	Material: AdventDiscord
+	Model: AdventDiscord
+	Subsystem: SupportHull
+	Subsystem: AdventDiscord
+
+	Tags: Support
+
 Hull: SAdventEradica
 	Name: Eradica-class Titan
 	Background: AdventEradica
@@ -230,6 +480,26 @@ Hull: SAdventHalcyon
 	
 	Tags: Support
 
+Hull: SAdventHerald
+	Name: Herald Envoy
+	Background: AdventHerald
+	BackgroundScale: 1.35
+	Material: AdventHerald
+	Model: AdventHerald
+	Subsystem: SupportHull
+	Subsystem: AdventHerald
+	Tags: Support
+
+Hull: SAdventIconus
+	Name: Iconus Guardian
+	Background: AdventIconus
+	BackgroundScale: 1.35
+	Material: AdventIconus
+	Model: AdventIconus
+	Subsystem: SupportHull
+	Subsystem: AdventIconus
+	Tags: Support
+
 Hull: SAdventIlluminator
 	Name: Illuminator Vessel
 	Background: AdventIlluminator
@@ -241,6 +511,16 @@ Hull: SAdventIlluminator
 	
 	Tags: Support
 
+Hull: SAdventMissionary
+	Name: Missionary Vessel
+	Background: AdventMissionary
+	BackgroundScale: 2.25
+	Material: AdventMissionary
+	Model: AdventMissionary
+	Subsystem: SupportHull
+	Subsystem: AdventMissionary
+	Tags: Support
+
 Hull: SAdventProgenitor
 	Name: Progenitor Mothership
 	Background: AdventProgenitor
@@ -250,6 +530,16 @@ Hull: SAdventProgenitor
 	Subsystem: SupportHull
 	Subsystem: AdventProgenitor
 
+	Tags: Support
+
+Hull: SAdventPurge
+	Name: Purge Vessel
+	Background: AdventPurge
+	BackgroundScale: 1.25
+	Material: AdventPurge
+	Model: AdventPurge
+	Subsystem: SupportHull
+	Subsystem: AdventPurge
 	Tags: Support
 
 Hull: SAdventRapture
@@ -273,3 +563,139 @@ Hull: SAdventSeeker
 	Subsystem: AdventSeeker
 	
 	Tags: Support
+
+Hull: SAdventSolanus
+	Name: Solanus Adjudicator
+	Background: AdventSolanus
+	BackgroundScale: 1.25
+	Material: AdventSolanus
+	Model: AdventSolanus
+	Subsystem: SupportHull
+	Subsystem: AdventSolanus
+	Tags: Support
+
+Hull: SAdventTalion
+	Name: Talion Savior
+	Background: AdventTalion
+	BackgroundScale: 1.25
+	Material: AdventTalion
+	Model: AdventTalion
+	Subsystem: SupportHull
+	Subsystem: AdventTalion
+	Tags: Support
+
+Hull: SAdventVespa
+	Name: Vespa-class Corvette
+	Background: AdventVespa
+	BackgroundScale: 1.1
+	Material: AdventVespa
+	Model: AdventCorvette
+	Subsystem: SupportHull
+	Subsystem: AdventCorvette
+	Tags: Support
+
+// END SUPPORT LIST HERE
+
+Hull: AdventCapitalGate
+	Name: Phase Stabilizer
+	Background: AdventCapital
+	BackgroundScale: 1.2
+	Material: AdventCapital
+	Model: AdventCapitalGate
+	Subsystem: StationHull
+	Subsystem: GateHull
+	Subsystem: AdventCapitalGate
+	MinSize: 16
+	Tags: Station
+
+// END GATE LIST HERE
+
+Hull: SAdventTranscencia
+	Name: Transcencia-class Starbase
+	Background: AdventTranscencia
+	BackgroundScale: 1.2
+	Material: AdventTranscencia
+	Model: AdventTranscencia
+	Subsystem: SatelliteHull
+	Subsystem: AdventTranscencia
+	Tags: Satellite
+
+Hull: SAdventAntimatter
+	Name: Temple of Renewal
+	Background: AdventAntimatter
+	BackgroundScale: 1.25
+	Material: AdventAntimatter
+	Model: AdventAntimatter
+	Subsystem: SatelliteHull
+	Subsystem: AdventAntimatter
+	Tags: Satellite
+
+Hull: SAdventCapitalFactory
+	Name: Large Shipyard
+	Background: AdventCapital
+	BackgroundScale: 1.2
+	Material: AdventCapital
+	Model: AdventCapitalFactory
+	Subsystem: Satellite
+	Subsystem: AdventCapitalFactory
+	Tags: Satellite
+
+Hull: SAdventDeliverance
+	Name: Deliverance Cannon
+	Background: AdventDeliverance
+	BackgroundScale: 1.2
+	Material: AdventDeliverance
+	Model: AdventDeliverance
+	Subsystem: SatelliteHull
+	Subsystem: AdventDeliverance
+	Tags: Satellite
+
+Hull: SAdventFrigateFactory
+	Name: Small Shipyard
+	Background: AdventFrigateFactory
+	BackgroundScale: 1.35
+	Material: AdventFrigateFactory
+	Model: AdventFrigateFactory
+	Subsystem: SatelliteHull
+	Subsystem: AdventFrigateFactory
+	Tags: Satellite
+
+Hull: SAdventRepair
+	Name: Repair Platform
+	Background: AdventRepair
+	BackgroundScale: 1.2
+	Material: AdventRepair
+	Model: AdventRepair
+	Subsystem: SatelliteHull
+	Subsystem: AdventRepair
+	Tags: Satellite
+
+Hull: SAdventTempleCommunion
+	Name: Temple of Communion
+	Background: AdventTempleCommunion
+	BackgroundScale: 1.6
+	Material: AdventTempleCommunion
+	Model: AdventTempleCommunion
+	Subsystem: SatelliteHull
+	Subsystem: AdventTempleCommunion
+	Tags: Satellite
+
+Hull: SAdventTempleHarmony
+	Name: Temple of Harmony
+	Background: AdventTempleHarmony
+	BackgroundScale: 2.75
+	Material: AdventTempleHarmony
+	Model: AdventTempleHarmony
+	Subsystem: SatelliteHull
+	Subsystem: AdventTempleHarmony
+	Tags: Satellite
+
+Hull: SAdventTempleHostility
+	Name: Temple of Hostility
+	Background: AdventTempleHostility
+	BackgroundScale: 2.25
+	Material: AdventTempleHostility
+	Model: AdventTempleHostility
+	Subsystem: SatelliteHull
+	Subsystem: AdventTempleHostility
+	Tags: Satellite

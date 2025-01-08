@@ -1,8 +1,18 @@
 	Name: Unity of the Advent
 	Description: <<
-		An Advent shipset ported from Space Empires 5. All graphics originally ported from Ironclad Games' Sins of a Solar Empire by Prometeu from spaceempires.net. (Prometeu's shipset pack has since been taken down by its author, as he announced the day he uploaded it.)
+		[b][i][u]NOTE[/u]: It is absolutely vital that you download the 'DOF-Shipset-Common Library' addon from here: [url]http://steamcommunity.com/sharedfiles/filedetails/?id=505348416[/url]. Failure to do so will have unpredictable effects, the least of which will invariably be that all hulls will be untextured black blobs - worst-case scenario, the game may cease functioning altogether![/i][/b]
 
-		Does not have any default designs of its own; the game loads new designs from other shipsets. I would have included a few, but they would be incompatible with the Hex Limit Reverter, so... sorry. I'll upload to the Community instead.
+		[i]Long-banished deviants, now calling themselves the Advent, came back more powerful and twisted than we could have imagined. Many undefended worlds fell to their corruption before we could redirect forces from the alien front.[/i]
 
-		Has customized hex limits for most of its hulls. Compatible with the Hex Limit Reverter.
+		An Advent shipset ported from Sins of a Solar Empire. Does not have any default designs. Includes custom hex limits through use of the Hex Limit Modifier.
+
+		Credits:
+
+		- Original shipset's (1.0) models and textures sourced from Space Empires 5 shipset by Prometeu of spaceempires.net. (Said shipset is no longer available for download.)
+		- Additional models for 2.0 retrieved from Myfist's stash on OneDrive. (No idea where the 'Myfist' in question is active, presumably one of the SoaSE modding forums. :P)
+		- All textures in 2.0 and 2.1, including upgrades for 1.0 assets, retrieved directly from SoaSE: Rebellion assets by Ironclad Games. (The models themselves are also Rebellion assets - it's just that I don't have the professional tools required to convert them directly so I have to rely on what I can scrounge up from other sources.)
+		- Additional models for 2.1 converted by dolynick.
+		- Asset conversion (model rescaling and rotating, all the texture work) and shipset assembly done by me.
 	>>
+	Derives From: DOF-Shipset-Common Library v1.000
+	Compatibility: 200

@@ -3,29 +3,83 @@ Shipset: Advent
 	Available: Yes
 
 	Hull: AdventRadiance
+	Hull: AdventAeria
+	Hull: AdventAcolyte
+	Hull: AdventCoronata
 	Hull: AdventDefense
 	Hull: AdventDestra
 	Hull: AdventDisciple
+	Hull: AdventDiscord
 	Hull: AdventDomina
 	Hull: AdventEradica
 	Hull: AdventFreighter
 	Hull: AdventHalcyon
+	Hull: AdventHerald
+	Hull: AdventIconus
 	Hull: AdventIlluminator
+	Hull: AdventMissionary
 	Hull: AdventProgenitor
+	Hull: AdventPurge
 	Hull: AdventRapture
 	Hull: AdventSeeker
+	Hull: AdventSolanus
+	Hull: AdventTalion
+	Hull: AdventVespa
 
 	Hull: AdventTranscencia
+	Hull: AdventAntimatter
+	Hull: AdventCapitalFactory
+	Hull: AdventDeliverance
+	Hull: AdventFrigateFactory
+	Hull: AdventRepair
+	Hull: AdventTempleCommunion
+	Hull: AdventTempleHarmony
+	Hull: AdventTempleHostility
+
+	Hull: SAdventTranscencia
+	Hull: SAdventAntimatter
+	Hull: SAdventCapitalFactory
+	Hull: SAdventDeliverance
+	Hull: SAdventFrigateFactory
+	Hull: SAdventRepair
+	Hull: SAdventTempleCommunion
+	Hull: SAdventTempleHarmony
+	Hull: SAdventTempleHostility
+
+	//Hull: AdventCapitalGate
 
 	Hull: SAdventDisciple
 	Hull: SAdventRadiance
+	Hull: SAdventAeria
+	Hull: SAdventAcolyte
+	Hull: SAdventCoronata
 	Hull: SAdventDefense
 	Hull: SAdventDestra
+	Hull: SAdventDiscord
 	Hull: SAdventDomina
 	Hull: SAdventEradica
 	Hull: SAdventFreighter
 	Hull: SAdventHalcyon
+	Hull: SAdventHerald
+	Hull: SAdventIconus
 	Hull: SAdventIlluminator
+	Hull: SAdventMissionary
 	Hull: SAdventProgenitor
+	Hull: SAdventPurge
 	Hull: SAdventRapture
 	Hull: SAdventSeeker
+	Hull: SAdventSolanus
+	Hull: SAdventTalion
+	Hull: SAdventVespa
+
+	Skin: Missionary
+		Model: AdventHerald
+		Material: AdventHerald
+
+	Skin: Freighter
+		Model: AdventFreighter
+		Material: AdventFreighter
+
+	Skin: Colonizer
+		Model: AdventMissionary
+		Material: AdventMissionary

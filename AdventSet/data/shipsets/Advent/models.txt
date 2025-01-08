@@ -1,6 +1,34 @@
+Model: AdventAeria
+	Tangents: on
+	Mesh: data/shipsets/Advent/Aeria.obj
+
+Model: AdventAntimatter
+	Tangents: on
+	Mesh: data/shipsets/Advent/AntimatterRecharger.obj
+
+Model: AdventCapitalFactory
+	Tangents: on
+	Mesh: data/shipsets/Advent/CapitalFactory.obj
+
+Model: AdventCapitalGate
+	Tangents: on
+	Mesh: data/shipsets/Advent/CapitalFactoryGate.obj
+
+Model: AdventCoronata
+	Tangents: on
+	Mesh: data/shipsets/Advent/Coronata.obj
+
+Model: AdventCorvette
+	Tangents: on
+	Mesh: data/shipsets/Advent/Corvette.obj
+
 Model: AdventDefense
 	Tangents: on
 	Mesh: data/shipsets/Advent/DefenseVessel.obj
+
+Model: AdventDeliverance
+	Tangents: on
+	Mesh: data/shipsets/Advent/DeliveranceEmitter.obj
 
 Model: AdventDestra
 	Tangents: on
@@ -9,6 +37,10 @@ Model: AdventDestra
 Model: AdventDisciple
 	Tangents: on
 	Mesh: data/shipsets/Advent/DiscipleVessel.obj
+
+Model: AdventDiscord
+	Tangents: on
+	Mesh: data/shipsets/Advent/Discord.obj
 
 Model: AdventDomina
 	Tangents: on
@@ -22,17 +54,37 @@ Model: AdventFreighter
 	Tangents: on
 	Mesh: data/shipsets/Advent/Freighter.obj
 
+Model: AdventFrigateFactory
+	Tangents: on
+	Mesh: data/shipsets/Advent/FrigateFactory.obj
+
 Model: AdventHalcyon
 	Tangents: on
 	Mesh: data/shipsets/Advent/Halcyon.obj
+
+Model: AdventHerald
+	Tangents: on
+	Mesh: data/shipsets/Advent/Herald.obj
+
+Model: AdventIconus
+	Tangents: on
+	Mesh: data/shipsets/Advent/Iconus.obj
 
 Model: AdventIlluminator
 	Tangents: on
 	Mesh: data/shipsets/Advent/Illuminator.obj
 
+Model: AdventMissionary
+	Tangents: on
+	Mesh: data/shipsets/Advent/MissionaryVessel.obj
+
 Model: AdventProgenitor
 	Tangents: on
 	Mesh: data/shipsets/Advent/Progenitor.obj
+
+Model: AdventPurge
+	Tangents: on
+	Mesh: data/shipsets/Advent/PurgeVessel.obj
 
 Model: AdventRadiance
 	Tangents: on
@@ -42,9 +94,33 @@ Model: AdventRapture
 	Tangents: on
 	Mesh: data/shipsets/Advent/Rapture.obj
 
+Model: AdventRepair
+	Tangents: on
+	Mesh: data/shipsets/Advent/RepairPlatform.obj
+
 Model: AdventSeeker
 	Tangents: on
 	Mesh: data/shipsets/Advent/SeekerVessel.obj
+
+Model: AdventSolanus
+	Tangents: on
+	Mesh: data/shipsets/Advent/Solanus.obj
+
+Model: AdventTalion
+	Tangents: on
+	Mesh: data/shipsets/Advent/Talion.obj
+
+Model: AdventTempleCommunion
+	Tangents: on
+	Mesh: data/shipsets/Advent/TempleCommunion.obj
+
+Model: AdventTempleHarmony
+	Tangents: on
+	Mesh: data/shipsets/Advent/TempleHarmony.obj
+
+Model: AdventTempleHostility
+	Tangents: on
+	Mesh: data/shipsets/Advent/TempleHostility.obj
 
 Model: AdventTranscencia
 	Tangents: on

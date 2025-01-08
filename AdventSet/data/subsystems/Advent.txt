@@ -1,168 +1,269 @@
 Subsystem: AdventRadiance
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -8
 	FlagshipHexes := 0
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventEradica
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -8
 	FlagshipHexes := -36
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventProgenitor
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -30
 	FlagshipHexes := -80
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventHalcyon
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -16
 	FlagshipHexes := -30
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventRapture
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := 15
 	FlagshipHexes := 30
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventSeeker
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -8
 	FlagshipHexes := -13
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventDisciple
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -18
 	FlagshipHexes := -35
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventDefense
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -20
 	FlagshipHexes := -8
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventDestra
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -10
 	FlagshipHexes := -5
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventDomina
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -14
 	FlagshipHexes := -30
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventFreighter
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := -10
 	FlagshipHexes := 2
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventIlluminator
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := 10
 	FlagshipHexes := 30
 	StationHexes := 0
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
-
 Subsystem: AdventTranscencia
 	Tags: DefaultUnlock, NoCore, HullSystem
-	EvaluationOrder: -200
-	Hull: Flagship,Support,Station
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
 
 	SupportHexes := 0
 	FlagshipHexes := 0
 	StationHexes := 20
 
-	AddShipModifier: tag/SupportHull::AddHexLimit(SupportHexes)
-	AddShipModifier: tag/FlagshipHull::AddHexLimit(FlagshipHexes)
-	AddShipModifier: tag/StationHull::AddHexLimit(StationHexes)
+Subsystem: AdventAeria
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -20
+	FlagshipHexes := -58
+	StationHexes := 0
+
+Subsystem: AdventCoronata
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 5
+	FlagshipHexes := 12
+	StationHexes := 0
+
+Subsystem: AdventHerald
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -20
+	FlagshipHexes := -35
+	StationHexes := 0
+
+Subsystem: AdventIconus
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -35
+	FlagshipHexes := -48
+	StationHexes := 0
+
+Subsystem: AdventMissionary
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -25
+	FlagshipHexes := -40
+	StationHexes := 0
+
+Subsystem: AdventPurge
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -30
+	FlagshipHexes := -74
+	StationHexes := 0
+
+Subsystem: AdventSolanus
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -25
+	FlagshipHexes := -68
+	StationHexes := 0
+
+Subsystem: AdventTalion
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: AdventAntimatter
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := -35
+
+Subsystem: AdventCapitalFactory
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 10
+
+Subsystem: AdventDeliverance
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := -45
+
+Subsystem: AdventFrigateFactory
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := -40
+
+Subsystem: AdventRepair
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 70
+
+Subsystem: AdventTempleCommunion
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := -110
+
+Subsystem: AdventTempleHarmony
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: AdventTempleHostility
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := -40
+
+Subsystem: AdventCapitalGate
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := -60
