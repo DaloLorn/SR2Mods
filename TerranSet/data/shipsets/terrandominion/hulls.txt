@@ -19,11 +19,21 @@ Hull: BCHurricane
 	Tags: Flagship
 
 Hull: BCHyperion
-	Name: Behemoth-class Battlecruiser
-	Background: BCHyperion
+	Name: Behemoth-class Battlecruiser (Hyperion-type)
+	Background: Battlecruiser
 	BackgroundScale: 1.25
-	Material: BCHyperion
+	Material: Battlecruiser
 	Model: BCHyperion
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: BCBehemoth
+	Name: Behemoth-class Battlecruiser
+	Background: Battlecruiser
+	BackgroundScale: 1.25
+	Material: Battlecruiser
+	Model: BCBehemoth
 	Subsystem: FlagshipHull
 	MinSize: 16
 	Tags: Flagship
@@ -31,7 +41,7 @@ Hull: BCHyperion
 Hull: BCLoki
 	Name: Loki-class Battlecruiser
 	Background: BCLoki
-	BackgroundScale: 1.15
+	BackgroundScale: 1.0
 	Material: BCLoki
 	Model: BCLoki
 	Subsystem: FlagshipHull
@@ -48,22 +58,12 @@ Hull: BCYamato
 	MinSize: 16
 	Tags: Flagship
 
-Hull: TrainEngine
-	Name: Train Engine
-	Background: Train
+Hull: Liberator
+	Name: Liberator
+	Background: Liberator
 	BackgroundScale: 1.2
-	Material: Train
-	Model: TrainEngine
-	Subsystem: FlagshipHull
-	MinSize: 16
-	Tags: Flagship
-
-Hull: TrainCar
-	Name: Train Car
-	Background: Train
-	BackgroundScale: 1.2
-	Material: Train
-	Model: TrainCar
+	Material: Liberator
+	Model: Liberator
 	Subsystem: FlagshipHull
 	MinSize: 16
 	Tags: Flagship
@@ -84,6 +84,16 @@ Hull: ScienceVessel
 	BackgroundScale: 1.2
 	Material: ScienceVessel
 	Model: ScienceVessel
+	Subsystem: FlagshipHull
+	MinSize: 16
+	Tags: Flagship
+
+Hull: ScienceVesselBW
+	Name: Explorer-class Science Vessel
+	Background: ScienceVessel
+	BackgroundScale: 1.2
+	Material: ScienceVessel
+	Model: ScienceVesselBW
 	Subsystem: FlagshipHull
 	MinSize: 16
 	Tags: Flagship
@@ -110,6 +120,16 @@ Hull: ScienceStation
 	MinSize: 16
 	Tags: Station
 
+Hull: ScienceStationBW
+	Name: Explorer-class Science Vessel
+	Background: ScienceVessel
+	BackgroundScale: 1.2
+	Material: ScienceVessel
+	Model: ScienceVesselBW
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
 Hull: SpaceTower
 	Name: Ordnance Tower
 	Background: SpaceTower
@@ -130,7 +150,69 @@ Hull: ValerianStation
 	MinSize: 16
 	Tags: Station
 
+Hull: HanStation
+	Name: Han-type Station
+	Background: HanStation
+	BackgroundScale: 1
+	Material: HanStation
+	Model: HanStation
+	Subsystem: StationHull
+	MinSize: 16
+	Tags: Station
+
 // END STATION LIST HERE
+
+Hull: SScienceStation
+	Name: Science Vessel
+	Background: ScienceVessel
+	BackgroundScale: 1.2
+	Material: ScienceVessel
+	Model: ScienceVessel
+	Subsystem: SatelliteHull
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SScienceStationBW
+	Name: Explorer-class Science Vessel
+	Background: ScienceVessel
+	BackgroundScale: 1.2
+	Material: ScienceVessel
+	Model: ScienceVesselBW
+	Subsystem: SatelliteHull
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SSpaceTower
+	Name: Ordnance Tower
+	Background: SpaceTower
+	BackgroundScale: 1.1
+	Material: SpaceTower
+	Model: SpaceTower
+	Subsystem: SatelliteHull
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SValerianStation
+	Name: Mengsk-type Station
+	Background: ValerianStation
+	BackgroundScale: 1
+	Material: ValerianStation
+	Model: ValerianStation
+	Subsystem: SatelliteHull
+	MinSize: 16
+	Tags: Satellite
+
+Hull: SHanStation
+	Name: Han-type Station
+	Background: HanStation
+	BackgroundScale: 1
+	Material: HanStation
+	Model: HanStation
+	Subsystem: SatelliteHull
+	MinSize: 16
+	Tags: Satellite
+
+// END SATELLITE LIST HERE
 
 Hull: SBattlecruiser
 	Name: Minotaur-class Battlecruiser
@@ -151,18 +233,27 @@ Hull: SBCHurricane
 	Tags: Support
 
 Hull: SBCHyperion
-	Name: Behemoth-class Battlecruiser
-	Background: BCHyperion
+	Name: Behemoth-class Battlecruiser (Hyperion-type)
+	Background: Battlecruiser
 	BackgroundScale: 1.25
-	Material: BCHyperion
+	Material: Battlecruiser
 	Model: BCHyperion
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SBCBehemoth
+	Name: Behemoth-class Battlecruiser
+	Background: Battlecruiser
+	BackgroundScale: 1.25
+	Material: Battlecruiser
+	Model: BCBehemoth
 	Subsystem: SupportHull
 	Tags: Support
 
 Hull: SBCLoki
 	Name: Loki-class Battlecruiser
 	Background: BCLoki
-	BackgroundScale: 1.15
+	BackgroundScale: 1.0
 	Material: BCLoki
 	Model: BCLoki
 	Subsystem: SupportHull
@@ -177,21 +268,12 @@ Hull: SBCYamato
 	Subsystem: SupportHull
 	Tags: Support
 
-Hull: STrainEngine
-	Name: Train Engine
-	Background: Train
+Hull: SLiberator
+	Name: Liberator
+	Background: Liberator
 	BackgroundScale: 1.2
-	Material: Train
-	Model: TrainEngine
-	Subsystem: SupportHull
-	Tags: Support
-
-Hull: STrainCar
-	Name: Train Car
-	Background: Train
-	BackgroundScale: 1.2
-	Material: Train
-	Model: TrainCar
+	Material: Liberator
+	Model: Liberator
 	Subsystem: SupportHull
 	Tags: Support
 
@@ -210,6 +292,15 @@ Hull: SScienceVessel
 	BackgroundScale: 1.2
 	Material: ScienceVessel
 	Model: ScienceVessel
+	Subsystem: SupportHull
+	Tags: Support
+
+Hull: SScienceVesselBW
+	Name: Explorer-class Science Vessel
+	Background: ScienceVessel
+	BackgroundScale: 1.2
+	Material: ScienceVessel
+	Model: ScienceVesselBW
 	Subsystem: SupportHull
 	Tags: Support
 

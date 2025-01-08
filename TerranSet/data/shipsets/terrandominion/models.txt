@@ -16,7 +16,11 @@ Model: BCHurricane
 
 Model: BCHyperion
 	Tangents: on
-	Mesh: data/shipsets/terrandominion/BattlecruiserHyperion.obj
+	Mesh: data/shipsets/terrandominion/Behemoth1.obj
+
+Model: BCBehemoth
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/Behemoth2.obj
 
 Model: BCLoki
 	Tangents: on
@@ -26,13 +30,13 @@ Model: BCYamato
 	Tangents: on
 	Mesh: data/shipsets/terrandominion/BCyamato.obj
 
-Model: TrainEngine
+Model: HanStation
 	Tangents: on
-	Mesh: data/shipsets/terrandominion/Engine.obj
+	Mesh: data/shipsets/terrandominion/HanStation.obj
 
-Model: TrainCar
+Model: Liberator
 	Tangents: on
-	Mesh: data/shipsets/terrandominion/FreightCar.obj
+	Mesh: data/shipsets/terrandominion/Liberator.obj
 
 Model: Raven
 	Tangents: on
@@ -41,6 +45,10 @@ Model: Raven
 Model: ScienceVessel
 	Tangents: on
 	Mesh: data/shipsets/terrandominion/ScienceVessel.obj
+
+Model: ScienceVesselBW
+	Tangents: on
+	Mesh: data/shipsets/terrandominion/ScienceVesselBW.obj
 
 Model: SpaceTower
 	Tangents: on

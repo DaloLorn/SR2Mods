@@ -3,27 +3,49 @@ Shipset: TerranDominion
 	Available: Yes
 
 	Hull: BCHyperion
+	Hull: BCBehemoth
 	Hull: Battlecruiser
 	Hull: BCHurricane
 	Hull: BCLoki
 	Hull: BCYamato
-	Hull: TrainEngine
-	Hull: TrainCar
+	Hull: Liberator
+	Hull: ScienceVesselBW
 	Hull: Raven
 	Hull: ScienceVessel
 	Hull: Valkyrie
 
 	Hull: ScienceStation
+	Hull: ScienceStationBW
 	Hull: SpaceTower
 	Hull: ValerianStation
+	Hull: HanStation
+
+	Hull: SScienceStation
+	Hull: SScienceStationBW
+	Hull: SSpaceTower
+	Hull: SValerianStation
+	Hull: SHanStation
 
 	Hull: SBattlecruiser
 	Hull: SBCHyperion
+	Hull: SBCBehemoth
 	Hull: SBCHurricane
 	Hull: SBCLoki
 	Hull: SBCYamato
-	Hull: STrainEngine
-	Hull: STrainCar
+	Hull: SLiberator
+	Hull: SScienceVesselBW
 	Hull: SRaven
 	Hull: SScienceVessel
 	Hull: SValkyrie
+
+	Skin: Missionary
+		Model: Raven
+		Material: Raven
+
+	Skin: Freighter
+		Model: Liberator
+		Material: Liberator
+
+	Skin: Colonizer
+		Model: BCHurricane
+		Material: BCHurricane
