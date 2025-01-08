@@ -34,14 +34,14 @@
 					"name": "Trader Emergency Coalition",
 					"sameSource": true,
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "All-Mods",
+					"branch": "master",
 					"modName": "Trader Emergency Coalition"
 				},
 				{
 					"name": "Koprulu Navy",
 					"sameSource": true,
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "All-Mods",
+					"branch": "master",
 					"modName": "Koprulu Navy"
 				}
 			]
@@ -56,14 +56,14 @@
 					"name": "Unity of the Advent",
 					"sameSource": true,
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "All-Mods",
+					"branch": "master",
 					"modName": "Unity of the Advent"
 				},
 				{
 					"name": "The Firstborn",
 					"sameSource": true,
 					"repository": "github.com/DaloLorn/SR2Mods",
-					"branch": "All-Mods",
+					"branch": "master",
 					"modName": "The Firstborn"
 				}
 			]
