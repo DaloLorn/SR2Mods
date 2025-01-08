@@ -4,3 +4,4 @@
 
 		WARNING: The assets required for this shipset to function are located within the 'The Firstborn' and 'Unity of the Advent' addons. Without both of them installed and enabled, this shipset will not function!
 	>>
+	Compatibility: 200

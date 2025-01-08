@@ -3,95 +3,276 @@ Shipset: KhalaiUnity
 	Available: Yes
 
 	Hull: AdventRadiance
+	Hull: AdventAeria
+	Hull: AdventAcolyte
+	Hull: AdventCoronata
 	Hull: AdventDefense
 	Hull: AdventDestra
 	Hull: AdventDisciple
+	Hull: AdventDiscord
 	Hull: AdventDomina
 	Hull: AdventEradica
 	Hull: AdventFreighter
 	Hull: AdventHalcyon
+	Hull: AdventHerald
+	Hull: AdventIconus
 	Hull: AdventIlluminator
+	Hull: AdventMissionary
+	Hull: AdventProgenitor
+	Hull: AdventPurge
 	Hull: AdventRapture
 	Hull: AdventSeeker
+	Hull: AdventSolanus
+	Hull: AdventTalion
+	Hull: AdventVespa
 	Hull: Carrier
-	Hull: NerazimCarrier
 	Hull: DarkCarrier
+	Hull: NerazimCarrier
+	Hull: VoidCarrier
 	Hull: Arbiter
 	Hull: DarkArbiter
+	Hull: NerazimArbiter
 	Hull: Arbiter2
+	Hull: DarkArbiter2
+	Hull: NerazimArbiter2
+	Hull: VoidArbiter2
+	Hull: ArbiterLotV
+	Hull: NerazimArbiterLotV
 	Hull: CarrierBW
 	Hull: DarkCarrierBW
+	Hull: DarkCarrierBWNormal
+	Hull: NerazimCarrierBW
 	Hull: BWProbe
+	Hull: NerazimBWProbe
 	Hull: Interceptor
 	Hull: DarkInterceptor
+	Hull: PurifierInterceptor
+	Hull: VoidInterceptor
+	Hull: NerazimInterceptor
 	Hull: Mothership
 	Hull: DarkMothership
+	Hull: PurifierMothership
+	Hull: NerazimMothership
 	Hull: MothershipCore
+	Hull: DarkMothershipCore
+	Hull: NerazimMothershipCore
+	Hull: PurifierMothershipCore
+	Hull: VoidMothershipCore
 	Hull: Observer
+	Hull: DarkObserver
+	Hull: VoidObserver
+	Hull: NerazimObserver
 	Hull: Oracle
+	Hull: DarkOracle
+	Hull: KhalaiOracle
+	Hull: PurifierOracle
+	Hull: VoidOracle
 	Hull: PhotonSphere
 	Hull: DarkPhotonSphere
+	Hull: VoidPhotonSphere
 	Hull: Probe
+	Hull: DarkProbe
+	Hull: VoidProbe
+	Hull: NerazimProbe
 	Hull: ProtossFrigate
+	Hull: DarkFrigate
+	Hull: VoidFrigate
+	Hull: NerazimFrigate
 	Hull: Sentry
+	Hull: DarkSentry
+	Hull: NerazimSentry
+	Hull: PurifierSentry
+	Hull: VoidSentry
 	Hull: Shuttle
 	Hull: DarkShuttle
 	Hull: VoidRay
+	Hull: Destroyer
 	Hull: WarpRay
 	Hull: DarkVoidRay
 	Hull: Mohandar
+	Hull: WarpMohandar
+	Hull: DarkMohandar
 	Hull: VoidSeeker
 	Hull: TemplarArchive
 	Hull: DarkArchive
+	Hull: NerazimArchive
+	Hull: PurifierArchive
+	Hull: VoidArchive
 	Hull: Tempest
+	Hull: DarkTempest
+	Hull: NerazimTempest
+	Hull: PurifierTempest
+	Hull: VoidTempest
 
 	Hull: Nexus
 	Hull: Motherstation
 	Hull: DarkMotherstation
+	Hull: PurifierMotherstation
+	Hull: NerazimMotherstation
 	Hull: MotherstationCore
+	Hull: DarkMotherstationCore
+	Hull: NerazimMotherstationCore
+	Hull: PurifierMotherstationCore
+	Hull: VoidMotherstationCore
 	Hull: DarkNexus
+	Hull: NerazimNexus
+	Hull: PurifierNexus
 	Hull: DarkShrine
-	Hull: AdventTranscencia
+
+	Hull: SNexus
+	Hull: SMotherstation
+	Hull: SDarkMotherstation
+	Hull: SPurifierMotherstation
+	Hull: SNerazimMotherstation
+	Hull: SMotherstationCore
+	Hull: SDarkMotherstationCore
+	Hull: SNerazimMotherstationCore
+	Hull: SPurifierMotherstationCore
+	Hull: SVoidMotherstationCore
+	Hull: SDarkNexus
+	Hull: SNerazimNexus
+	Hull: SPurifierNexus
+	Hull: SDarkShrine
+
+	Hull: ProtossStargate
+	Hull: VoidStargate
+	Hull: NerazimStargate
+	Hull: DarkStargate
+	Hull: PurifierStargate
 
 	Hull: SInterceptor
 	Hull: SCarrier
-	Hull: SNerazimCarrier
 	Hull: SDarkCarrier
+	Hull: SNerazimCarrier
+	Hull: SVoidCarrier
 	Hull: SArbiter
 	Hull: SDarkArbiter
+	Hull: SNerazimArbiter
 	Hull: SArbiter2
+	Hull: SDarkArbiter2
+	Hull: SVoidArbiter2
+	Hull: SNerazimArbiter2
+	Hull: SArbiterLotV
+	Hull: SNerazimArbiterLotV
 	Hull: SCarrierBW
-	Hull: SDarkCarrierBW
+	Hull: SDarkCarrierBW	
+	Hull: SDarkCarrierBWNormal
+	Hull: SNerazimCarrierBW
 	Hull: SBWProbe
+	Hull: SNerazimBWProbe
 	Hull: SDarkInterceptor
+	Hull: SPurifierInterceptor
+	Hull: SVoidInterceptor
+	Hull: SNerazimInterceptor
 	Hull: SMothership
 	Hull: SDarkMothership
+	Hull: SPurifierMothership
+	Hull: SNerazimMothership
 	Hull: SMothershipCore
+	Hull: SDarkMothershipCore
+	Hull: SNerazimMothershipCore
+	Hull: SPurifierMothershipCore
+	Hull: SVoidMothershipCore
 	Hull: SObserver
+	Hull: SDarkObserver
+	Hull: SVoidObserver
+	Hull: SNerazimObserver
 	Hull: SOracle
+	Hull: SDarkOracle
+	Hull: SKhalaiOracle
+	Hull: SPurifierOracle
+	Hull: SVoidOracle
 	Hull: SPhotonSphere
 	Hull: SDarkPhotonSphere
+	Hull: SVoidPhotonSphere
 	Hull: SProbe
+	Hull: SDarkProbe
+	Hull: SVoidProbe
+	Hull: SNerazimProbe
 	Hull: SProtossFrigate
+	Hull: SDarkFrigate
+	Hull: SVoidFrigate
+	Hull: SNerazimFrigate
 	Hull: SSentry
+	Hull: SDarkSentry
+	Hull: SNerazimSentry
+	Hull: SPurifierSentry
+	Hull: SVoidSentry
 	Hull: SShuttle
 	Hull: SDarkShuttle
 	Hull: SVoidRay
+	Hull: SDestroyer
 	Hull: SWarpRay
 	Hull: SDarkVoidRay
 	Hull: SMohandar
+	Hull: SWarpMohandar
+	Hull: SDarkMohandar
 	Hull: SVoidSeeker
 	Hull: STemplarArchive
 	Hull: SDarkArchive
+	Hull: SNerazimArchive
+	Hull: SPurifierArchive
+	Hull: SVoidArchive
 	Hull: STempest
+	Hull: SDarkTempest
+	Hull: SNerazimTempest
+	Hull: SPurifierTempest
+	Hull: SVoidTempest
+
+	Hull: AdventTranscencia
+	Hull: AdventAntimatter
+	Hull: AdventCapitalFactory
+	Hull: AdventDeliverance
+	Hull: AdventFrigateFactory
+	Hull: AdventRepair
+	Hull: AdventTempleCommunion
+	Hull: AdventTempleHarmony
+	Hull: AdventTempleHostility
+
+	Hull: SAdventTranscencia
+	Hull: SAdventAntimatter
+	Hull: SAdventCapitalFactory
+	Hull: SAdventDeliverance
+	Hull: SAdventFrigateFactory
+	Hull: SAdventRepair
+	Hull: SAdventTempleCommunion
+	Hull: SAdventTempleHarmony
+	Hull: SAdventTempleHostility
+
+	//Hull: AdventCapitalGate
+
 	Hull: SAdventDisciple
 	Hull: SAdventRadiance
+	Hull: SAdventAeria
+	Hull: SAdventAcolyte
+	Hull: SAdventCoronata
 	Hull: SAdventDefense
 	Hull: SAdventDestra
+	Hull: SAdventDiscord
 	Hull: SAdventDomina
 	Hull: SAdventEradica
 	Hull: SAdventFreighter
 	Hull: SAdventHalcyon
+	Hull: SAdventHerald
+	Hull: SAdventIconus
 	Hull: SAdventIlluminator
+	Hull: SAdventMissionary
+	Hull: SAdventProgenitor
+	Hull: SAdventPurge
 	Hull: SAdventRapture
 	Hull: SAdventSeeker
+	Hull: SAdventSolanus
+	Hull: SAdventTalion
+	Hull: SAdventVespa
+
+	Skin: Missionary
+		Model: AdventHerald
+		Material: AdventHerald
+
+	Skin: Freighter
+		Model: AdventFreighter
+		Material: AdventFreighter
+
+	Skin: Colonizer
+		Model: AdventMissionary
+		Material: AdventMissionary
