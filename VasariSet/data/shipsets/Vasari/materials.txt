@@ -1,0 +1,247 @@
+Material: VasariTemplate
+	Texture2: data/shipsets/Vasari/normal.png
+	Texture4: data/shipsets/Vasari/gloss.png
+	Texture5: data/images/skybox.png
+	Texture6: data/shipsets/Vasari/gloss.png
+	Shader: DOFSupportShipLCXN
+	Shininess: 12
+
+Material: VasariAntorak
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Antorak.png
+	Texture2: data/shipsets/Vasari/Antorak_normal.png
+	Texture3: data/shipsets/Vasari/Antorak_specular.png
+	Texture4: data/shipsets/Vasari/Antorak_gloss.png
+	Texture6: data/shipsets/Vasari/Antorak_masks.png
+
+Material: VasariCapital
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/CapitalFactory.png
+	Texture2: data/shipsets/Vasari/CapitalFactory_normal.png
+	Texture3: data/shipsets/Vasari/CapitalFactory_specular.png
+	Texture4: data/shipsets/Vasari/CapitalFactory_gloss.png
+	Texture6: data/shipsets/Vasari/CapitalFactory_masks.png
+
+Material: VasariExtractor
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Extractor.png
+	Texture2: data/shipsets/Vasari/Extractor_normal.png
+	Texture3: data/shipsets/Vasari/Extractor_specular.png
+	Texture4: data/shipsets/Vasari/Extractor_gloss.png
+	Texture6: data/shipsets/Vasari/Extractor_masks.png
+
+Material: VasariHangar
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/HangarDefense.png
+	Texture2: data/shipsets/Vasari/HangarDefense_normal.png
+	Texture3: data/shipsets/Vasari/HangarDefense_specular.png
+	Texture4: data/shipsets/Vasari/HangarDefense_gloss.png
+	Texture6: data/shipsets/Vasari/HangarDefense_masks.png
+
+Material: VasariJarrasul
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Jarrasul.png
+	Texture2: data/shipsets/Vasari/Jarrasul_normal.png
+	Texture3: data/shipsets/Vasari/Jarrasul_specular.png
+	Texture4: data/shipsets/Vasari/Jarrasul_gloss.png
+	Texture6: data/shipsets/Vasari/Jarrasul_masks.png
+
+Material: VasariJarun
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Jarun.png
+	Texture2: data/shipsets/Vasari/Jarun_normal.png
+	Texture3: data/shipsets/Vasari/Jarun_specular.png
+	Texture4: data/shipsets/Vasari/Jarun_gloss.png
+	Texture6: data/shipsets/Vasari/Jarun_masks.png
+
+Material: VasariJikara
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Jikara.png
+	Texture2: data/shipsets/Vasari/Jikara_normal.png
+	Texture3: data/shipsets/Vasari/Jikara_specular.png
+	Texture4: data/shipsets/Vasari/Jikara_gloss.png
+	Texture6: data/shipsets/Vasari/Jikara_masks.png
+
+Material: VasariJunsurak
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Junsurak.png
+	Texture2: data/shipsets/Vasari/Junsurak_normal.png
+	Texture3: data/shipsets/Vasari/Junsurak_specular.png
+	Texture4: data/shipsets/Vasari/Junsurak_gloss.png
+	Texture6: data/shipsets/Vasari/Junsurak_masks.png
+
+Material: VasariKanrak
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Kanrak.png
+	Texture2: data/shipsets/Vasari/Kanrak_normal.png
+	Texture3: data/shipsets/Vasari/Kanrak_specular.png
+	Texture4: data/shipsets/Vasari/Kanrak_gloss.png
+	Texture6: data/shipsets/Vasari/Kanrak_masks.png
+
+Material: VasariKarrastra
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Karrastra.png
+	Texture2: data/shipsets/Vasari/Karrastra_normal.png
+	Texture3: data/shipsets/Vasari/Karrastra_specular.png
+	Texture4: data/shipsets/Vasari/Karrastra_gloss.png
+	Texture6: data/shipsets/Vasari/Karrastra_masks.png
+
+Material: VasariKortul
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Kortul.png
+	Texture2: data/shipsets/Vasari/Kortul_normal.png
+	Texture3: data/shipsets/Vasari/Kortul_specular.png
+	Texture4: data/shipsets/Vasari/Kortul_gloss.png
+	Texture6: data/shipsets/Vasari/Kortul_masks.png
+
+Material: VasariKultorask
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Kultorask.png
+	Texture2: data/shipsets/Vasari/Kultorask_normal.png
+	Texture3: data/shipsets/Vasari/Kultorask_specular.png
+	Texture4: data/shipsets/Vasari/Kultorask_gloss.png
+	Texture6: data/shipsets/Vasari/Kultorask_masks.png
+
+Material: VasariLasurak
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Lasurak.png
+	Texture2: data/shipsets/Vasari/Lasurak_normal.png
+	Texture3: data/shipsets/Vasari/Lasurak_specular.png
+	Texture4: data/shipsets/Vasari/Lasurak_gloss.png
+	Texture6: data/shipsets/Vasari/Lasurak_masks.png
+
+Material: VasariMedia
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/MediaHub.png
+	Texture2: data/shipsets/Vasari/MediaHub_normal.png
+	Texture3: data/shipsets/Vasari/MediaHub_specular.png
+	Texture4: data/shipsets/Vasari/MediaHub_gloss.png
+	Texture6: data/shipsets/Vasari/MediaHub_masks.png
+
+Material: VasariOrkulus
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Orkulus.png
+	Texture2: data/shipsets/Vasari/Orkulus_normal.png
+	Texture3: data/shipsets/Vasari/Orkulus_specular.png
+	Texture4: data/shipsets/Vasari/Orkulus_gloss.png
+	Texture6: data/shipsets/Vasari/Orkulus_masks.png
+
+Material: VasariPhase
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/PhaseStabilizer.png
+	Texture2: data/shipsets/Vasari/PhaseStabilizer_normal.png
+	Texture3: data/shipsets/Vasari/PhaseStabilizer_specular.png
+	Texture4: data/shipsets/Vasari/PhaseStabilizer_gloss.png
+	Texture6: data/shipsets/Vasari/PhaseStabilizer_masks.png
+
+Material: VasariRankulas
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Rankulas.png
+	Texture2: data/shipsets/Vasari/Rankulas_normal.png
+	Texture3: data/shipsets/Vasari/Rankulas_specular.png
+	Texture4: data/shipsets/Vasari/Rankulas_gloss.png
+	Texture6: data/shipsets/Vasari/Rankulas_masks.png
+
+Material: VasariRavastra
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Ravastra.png
+	Texture2: data/shipsets/Vasari/Ravastra_normal.png
+	Texture3: data/shipsets/Vasari/Ravastra_specular.png
+	Texture4: data/shipsets/Vasari/Ravastra_gloss.png
+	Texture6: data/shipsets/Vasari/Ravastra_masks.png
+
+Material: VasariRegeneration
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/RegenerationBay.png
+	Texture2: data/shipsets/Vasari/RegenerationBay_normal.png
+	Texture3: data/shipsets/Vasari/RegenerationBay_specular.png
+	Texture4: data/shipsets/Vasari/RegenerationBay_gloss.png
+	Texture6: data/shipsets/Vasari/RegenerationBay_masks.png
+
+Material: VasariSerevun
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Serevun.png
+	Texture2: data/shipsets/Vasari/Serevun_normal.png
+	Texture3: data/shipsets/Vasari/Serevun_specular.png
+	Texture4: data/shipsets/Vasari/Serevun_gloss.png
+	Texture6: data/shipsets/Vasari/Serevun_masks.png
+
+Material: VasariSivuskras
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Sivuskras.png
+	Texture2: data/shipsets/Vasari/Sivuskras_normal.png
+	Texture3: data/shipsets/Vasari/Sivuskras_specular.png
+	Texture4: data/shipsets/Vasari/Sivuskras_gloss.png
+	Texture6: data/shipsets/Vasari/Sivuskras_masks.png
+
+Material: VasariSkarovas
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Skarovas.png
+	Texture2: data/shipsets/Vasari/Skarovas_normal.png
+	Texture3: data/shipsets/Vasari/Skarovas_specular.png
+	Texture4: data/shipsets/Vasari/Skarovas_gloss.png
+	Texture6: data/shipsets/Vasari/Skarovas_masks.png
+
+Material: VasariSkirantra
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Skirantra.png
+	Texture2: data/shipsets/Vasari/Skirantra_normal.png
+	Texture3: data/shipsets/Vasari/Skirantra_specular.png
+	Texture4: data/shipsets/Vasari/Skirantra_gloss.png
+	Texture6: data/shipsets/Vasari/Skirantra_masks.png
+
+Material: VasariStilakus
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Stilakus.png
+	Texture2: data/shipsets/Vasari/Stilakus_normal.png
+	Texture3: data/shipsets/Vasari/Stilakus_specular.png
+	Texture4: data/shipsets/Vasari/Stilakus_gloss.png
+	Texture6: data/shipsets/Vasari/Stilakus_masks.png
+
+Material: VasariSulsurak
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Sulsurak.png
+	Texture2: data/shipsets/Vasari/Sulsurak_normal.png
+	Texture3: data/shipsets/Vasari/Sulsurak_specular.png
+	Texture4: data/shipsets/Vasari/Sulsurak_gloss.png
+	Texture6: data/shipsets/Vasari/Sulsurak_masks.png
+
+Material: VasariTosurak
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Tosurak.png
+	Texture2: data/shipsets/Vasari/Tosurak_normal.png
+	Texture3: data/shipsets/Vasari/Tosurak_specular.png
+	Texture4: data/shipsets/Vasari/Tosurak_gloss.png
+	Texture6: data/shipsets/Vasari/Tosurak_masks.png
+
+Material: VasariViturska
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Viturska.png
+	Texture2: data/shipsets/Vasari/Viturska_normal.png
+	Texture3: data/shipsets/Vasari/Viturska_specular.png
+	Texture4: data/shipsets/Vasari/Viturska_gloss.png
+	Texture6: data/shipsets/Vasari/Viturska_masks.png
+
+Material: VasariVorastra
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Vorastra.png
+	Texture2: data/shipsets/Vasari/Vorastra_normal.png
+	Texture3: data/shipsets/Vasari/Vorastra_specular.png
+	Texture4: data/shipsets/Vasari/Vorastra_gloss.png
+	Texture6: data/shipsets/Vasari/Vorastra_masks.png
+
+Material: VasariVoruntak
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Voruntak.png
+	Texture2: data/shipsets/Vasari/Voruntak_normal.png
+	Texture3: data/shipsets/Vasari/Voruntak_specular.png
+	Texture4: data/shipsets/Vasari/Voruntak_gloss.png
+	Texture6: data/shipsets/Vasari/Voruntak_masks.png
+
+Material: VasariVulkoras
+	Inherit: VasariTemplate
+	Texture: data/shipsets/Vasari/Vulkoras.png
+	Texture2: data/shipsets/Vasari/Vulkoras_normal.png
+	Texture3: data/shipsets/Vasari/Vulkoras_specular.png
+	Texture4: data/shipsets/Vasari/Vulkoras_gloss.png
+	Texture6: data/shipsets/Vasari/Vulkoras_masks.png

@@ -1,0 +1,115 @@
+Model: VasariAntorak
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Antorak.obj
+
+Model: VasariCapital
+	Tangents: on
+	Mesh: data/shipsets/Vasari/CapitalFactory.obj
+
+Model: VasariCorvette
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Corvette.obj
+
+Model: VasariExtractor
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Extractor.obj
+
+Model: VasariHangar
+	Tangents: on
+	Mesh: data/shipsets/Vasari/HangarDefense.obj
+
+Model: VasariJarrasul
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Jarrasul.obj
+
+Model: VasariJarun
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Jarun.obj
+
+Model: VasariJikara
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Jikara.obj
+
+Model: VasariJunsurak
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Junsurak.obj
+
+Model: VasariKanrak
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Kanrak.obj
+
+Model: VasariKarrastra
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Karrastra.obj
+
+Model: VasariKortul
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Kortul.obj
+
+Model: VasariKultorask
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Kultorask.obj
+
+Model: VasariLasurak
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Lasurak.obj
+
+Model: VasariMedia
+	Tangents: on
+	Mesh: data/shipsets/Vasari/MediaHub.obj
+
+Model: VasariOrkulus
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Orkulus.obj
+
+Model: VasariPhase
+	Tangents: on
+	Mesh: data/shipsets/Vasari/PhaseStabilizer.obj
+
+Model: VasariRankulas
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Rankulas.obj
+
+Model: VasariRavastra
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Ravastra.obj
+
+Model: VasariRegeneration
+	Tangents: on
+	Mesh: data/shipsets/Vasari/RegenerationBay.obj
+
+Model: VasariSerevun
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Serevun.obj
+
+Model: VasariSivuskras
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Sivuskras.obj
+
+Model: VasariSkarovas
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Skarovas.obj
+
+Model: VasariSkirantra
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Skirantra.obj
+
+Model: VasariStilakus
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Stilakus.obj
+
+Model: VasariViturska
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Viturska.obj
+
+Model: VasariVorastra
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Vorastra.obj
+
+Model: VasariVoruntak
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Voruntak.obj
+
+Model: VasariVulkoras
+	Tangents: on
+	Mesh: data/shipsets/Vasari/Vulkoras.obj

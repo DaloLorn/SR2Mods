@@ -1,0 +1,17 @@
+	Name: Exodus Fleet
+	Description: <<
+		[b][i][u]NOTE[/u]: It is absolutely vital that you download the 'DOF-Shipset-Common Library' addon from here: [url]http://steamcommunity.com/sharedfiles/filedetails/?id=505348416[/url]. Failure to do so will have unpredictable effects, the least of which will invariably be that all hulls will be untextured black blobs - worst-case scenario, the game may cease functioning altogether![/i][/b]
+
+		[i]The ways of war had been long forgotten... then the aliens came. Despite fleeing from their own destruction, they overran our meagre defenses, enslaved our people and plundered our worlds.[/i]
+
+		A Vasari shipset ported from Sins of a Solar Empire. Does not have any default designs. Includes custom hex limits through use of the Hex Limit Modifier.
+
+		Credits:
+
+		- Models retrieved from Myfist's stash on OneDrive. (No idea where the 'Myfist' in question is active, presumably one of the SoaSE modding forums. :P)
+		- Textures retrieved directly from SoaSE: Rebellion assets by Ironclad Games. (The models themselves are also Rebellion assets - it's just that I don't have the professional tools required to convert them directly so I have to rely on what I can scrounge up from other sources.)
+		- Additional models for 2.0 converted by dolynick.
+		- Asset conversion (model rescaling and rotating, all the texture work) and shipset assembly done by me.
+	>>
+	Compatibility: 200
+	Derives From: DOF-Shipset-Common Library v1.000

@@ -1,0 +1,260 @@
+Subsystem: VasariAntorak
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariCapital
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariCorvette
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariExtractor
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariHangar
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariJarrasul
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariJarun
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariJikara
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariJunsurak
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariKanrak
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariKarrastra
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariKortul
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariKultorask
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariLasurak
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariMedia
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariOrkulus
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariPhase
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariRankulas
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariRavastra
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariRegeneration
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariSerevun
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariSivuskras
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariSkarovas
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariSkirantra
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariStilakus
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariViturska
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariVorastra
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariVoruntak
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: VasariVulkoras
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0

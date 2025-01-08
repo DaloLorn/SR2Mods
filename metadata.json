@@ -1,0 +1,96 @@
+{
+	"mods": {
+		"[OBSOLETE] ABEM Modding Toolkit": {
+			"rootFolder": "ABEMTool"
+		},
+		"Unity of the Advent": {
+			"rootFolder": "AdventSet"
+		},
+		"[OBSOLETE] Lantean Society": {
+			"rootFolder": "AncientSet"
+		},
+		"[OBSOLETE] Asgard Empire": {
+			"rootFolder": "AsgardSet"
+		},
+		"[OBSOLETE] AutoIRC": {
+			"rootFolder": "AutoIRC"
+		},
+		"Better Particle Editor": {
+			"rootFolder": "BetterParticleEditor"
+		},
+		"Dalo's Flag Extension": {
+			"rootFolder": "Flags"
+		},
+		"[OBSOLETE] System Lord Alliance": {
+			"rootFolder": "GoauldSet"
+		},
+		"[OBSOLETE] Jraenar Imperium": {
+			"rootFolder": "Jraenar"
+		},
+		"Koprulu Emergency Coalition": {
+			"rootFolder": "KECSet",
+			"dependencies": [
+				{
+					"name": "Trader Emergency Coalition",
+					"sameSource": true,
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "All-Mods",
+					"modName": "Trader Emergency Coalition"
+				},
+				{
+					"name": "Koprulu Navy",
+					"sameSource": true,
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "All-Mods",
+					"modName": "Koprulu Navy"
+				}
+			]
+		},
+		"Multiple Theme Enabler": {
+			"rootFolder": "MultiTheme"
+		},
+		"Khalai Unity": {
+			"rootFolder": "ProtossAdventSet",
+			"dependencies": [
+				{
+					"name": "Unity of the Advent",
+					"sameSource": true,
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "All-Mods",
+					"modName": "Unity of the Advent"
+				},
+				{
+					"name": "The Firstborn",
+					"sameSource": true,
+					"repository": "github.com/DaloLorn/SR2Mods",
+					"branch": "All-Mods",
+					"modName": "The Firstborn"
+				}
+			]
+		},
+		"The Firstborn": {
+			"rootFolder": "ProtossSet"
+		},
+		"[OBSOLETE] Replicator Collective": {
+			"rootFolder": "ReplicatorSet"
+		},
+		"[OBSOLETE] Hex Limit Reverter": {
+			"rootFolder": "ShipsetReset"
+		},
+		"Trader Emergency Coalition": {
+			"rootFolder": "TECSet"
+		},
+		"[OBSOLETE] Stargate Command": {
+			"rootFolder": "TauriSet"
+		},
+		"Koprulu Navy": {
+			"rootFolder": "TerranSet"
+		},
+		"[OBSOLETE] Wraith Alliance": {
+			"rootFolder": "WraithSet"
+		},
+		"Exodus Fleet": {
+			"rootFolder": "VasariSet"
+		}
+	}
+}

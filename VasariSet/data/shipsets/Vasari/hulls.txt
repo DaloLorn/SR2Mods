@@ -1,0 +1,649 @@
+Hull: VasariAntorak
+	Name: Antorak Marauder
+	Background: VasariAntorak
+	BackgroundScale: 1.2
+	Material: VasariAntorak
+	Model: VasariAntorak
+	Subsystem: FlagshipHull
+	Subsystem: VasariAntorak
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariJarrasul
+	Name: Jarrasul Evacuator
+	Background: VasariJarrasul
+	BackgroundScale: 1.2
+	Material: VasariJarrasul
+	Model: VasariJarrasul
+	Subsystem: FlagshipHull
+	Subsystem: VasariJarrasul
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariJarun
+	Name: Jarun Migrator
+	Background: VasariJarun
+	BackgroundScale: 1.2
+	Material: VasariJarun
+	Model: VasariJarun
+	Subsystem: FlagshipHull
+	Subsystem: VasariJarun
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariJikara
+	Name: Jikara Navigator
+	Background: VasariJikara
+	BackgroundScale: 1.2
+	Material: VasariJikara
+	Model: VasariJikara
+	Subsystem: FlagshipHull
+	Subsystem: VasariJikara
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariJunsurak
+	Name: Junsurak Sentinel
+	Background: VasariJunsurak
+	BackgroundScale: 1.2
+	Material: VasariJunsurak
+	Model: VasariJunsurak
+	Subsystem: FlagshipHull
+	Subsystem: VasariJunsurak
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariKanrak
+	Name: Kanrak Assailant
+	Background: VasariKanrak
+	BackgroundScale: 1.2
+	Material: VasariKanrak
+	Model: VasariKanrak
+	Subsystem: FlagshipHull
+	Subsystem: VasariKanrak
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariKarrastra
+	Name: Karrastra Destructor
+	Background: VasariKarrastra
+	BackgroundScale: 1.2
+	Material: VasariKarrastra
+	Model: VasariKarrastra
+	Subsystem: FlagshipHull
+	Subsystem: VasariKarrastra
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariKortul
+	Name: Kortul Devastator
+	Background: VasariKortul
+	BackgroundScale: 1.2
+	Material: VasariKortul
+	Model: VasariKortul
+	Subsystem: FlagshipHull
+	Subsystem: VasariKortul
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariKultorask
+	Name: Kultorask-class Titan
+	Background: VasariKultorask
+	BackgroundScale: 1.2
+	Material: VasariKultorask
+	Model: VasariKultorask
+	Subsystem: FlagshipHull
+	Subsystem: VasariKultorask
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariLasurak
+	Name: Lasurak Transporter
+	Background: VasariLasurak
+	BackgroundScale: 1.2
+	Material: VasariLasurak
+	Model: VasariLasurak
+	Subsystem: FlagshipHull
+	Subsystem: VasariLasurak
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariSOrkulus
+	Name: Orkulus-class Baseship
+	Background: VasariOrkulus
+	BackgroundScale: 1.2
+	Material: VasariOrkulus
+	Model: VasariOrkulus
+	Subsystem: FlagshipHull
+	Subsystem: VasariOrkulus
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariRankulas
+	Name: Rankulas-class Battleship
+	Background: VasariRankulas
+	BackgroundScale: 1.2
+	Material: VasariRankulas
+	Model: VasariRankulas
+	Subsystem: FlagshipHull
+	Subsystem: VasariRankulas
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariRavastra
+	Name: Ravastra Skirmisher
+	Background: VasariRavastra
+	BackgroundScale: 1.2
+	Material: VasariRavastra
+	Model: VasariRavastra
+	Subsystem: FlagshipHull
+	Subsystem: VasariRavastra
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariSerevun
+	Name: Serevun Overseer
+	Background: VasariSerevun
+	BackgroundScale: 1.2
+	Material: VasariSerevun
+	Model: VasariSerevun
+	Subsystem: FlagshipHull
+	Subsystem: VasariSerevun
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariSivuskras
+	Name: Sivuskras Ruiner
+	Background: VasariSivuskras
+	BackgroundScale: 1.2
+	Material: VasariSivuskras
+	Model: VasariSivuskras
+	Subsystem: FlagshipHull
+	Subsystem: VasariSivuskras
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariSkarovas
+	Name: Skarovas Enforcer
+	Background: VasariSkarovas
+	BackgroundScale: 1.2
+	Material: VasariSkarovas
+	Model: VasariSkarovas
+	Subsystem: FlagshipHull
+	Subsystem: VasariSkarovas
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariSkirantra
+	Name: Skirantra-class Carrier
+	Background: VasariSkirantra
+	BackgroundScale: 1.2
+	Material: VasariSkirantra
+	Model: VasariSkirantra
+	Subsystem: FlagshipHull
+	Subsystem: VasariSkirantra
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariStilakus
+	Name: Stilakus Subverter
+	Background: VasariStilakus
+	BackgroundScale: 1.2
+	Material: VasariStilakus
+	Model: VasariStilakus
+	Subsystem: FlagshipHull
+	Subsystem: VasariStilakus
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariSulsurak
+	Name: Sulsurak-class Corvette
+	Background: VasariSulsurak
+	BackgroundScale: 1.2
+	Material: VasariSulsurak
+	Model: VasariCorvette
+	Subsystem: FlagshipHull
+	Subsystem: VasariCorvette
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariTosurak
+	Name: Tosurak-class Corvette
+	Background: VasariTosurak
+	BackgroundScale: 1.2
+	Material: VasariTosurak
+	Model: VasariCorvette
+	Subsystem: FlagshipHull
+	Subsystem: VasariCorvette
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariVoruntak
+	Name: Voruntak Envoy
+	Background: VasariVoruntak
+	BackgroundScale: 1.2
+	Material: VasariVoruntak
+	Model: VasariVoruntak
+	Subsystem: FlagshipHull
+	Subsystem: VasariVoruntak
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariVorastra
+	Name: Vorastra-class Titan
+	Background: VasariVorastra
+	BackgroundScale: 1.2
+	Material: VasariVorastra
+	Model: VasariVorastra
+	Subsystem: FlagshipHull
+	Subsystem: VasariVorastra
+	MinSize: 16
+	Tags: Flagship
+
+Hull: VasariVulkoras
+	Name: Vulkoras Desolator
+	Background: VasariVulkoras
+	BackgroundScale: 1.2
+	Material: VasariVulkoras
+	Model: VasariVulkoras
+	Subsystem: FlagshipHull
+	Subsystem: VasariVulkoras
+	MinSize: 16
+	Tags: Flagship
+
+// END FLAGSHIP LIST
+
+Hull: VasariCapital
+	Name: Capital Ship Factory
+	Background: VasariCapital
+	BackgroundScale: 1.2
+	Material: VasariCapital
+	Model: VasariCapital
+	Subsystem: StationHull
+	Subsystem: VasariCapital
+	MinSize: 16
+	Tags: Station
+
+Hull: VasariExtractor
+	Name: Extractor
+	Background: VasariExtractor
+	BackgroundScale: 1.2
+	Material: VasariExtractor
+	Model: VasariExtractor
+	Subsystem: StationHull
+	Subsystem: VasariExtractor
+	MinSize: 16
+	Tags: Station
+
+Hull: VasariHangar
+	Name: Hangar Defense
+	Background: VasariHangar
+	BackgroundScale: 1.2
+	Material: VasariHangar
+	Model: VasariHangar
+	Subsystem: StationHull
+	Subsystem: VasariHangar
+	MinSize: 16
+	Tags: Station
+
+Hull: VasariMedia
+	Name: Media Hub
+	Background: VasariMedia
+	BackgroundScale: 1.2
+	Material: VasariMedia
+	Model: VasariMedia
+	Subsystem: StationHull
+	Subsystem: VasariMedia
+	MinSize: 16
+	Tags: Station
+
+Hull: VasariOrkulus
+	Name: Orkulus-class Starbase
+	Background: VasariOrkulus
+	BackgroundScale: 1.2
+	Material: VasariOrkulus
+	Model: VasariOrkulus
+	Subsystem: StationHull
+	Subsystem: VasariOrkulus
+	MinSize: 16
+	Tags: Station
+
+Hull: VasariRegeneration
+	Name: Regeneration Bay
+	Background: VasariRegeneration
+	BackgroundScale: 1.2
+	Material: VasariRegeneration
+	Model: VasariRegeneration
+	Subsystem: StationHull
+	Subsystem: VasariRegeneration
+	MinSize: 16
+	Tags: Station
+
+Hull: VasariViturska
+	Name: Viturska Imperial Lab
+	Background: VasariViturska
+	BackgroundScale: 1.2
+	Material: VasariViturska
+	Model: VasariViturska
+	Subsystem: StationHull
+	Subsystem: VasariViturska
+	MinSize: 16
+	Tags: Station
+
+// END STATION LIST
+
+Hull: SVasariAntorak
+	Name: Antorak Marauder
+	Background: VasariAntorak
+	BackgroundScale: 1.2
+	Material: VasariAntorak
+	Model: VasariAntorak
+	Subsystem: SupportHull
+	Subsystem: VasariAntorak
+	Tags: Support
+
+Hull: SVasariJarrasul
+	Name: Jarrasul Evacuator
+	Background: VasariJarrasul
+	BackgroundScale: 1.2
+	Material: VasariJarrasul
+	Model: VasariJarrasul
+	Subsystem: SupportHull
+	Subsystem: VasariJarrasul
+	Tags: Support
+
+Hull: SVasariJarun
+	Name: Jarun Migrator
+	Background: VasariJarun
+	BackgroundScale: 1.2
+	Material: VasariJarun
+	Model: VasariJarun
+	Subsystem: SupportHull
+	Subsystem: VasariJarun
+	Tags: Support
+
+Hull: SVasariJikara
+	Name: Jikara Navigator
+	Background: VasariJikara
+	BackgroundScale: 1.2
+	Material: VasariJikara
+	Model: VasariJikara
+	Subsystem: SupportHull
+	Subsystem: VasariJikara
+	Tags: Support
+
+Hull: SVasariJunsurak
+	Name: Junsurak Sentinel
+	Background: VasariJunsurak
+	BackgroundScale: 1.2
+	Material: VasariJunsurak
+	Model: VasariJunsurak
+	Subsystem: SupportHull
+	Subsystem: VasariJunsurak
+	Tags: Support
+
+Hull: SVasariKanrak
+	Name: Kanrak Assailant
+	Background: VasariKanrak
+	BackgroundScale: 1.2
+	Material: VasariKanrak
+	Model: VasariKanrak
+	Subsystem: SupportHull
+	Subsystem: VasariKanrak
+	Tags: Support
+
+Hull: SVasariKarrastra
+	Name: Karrastra Destructor
+	Background: VasariKarrastra
+	BackgroundScale: 1.2
+	Material: VasariKarrastra
+	Model: VasariKarrastra
+	Subsystem: SupportHull
+	Subsystem: VasariKarrastra
+	Tags: Support
+
+Hull: SVasariKortul
+	Name: Kortul Devastator
+	Background: VasariKortul
+	BackgroundScale: 1.2
+	Material: VasariKortul
+	Model: VasariKortul
+	Subsystem: SupportHull
+	Subsystem: VasariKortul
+	Tags: Support
+
+Hull: SVasariKultorask
+	Name: Kultorask-class Titan
+	Background: VasariKultorask
+	BackgroundScale: 1.2
+	Material: VasariKultorask
+	Model: VasariKultorask
+	Subsystem: SupportHull
+	Subsystem: VasariKultorask
+	Tags: Support
+
+Hull: SVasariLasurak
+	Name: Lasurak Transporter
+	Background: VasariLasurak
+	BackgroundScale: 1.2
+	Material: VasariLasurak
+	Model: VasariLasurak
+	Subsystem: SupportHull
+	Subsystem: VasariLasurak
+	Tags: Support
+
+Hull: SVasariSOrkulus
+	Name: Orkulus-class Baseship
+	Background: VasariOrkulus
+	BackgroundScale: 1.2
+	Material: VasariOrkulus
+	Model: VasariOrkulus
+	Subsystem: SupportHull
+	Subsystem: VasariOrkulus
+	Tags: Support
+
+Hull: SVasariRankulas
+	Name: Rankulas-class Battleship
+	Background: VasariRankulas
+	BackgroundScale: 1.2
+	Material: VasariRankulas
+	Model: VasariRankulas
+	Subsystem: SupportHull
+	Subsystem: VasariRankulas
+	Tags: Support
+
+Hull: SVasariRavastra
+	Name: Ravastra Skirmisher
+	Background: VasariRavastra
+	BackgroundScale: 1.2
+	Material: VasariRavastra
+	Model: VasariRavastra
+	Subsystem: SupportHull
+	Subsystem: VasariRavastra
+	Tags: Support
+
+Hull: SVasariSerevun
+	Name: Serevun Overseer
+	Background: VasariSerevun
+	BackgroundScale: 1.2
+	Material: VasariSerevun
+	Model: VasariSerevun
+	Subsystem: SupportHull
+	Subsystem: VasariSerevun
+	Tags: Support
+
+Hull: SVasariSivuskras
+	Name: Sivuskras Ruiner
+	Background: VasariSivuskras
+	BackgroundScale: 1.2
+	Material: VasariSivuskras
+	Model: VasariSivuskras
+	Subsystem: SupportHull
+	Subsystem: VasariSivuskras
+	Tags: Support
+
+Hull: SVasariSkarovas
+	Name: Skarovas Enforcer
+	Background: VasariSkarovas
+	BackgroundScale: 1.2
+	Material: VasariSkarovas
+	Model: VasariSkarovas
+	Subsystem: SupportHull
+	Subsystem: VasariSkarovas
+	Tags: Support
+
+Hull: SVasariSkirantra
+	Name: Skirantra-class Carrier
+	Background: VasariSkirantra
+	BackgroundScale: 1.2
+	Material: VasariSkirantra
+	Model: VasariSkirantra
+	Subsystem: SupportHull
+	Subsystem: VasariSkirantra
+	Tags: Support
+
+Hull: SVasariStilakus
+	Name: Stilakus Subverter
+	Background: VasariStilakus
+	BackgroundScale: 1.2
+	Material: VasariStilakus
+	Model: VasariStilakus
+	Subsystem: SupportHull
+	Subsystem: VasariStilakus
+	Tags: Support
+
+Hull: SVasariSulsurak
+	Name: Sulsurak-class Corvette
+	Background: VasariSulsurak
+	BackgroundScale: 1.2
+	Material: VasariSulsurak
+	Model: VasariCorvette
+	Subsystem: SupportHull
+	Subsystem: VasariCorvette
+	Tags: Support
+
+Hull: SVasariTosurak
+	Name: Tosurak-class Corvette
+	Background: VasariTosurak
+	BackgroundScale: 1.2
+	Material: VasariTosurak
+	Model: VasariCorvette
+	Subsystem: SupportHull
+	Subsystem: VasariCorvette
+	Tags: Support
+
+Hull: SVasariVorastra
+	Name: Vorastra-class Titan
+	Background: VasariVorastra
+	BackgroundScale: 1.2
+	Material: VasariVorastra
+	Model: VasariVorastra
+	Subsystem: SupportHull
+	Subsystem: VasariVorastra
+	Tags: Support
+
+Hull: SVasariVoruntak
+	Name: Voruntak Envoy
+	Background: VasariVoruntak
+	BackgroundScale: 1.2
+	Material: VasariVoruntak
+	Model: VasariVoruntak
+	Subsystem: SupportHull
+	Subsystem: VasariVoruntak
+	Tags: Support
+
+Hull: SVasariVulkoras
+	Name: Vulkoras Desolator
+	Background: VasariVulkoras
+	BackgroundScale: 1.2
+	Material: VasariVulkoras
+	Model: VasariVulkoras
+	Subsystem: SupportHull
+	Subsystem: VasariVulkoras
+	Tags: Support
+
+// END SUPPORT LIST HERE
+
+Hull: VasariPhase
+	Name: Phase Stabilizer
+	Background: VasariPhase
+	BackgroundScale: 1.2
+	Material: VasariPhase
+	Model: VasariPhase
+	Subsystem: StationHull
+	Subsystem: GateHull
+	Subsystem: VasariPhase
+	MinSize: 16
+	Tags: Station
+
+// END GATE LIST HERE
+
+Hull: SVasariCapital
+	Name: Capital Ship Factory
+	Background: VasariCapital
+	BackgroundScale: 1.2
+	Material: VasariCapital
+	Model: VasariCapital
+	Subsystem: SatelliteHull
+	Subsystem: VasariCapital
+	Tags: Satellite
+
+Hull: SVasariExtractor
+	Name: Extractor
+	Background: VasariExtractor
+	BackgroundScale: 1.2
+	Material: VasariExtractor
+	Model: VasariExtractor
+	Subsystem: SatelliteHull
+	Subsystem: VasariExtractor
+	Tags: Satellite
+
+Hull: SVasariHangar
+	Name: Hangar Defense
+	Background: VasariHangar
+	BackgroundScale: 1.2
+	Material: VasariHangar
+	Model: VasariHangar
+	Subsystem: SatelliteHull
+	Subsystem: VasariHangar
+	Tags: Satellite
+
+Hull: SVasariMedia
+	Name: Media Hub
+	Background: VasariMedia
+	BackgroundScale: 1.2
+	Material: VasariMedia
+	Model: VasariMedia
+	Subsystem: SatelliteHull
+	Subsystem: VasariMedia
+	Tags: Satellite
+
+Hull: SVasariOrkulus
+	Name: Orkulus-class Starbase
+	Background: VasariOrkulus
+	BackgroundScale: 1.2
+	Material: VasariOrkulus
+	Model: VasariOrkulus
+	Subsystem: SatelliteHull
+	Subsystem: VasariOrkulus
+	Tags: Satellite
+
+Hull: SVasariRegeneration
+	Name: Regeneration Bay
+	Background: VasariRegeneration
+	BackgroundScale: 1.2
+	Material: VasariRegeneration
+	Model: VasariRegeneration
+	Subsystem: SatelliteHull
+	Subsystem: VasariRegeneration
+	Tags: Satellite
+
+Hull: SVasariViturska
+	Name: Viturska Imperial Lab
+	Background: VasariViturska
+	BackgroundScale: 1.2
+	Material: VasariViturska
+	Model: VasariViturska
+	Subsystem: SatelliteHull
+	Subsystem: VasariViturska
+	Tags: Satellite

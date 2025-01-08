@@ -1,0 +1,81 @@
+Shipset: Vasari
+	Name: Vasari
+	Available: Yes
+
+	Hull: VasariJarrasul
+	Hull: VasariAntorak
+	Hull: VasariJarun
+	Hull: VasariJikara
+	Hull: VasariJunsurak
+	Hull: VasariKanrak
+	Hull: VasariKarrastra
+	Hull: VasariKortul
+	Hull: VasariKultorask
+	Hull: VasariLasurak
+	Hull: VasariSOrkulus
+	Hull: VasariRankulas
+	Hull: VasariRavastra
+	Hull: VasariSerevun
+	Hull: VasariSivuskras
+	Hull: VasariSkarovas
+	Hull: VasariSkirantra
+	Hull: VasariStilakus
+	Hull: VasariSulsurak
+	Hull: VasariTosurak
+	Hull: VasariVorastra
+	Hull: VasariVoruntak
+	Hull: VasariVulkoras
+
+	Hull: VasariOrkulus
+	Hull: VasariCapital
+	Hull: VasariExtractor
+	Hull: VasariHangar
+	Hull: VasariMedia
+	Hull: VasariRegeneration
+	Hull: VasariViturska
+
+	Hull: VasariPhase
+
+	Hull: SVasariOrkulus
+	Hull: SVasariCapital
+	Hull: SVasariExtractor
+	Hull: SVasariHangar
+	Hull: SVasariMedia
+	Hull: SVasariRegeneration
+	Hull: SVasariViturska
+
+	Hull: SVasariRavastra
+	Hull: SVasariAntorak
+	Hull: SVasariJarrasul
+	Hull: SVasariJarun
+	Hull: SVasariJikara
+	Hull: SVasariJunsurak
+	Hull: SVasariKanrak
+	Hull: SVasariKarrastra
+	Hull: SVasariKortul
+	Hull: SVasariKultorask
+	Hull: SVasariLasurak
+	Hull: SVasariSOrkulus
+	Hull: SVasariRankulas
+	Hull: SVasariSerevun
+	Hull: SVasariSivuskras
+	Hull: SVasariSkarovas
+	Hull: SVasariSkirantra
+	Hull: SVasariStilakus
+	Hull: SVasariSulsurak
+	Hull: SVasariTosurak
+	Hull: SVasariVorastra
+	Hull: SVasariVoruntak
+	Hull: SVasariVulkoras
+
+	Skin: Missionary
+		Model: VasariVoruntak
+		Material: VasariVoruntak
+
+	Skin: Freighter
+		Model: VasariJarun
+		Material: VasariJarun
+
+	Skin: Colonizer
+		Model: VasariJarun
+		Material: VasariJarun
