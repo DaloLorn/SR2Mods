@@ -1,70 +1,66 @@
-Hull: Ragnarov
-	Name: Ragnarov-class Titan
-	Background: Ragnarov
-	BackgroundScale: 1.2
-	Material: Ragnarov
-	Model: Ragnarov
-	Subsystem: FlagshipHull
-	MinSize: 16
-	Tags: Flagship
-
-Hull: Marza
-	Name: Marza-class Dreadnought
-	Background: Marza
-	BackgroundScale: 1.1
-	Material: Marza
-	Model: Marza
-	Subsystem: FlagshipHull
-	MinSize: 16
-	Tags: Flagship
-
-Hull: Kol
-	Name: Kol-class Battleship
-	Background: Kol
-	BackgroundScale: 1.1
-	Material: Kol
-	Model: Kol
-	Subsystem: FlagshipHull
-	MinSize: 16
-	Tags: Flagship
-
-Hull: Sova
-	Name: Sova-class Carrier
-	Background: Sova
-	BackgroundScale: 1.1
-	Material: Sova
-	Model: Sova
-	Subsystem: FlagshipHull
-	MinSize: 16
-	Tags: Flagship
-
-Hull: Akkan
+Hull: TECAkkan
 	Name: Akkan-class Battlecruiser
-	Background: Akkan
+	Background: TECAkkan
 	BackgroundScale: 1.2
-	Material: Akkan
-	Model: Akkan
+	Material: TECAkkan
+	Model: TECAkkan
 	Subsystem: FlagshipHull
+	Subsystem: TECAkkan
 	MinSize: 16
 	Tags: Flagship
 
-Hull: Dunov
-	Name: Dunov-class Battlecruiser
-	Background: Dunov
+Hull: TECAnkylon
+	Name: Ankylon-class Titan
+	Background: TECAnkylon
 	BackgroundScale: 1.2
-	Material: Dunov
-	Model: Dunov
+	Material: TECAnkylon
+	Model: TECAnkylon
 	Subsystem: FlagshipHull
+	Subsystem: TECAnkylon
 	MinSize: 16
 	Tags: Flagship
 
-Hull: Garda
-	Name: Garda-class Flak Frigate
-	Background: Garda
+Hull: TECCielo
+	Name: Cielo-class Command Cruiser
+	Background: TECCielo
+	BackgroundScale: 1.2
+	Material: TECCielo
+	Model: TECCielo
+	Subsystem: FlagshipHull
+	Subsystem: TECCielo
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECCobalt
+	Name: Cobalt-class Light Frigate
+	Background: TECCobalt
 	BackgroundScale: 1.3
-	Material: Garda
-	Model: Garda
+	Material: TECCobalt
+	Model: TECCobalt
 	Subsystem: FlagshipHull
+	Subsystem: TECCobalt
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECCorsev
+	Name: Corsev-class Battlecruiser
+	Background: TECCorsev
+	BackgroundScale: 1.2
+	Material: TECCorsev
+	Model: TECCorsev
+	Subsystem: FlagshipHull
+	Subsystem: TECCorsev
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECDunov
+	Name: Dunov-class Battlecruiser
+	Background: TECDunov
+	BackgroundScale: 1.2
+	Material: TECDunov
+	Model: TECDunov
+	Subsystem: FlagshipHull
+	Subsystem: TECDunov
 	MinSize: 16
 	Tags: Flagship
 
@@ -75,104 +71,281 @@ Hull: TECFreighter
 	Material: TECFreighter
 	Model: TECFreighter
 	Subsystem: FlagshipHull
+	Subsystem: TECFreighter
 	MinSize: 16
 	Tags: Flagship
 
-Hull: Krosov
+Hull: TECGarda
+	Name: Garda-class Flak Frigate
+	Background: TECGarda
+	BackgroundScale: 1.3
+	Material: TECGarda
+	Model: TECGarda
+	Subsystem: FlagshipHull
+	Subsystem: TECGarda
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECHoshiko
+	Name: Hoshiko-class Robotics Cruiser
+	Background: TECHoshiko
+	BackgroundScale: 1.2
+	Material: TECHoshiko
+	Model: TECHoshiko
+	Subsystem: FlagshipHull
+	Subsystem: TECHoshiko
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECJavelis
+	Name: Javelis-class LRM Frigate
+	Background: TECJavelis
+	BackgroundScale: 1.2
+	Material: TECJavelis
+	Model: TECJavelis
+	Subsystem: FlagshipHull
+	Subsystem: TECJavelis
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECKodiak
+	Name: Kodiak-class Heavy Cruiser
+	Background: TECKodiak
+	BackgroundScale: 1.2
+	Material: TECKodiak
+	Model: TECKodiak
+	Subsystem: FlagshipHull
+	Subsystem: TECKodiak
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECKol
+	Name: Kol-class Battleship
+	Background: TECKol
+	BackgroundScale: 1.1
+	Material: TECKol
+	Model: TECKol
+	Subsystem: FlagshipHull
+	Subsystem: TECKol
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECKrosov
 	Name: Krosov-class Siege Frigate
-	Background: Krosov
+	Background: TECKrosov
 	BackgroundScale: 1.3
-	Material: Krosov
-	Model: Krosov
+	Material: TECKrosov
+	Model: TECKrosov
 	Subsystem: FlagshipHull
+	Subsystem: TECKrosov
 	MinSize: 16
 	Tags: Flagship
 
-Hull: CobaltTEC
-	Name: Cobalt-class Light Frigate
-	Background: CobaltTEC
-	BackgroundScale: 1.3
-	Material: CobaltTEC
-	Model: CobaltTEC
+Hull: TECMarza
+	Name: Marza-class Dreadnought
+	Background: TECMarza
+	BackgroundScale: 1.1
+	Material: TECMarza
+	Model: TECMarza
 	Subsystem: FlagshipHull
+	Subsystem: TECMarza
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECNeruda
+	Name: Neruda-class Envoy Cruiser
+	Background: TECNeruda
+	BackgroundScale: 1.2
+	Material: TECNeruda
+	Model: TECNeruda
+	Subsystem: FlagshipHull
+	Subsystem: TECNeruda
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECOgrov
+	Name: Ogrov-class Torpedo Cruiser
+	Background: TECOgrov
+	BackgroundScale: 1.2
+	Material: TECOgrov
+	Model: TECOgrov
+	Subsystem: FlagshipHull
+	Subsystem: TECOgrov
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECPercheron
+	Name: Percheron-class Light Carrier
+	Background: TECPercheron
+	BackgroundScale: 1.2
+	Material: TECPercheron
+	Model: TECPercheron
+	Subsystem: FlagshipHull
+	Subsystem: TECPercheron
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECProtev
+	Name: Protev-class Colony Frigate
+	Background: TECProtev
+	BackgroundScale: 1.2
+	Material: TECProtev
+	Model: TECProtev
+	Subsystem: FlagshipHull
+	Subsystem: TECProtev
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECRagnarov
+	Name: Ragnarov-class Titan
+	Background: TECRagnarov
+	BackgroundScale: 1.2
+	Material: TECRagnarov
+	Model: TECRagnarov
+	Subsystem: FlagshipHull
+	Subsystem: TECRagnarov
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECRaloz
+	Name: Raloz-class Heavy Constructor
+	Background: TECRaloz
+	BackgroundScale: 1.2
+	Material: TECRaloz
+	Model: TECRaloz
+	Subsystem: FlagshipHull
+	Subsystem: TECRaloz
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECShriken
+	Name: Shriken-class Corvette
+	Background: TECShriken
+	BackgroundScale: 1.1
+	Material: TECShriken
+	Model: TECCorvette
+	Subsystem: FlagshipHull
+	Subsystem: TECCorvette
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECSova
+	Name: Sova-class Carrier
+	Background: TECSova
+	BackgroundScale: 1.1
+	Material: TECSova
+	Model: TECSova
+	Subsystem: FlagshipHull
+	Subsystem: TECSova
+	MinSize: 16
+	Tags: Flagship
+
+Hull: TECStilat
+	Name: Stilat-class Corvette
+	Background: TECStilat
+	BackgroundScale: 1.1
+	Material: TECStilat
+	Model: TECCorvette
+	Subsystem: FlagshipHull
+	Subsystem: TECCorvette
 	MinSize: 16
 	Tags: Flagship
 
 // END FLAGSHIP LIST
 
-Hull: Argonev
+Hull: TECArgonev
 	Name: Argonev-class Starbase
-	Background: Argonev
+	Background: TECArgonev
 	BackgroundScale: 1.1
-	Material: Argonev
-	Model: Argonev
+	Material: TECArgonev
+	Model: TECArgonev
 	Subsystem: StationHull
+	Subsystem: TECArgonev
+	MinSize: 16
+	Tags: Station
+
+Hull: TECRefinery
+	Name: Orbital Refinery
+	Background: TECRefinery
+	BackgroundScale: 1.2
+	Material: TECRefinery
+	Model: TECRefinery
+	Subsystem: StationHull
+	Subsystem: TECRefinery
+	MinSize: 16
+	Tags: Station
+
+Hull: TECTradePort
+	Name: Trade Port
+	Background: TECTradePort
+	BackgroundScale: 1.2
+	Material: TECTradePort
+	Model: TECTradePort
+	Subsystem: StationHull
+	Subsystem: TECTradePort
 	MinSize: 16
 	Tags: Station
 
 // END STATION LIST
 
-Hull: SRagnarov
-	Name: Ragnarov-class Titan
-	Background: Ragnarov
-	BackgroundScale: 1.2
-	Material: Ragnarov
-	Model: Ragnarov
-	Subsystem: SupportHull
-	Tags: Support
-
-Hull: SMarza
-	Name: Marza-class Dreadnought
-	Background: Marza
-	BackgroundScale: 1.1
-	Material: Marza
-	Model: Marza
-	Subsystem: SupportHull
-	Tags: Support
-
-Hull: SKol
-	Name: Kol-class Battleship
-	Background: Kol
-	BackgroundScale: 1.1
-	Material: Kol
-	Model: Kol
-	Subsystem: SupportHull
-	Tags: Support
-
-Hull: SSova
-	Name: Sova-class Carrier
-	Background: Sova
-	BackgroundScale: 1.1
-	Material: Sova
-	Model: Sova
-	Subsystem: SupportHull
-	Tags: Support
-
-Hull: SAkkan
+Hull: STECAkkan
 	Name: Akkan-class Battlecruiser
-	Background: Akkan
+	Background: TECAkkan
 	BackgroundScale: 1.2
-	Material: Akkan
-	Model: Akkan
+	Material: TECAkkan
+	Model: TECAkkan
 	Subsystem: SupportHull
+	Subsystem: TECAkkan
 	Tags: Support
 
-Hull: SDunov
-	Name: Dunov-class Battlecruiser
-	Background: Dunov
+Hull: STECAnkylon
+	Name: Ankylon-class Titan
+	Background: TECAnkylon
 	BackgroundScale: 1.2
-	Material: Dunov
-	Model: Dunov
+	Material: TECAnkylon
+	Model: TECAnkylon
 	Subsystem: SupportHull
+	Subsystem: TECAnkylon
 	Tags: Support
 
-Hull: SGarda
-	Name: Garda-class Flak Frigate
-	Background: Garda
+Hull: STECCielo
+	Name: Cielo-class Command Cruiser
+	Background: TECCielo
+	BackgroundScale: 1.2
+	Material: TECCielo
+	Model: TECCielo
+	Subsystem: SupportHull
+	Subsystem: TECCielo
+	Tags: Support
+
+Hull: STECCobalt
+	Name: Cobalt-class Light Frigate
+	Background: TECCobalt
 	BackgroundScale: 1.3
-	Material: Garda
-	Model: Garda
+	Material: TECCobalt
+	Model: TECCobalt
 	Subsystem: SupportHull
+	Subsystem: TECCobalt
+	Tags: Support
+
+Hull: STECCorsev
+	Name: Corsev-class Battlecruiser
+	Background: TECCorsev
+	BackgroundScale: 1.2
+	Material: TECCorsev
+	Model: TECCorsev
+	Subsystem: SupportHull
+	Subsystem: TECCorsev
+	Tags: Support
+
+Hull: STECDunov
+	Name: Dunov-class Battlecruiser
+	Background: TECDunov
+	BackgroundScale: 1.2
+	Material: TECDunov
+	Model: TECDunov
+	Subsystem: SupportHull
+	Subsystem: TECDunov
 	Tags: Support
 
 Hull: STECFreighter
@@ -182,22 +355,197 @@ Hull: STECFreighter
 	Material: TECFreighter
 	Model: TECFreighter
 	Subsystem: SupportHull
+	Subsystem: TECFreighter
 	Tags: Support
 
-Hull: SKrosov
+Hull: STECGarda
+	Name: Garda-class Flak Frigate
+	Background: TECGarda
+	BackgroundScale: 1.3
+	Material: TECGarda
+	Model: TECGarda
+	Subsystem: SupportHull
+	Subsystem: TECGarda
+	Tags: Support
+
+Hull: STECHoshiko
+	Name: Hoshiko-class Robotics Cruiser
+	Background: TECHoshiko
+	BackgroundScale: 1.2
+	Material: TECHoshiko
+	Model: TECHoshiko
+	Subsystem: SupportHull
+	Subsystem: TECHoshiko
+	Tags: Support
+
+Hull: STECJavelis
+	Name: Javelis-class LRM Frigate
+	Background: TECJavelis
+	BackgroundScale: 1.2
+	Material: TECJavelis
+	Model: TECJavelis
+	Subsystem: SupportHull
+	Subsystem: TECJavelis
+	Tags: Support
+
+Hull: STECKodiak
+	Name: Kodiak-class Heavy Cruiser
+	Background: TECKodiak
+	BackgroundScale: 1.2
+	Material: TECKodiak
+	Model: TECKodiak
+	Subsystem: SupportHull
+	Subsystem: TECKodiak
+	Tags: Support
+
+Hull: STECKol
+	Name: Kol-class Battleship
+	Background: TECKol
+	BackgroundScale: 1.1
+	Material: TECKol
+	Model: TECKol
+	Subsystem: SupportHull
+	Subsystem: TECKol
+	Tags: Support
+
+Hull: STECKrosov
 	Name: Krosov-class Siege Frigate
-	Background: Krosov
+	Background: TECKrosov
 	BackgroundScale: 1.3
-	Material: Krosov
-	Model: Krosov
+	Material: TECKrosov
+	Model: TECKrosov
 	Subsystem: SupportHull
+	Subsystem: TECKrosov
 	Tags: Support
 
-Hull: SCobaltTEC
-	Name: Cobalt-class Light Frigate
-	Background: CobaltTEC
-	BackgroundScale: 1.3
-	Material: CobaltTEC
-	Model: CobaltTEC
+Hull: STECMarza
+	Name: Marza-class Dreadnought
+	Background: TECMarza
+	BackgroundScale: 1.1
+	Material: TECMarza
+	Model: TECMarza
 	Subsystem: SupportHull
+	Subsystem: TECMarza
 	Tags: Support
+
+Hull: STECNeruda
+	Name: Neruda-class Envoy Cruiser
+	Background: TECNeruda
+	BackgroundScale: 1.2
+	Material: TECNeruda
+	Model: TECNeruda
+	Subsystem: SupportHull
+	Subsystem: TECNeruda
+	Tags: Support
+
+Hull: STECOgrov
+	Name: Ogrov-class Torpedo Cruiser
+	Background: TECOgrov
+	BackgroundScale: 1.2
+	Material: TECOgrov
+	Model: TECOgrov
+	Subsystem: SupportHull
+	Subsystem: TECOgrov
+	Tags: Support
+
+Hull: STECPercheron
+	Name: Percheron-class Light Carrier
+	Background: TECPercheron
+	BackgroundScale: 1.2
+	Material: TECPercheron
+	Model: TECPercheron
+	Subsystem: SupportHull
+	Subsystem: TECPercheron
+	Tags: Support
+
+Hull: STECProtev
+	Name: Protev-class Colony Frigate
+	Background: TECProtev
+	BackgroundScale: 1.2
+	Material: TECProtev
+	Model: TECProtev
+	Subsystem: SupportHull
+	Subsystem: TECProtev
+	Tags: Support
+
+Hull: STECRagnarov
+	Name: Ragnarov-class Titan
+	Background: TECRagnarov
+	BackgroundScale: 1.2
+	Material: TECRagnarov
+	Model: TECRagnarov
+	Subsystem: SupportHull
+	Subsystem: TECRagnarov
+	Tags: Support
+
+Hull: STECRaloz
+	Name: Raloz-class Heavy Constructor
+	Background: TECRaloz
+	BackgroundScale: 1.2
+	Material: TECRaloz
+	Model: TECRaloz
+	Subsystem: SupportHull
+	Subsystem: TECRaloz
+	Tags: Support
+
+Hull: STECShriken
+	Name: Shriken-class Corvette
+	Background: TECShriken
+	BackgroundScale: 1.1
+	Material: TECShriken
+	Model: TECCorvette
+	Subsystem: SupportHull
+	Subsystem: TECCorvette
+	Tags: Support
+
+Hull: STECSova
+	Name: Sova-class Carrier
+	Background: TECSova
+	BackgroundScale: 1.1
+	Material: TECSova
+	Model: TECSova
+	Subsystem: SupportHull
+	Subsystem: TECSova
+	Tags: Support
+
+Hull: STECStilat
+	Name: Stilat-class Corvette
+	Background: TECStilat
+	BackgroundScale: 1.1
+	Material: TECStilat
+	Model: TECCorvette
+	Subsystem: SupportHull
+	Subsystem: TECCorvette
+	Tags: Support
+
+// END SUPPORT LIST HERE
+
+Hull: STECArgonev
+	Name: Argonev-class Starbase
+	Background: TECArgonev
+	BackgroundScale: 1.1
+	Material: TECArgonev
+	Model: TECArgonev
+	Subsystem: SatelliteHull
+	Subsystem: TECArgonev
+	Tags: Satellite
+
+Hull: STECRefinery
+	Name: Orbital Refinery
+	Background: TECRefinery
+	BackgroundScale: 1.2
+	Material: TECRefinery
+	Model: TECRefinery
+	Subsystem: SatelliteHull
+	Subsystem: TECRefinery
+	Tags: Satellite
+
+Hull: STECTradePort
+	Name: Trade Port
+	Background: TECTradePort
+	BackgroundScale: 1.2
+	Material: TECTradePort
+	Model: TECTradePort
+	Subsystem: SatelliteHull
+	Subsystem: TECTradePort
+	Tags: Satellite

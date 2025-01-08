@@ -1,5 +1,18 @@
 	Name: Trader Emergency Coalition
 	Description: <<
-		A TEC (Sins of a Solar Empire faction) shipset ported from Space Empires 5. All graphics originally ported from Sins of a Solar Empire (or created - but the naming scheme indicates otherwise) by Prometeu from spaceempires.net. WARNING: This shipset does not have any default designs, so other shipsets' designs will be automatically substituted by the game. This, in and of itself, is not a big deal - but if you're using this with Exa's Wars, make sure all players are using my shipsets or use 'Disable Starting Fleets'. This is to prevent double-dipping caused by the interaction of the game's "load other shipsets" function and Exa's custom-named designs.
+		[b][i][u]NOTE[/u]: It is absolutely vital that you download the 'DOF-Shipset-Common Library' addon from here: [url]http://steamcommunity.com/sharedfiles/filedetails/?id=505348416[/url]. Failure to do so will have unpredictable effects, the least of which will invariably be that all hulls will be untextured black blobs - worst-case scenario, the game may cease functioning altogether![/i][/b]
 
+		[i]Desperate, and unable to mount a resistance on their own, many worlds ceded their authority, transforming the Order into the Trader Emergency Coalition. United under a single banner, we finally stood a fighting chance - our vast commercial fleet was slowly retooled into a shield against the alien invaders.[/i]
+
+		A TEC (Trader Emergency Coalition) shipset ported from Sins of a Solar Empire. Does not have any default designs. Includes custom hex limits through use of the Hex Limit Modifier.
+
+		Credits:
+
+		- Original shipset's (1.0) models and textures sourced from Space Empires 5 shipset by Prometeu of spaceempires.net. (Said shipset is no longer available for download.)
+		- Additional models for 2.0 retrieved from Myfist's stash on OneDrive. (No idea where the 'Myfist' in question is active, presumably one of the SoaSE modding forums. :P)
+		- All textures in 2.0 and 2.1, including upgrades for 1.0 assets, retrieved directly from SoaSE: Rebellion assets by Ironclad Games. (The models themselves are also Rebellion assets - it's just that I don't have the professional tools required to convert them directly so I have to rely on what I can scrounge up from other sources.)
+		- Additional models in 2.1 converted by dolynick.
+		- Asset conversion (model rescaling and rotating, all the texture work) and shipset assembly done by me.
 	>>
+	Derives From: DOF-Shipset-Common Library v1.000
+	Compatibility: 200

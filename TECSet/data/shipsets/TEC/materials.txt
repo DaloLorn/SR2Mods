@@ -3,60 +3,213 @@ Material: TECTemplate
 	Texture4: data/shipsets/TEC/gloss.png
 	Texture5: data/images/skybox.png
 	Texture6: data/shipsets/TEC/gloss.png
-	Shader: SupportShip
+	Shader: DOFSupportShipLCXN
 	Shininess: 12
 
-Material: Ragnarov
-	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/Ragnarov.png
-	Texture3: data/shipsets/TEC/Ragnarov.png
-
-Material: Marza
-	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/Marza.png
-	Texture3: data/shipsets/TEC/Marza.png
-
-Material: Kol
-	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/Kol.png
-	Texture3: data/shipsets/TEC/Kol.png
-
-Material: Sova
-	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/Sova.png
-	Texture3: data/shipsets/TEC/Sova.png
-
-Material: Akkan
+Material: TECAkkan
 	Inherit: TECTemplate
 	Texture: data/shipsets/TEC/Akkan.png
-	Texture3: data/shipsets/TEC/Akkan.png
+	Texture2: data/shipsets/TEC/Akkan_normal.png
+	Texture3: data/shipsets/TEC/Akkan_specular.png
+	Texture4: data/shipsets/TEC/Akkan_gloss.png
+	Texture6: data/shipsets/TEC/Akkan_masks.png
 
-Material: Dunov
+Material: TECAnkylon
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Ankylon.png
+	Texture2: data/shipsets/TEC/Ankylon_normal.png
+	Texture3: data/shipsets/TEC/Ankylon_specular.png
+	Texture4: data/shipsets/TEC/Ankylon_gloss.png
+	Texture6: data/shipsets/TEC/Ankylon_masks.png
+
+Material: TECArgonev
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Argonev.png
+	Texture2: data/shipsets/TEC/Argonev_normal.png
+	Texture3: data/shipsets/TEC/Argonev_specular.png
+	Texture4: data/shipsets/TEC/Argonev_gloss.png
+	Texture6: data/shipsets/TEC/Argonev_masks.png
+
+Material: TECCielo
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Cielo.png
+	Texture2: data/shipsets/TEC/Cielo_normal.png
+	Texture3: data/shipsets/TEC/Cielo_specular.png
+	Texture4: data/shipsets/TEC/Cielo_gloss.png
+	Texture6: data/shipsets/TEC/Cielo_masks.png
+
+Material: TECCobalt
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Cobalt.png
+	Texture2: data/shipsets/TEC/Cobalt_normal.png
+	Texture3: data/shipsets/TEC/Cobalt_specular.png
+	Texture4: data/shipsets/TEC/Cobalt_gloss.png
+	Texture6: data/shipsets/TEC/Cobalt_masks.png
+
+Material: TECCorsev
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Corsev.png
+	Texture2: data/shipsets/TEC/Corsev_normal.png
+	Texture3: data/shipsets/TEC/Corsev_specular.png
+	Texture4: data/shipsets/TEC/Corsev_gloss.png
+	Texture6: data/shipsets/TEC/Corsev_masks.png
+
+Material: TECDunov
 	Inherit: TECTemplate
 	Texture: data/shipsets/TEC/Dunov.png
-	Texture3: data/shipsets/TEC/Dunov.png
-
-Material: Garda
-	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/Garda.png
-	Texture3: data/shipsets/TEC/Garda.png
+	Texture2: data/shipsets/TEC/Dunov_normal.png
+	Texture3: data/shipsets/TEC/Dunov_specular.png
+	Texture4: data/shipsets/TEC/Dunov_gloss.png
+	Texture6: data/shipsets/TEC/Dunov_masks.png
 
 Material: TECFreighter
 	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/TECFreighter.png
-	Texture3: data/shipsets/TEC/TECFreighter.png
+	Texture: data/shipsets/TEC/Freighter.png
+	Texture2: data/shipsets/TEC/Freighter_normal.png
+	Texture3: data/shipsets/TEC/Freighter_specular.png
+	Texture4: data/shipsets/TEC/Freighter_gloss.png
+	Texture6: data/shipsets/TEC/Freighter_masks.png
 
-Material: Krosov
+Material: TECGarda
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Garda.png
+	Texture2: data/shipsets/TEC/Garda_normal.png
+	Texture3: data/shipsets/TEC/Garda_specular.png
+	Texture4: data/shipsets/TEC/Garda_gloss.png
+	Texture6: data/shipsets/TEC/Garda_masks.png
+
+Material: TECHoshiko
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Hoshiko.png
+	Texture2: data/shipsets/TEC/Hoshiko_normal.png
+	Texture3: data/shipsets/TEC/Hoshiko_specular.png
+	Texture4: data/shipsets/TEC/Hoshiko_gloss.png
+	Texture6: data/shipsets/TEC/Hoshiko_masks.png
+
+Material: TECJavelis
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Javelis.png
+	Texture2: data/shipsets/TEC/Javelis_normal.png
+	Texture3: data/shipsets/TEC/Javelis_specular.png
+	Texture4: data/shipsets/TEC/Javelis_gloss.png
+	Texture6: data/shipsets/TEC/Javelis_masks.png
+
+Material: TECKodiak
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Kodiak.png
+	Texture2: data/shipsets/TEC/Kodiak_normal.png
+	Texture3: data/shipsets/TEC/Kodiak_specular.png
+	Texture4: data/shipsets/TEC/Kodiak_gloss.png
+	Texture6: data/shipsets/TEC/Kodiak_masks.png
+
+Material: TECKol
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Kol.png
+	Texture2: data/shipsets/TEC/Kol_normal.png
+	Texture3: data/shipsets/TEC/Kol_specular.png
+	Texture4: data/shipsets/TEC/Kol_gloss.png
+	Texture6: data/shipsets/TEC/Kol_masks.png
+
+Material: TECKrosov
 	Inherit: TECTemplate
 	Texture: data/shipsets/TEC/Krosov.png
-	Texture3: data/shipsets/TEC/Krosov.png
+	Texture2: data/shipsets/TEC/Krosov_normal.png
+	Texture3: data/shipsets/TEC/Krosov_specular.png
+	Texture4: data/shipsets/TEC/Krosov_gloss.png
+	Texture6: data/shipsets/TEC/Krosov_masks.png
 
-Material: CobaltTEC
+Material: TECMarza
 	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/CobaltTEC.png
-	Texture3: data/shipsets/TEC/CobaltTEC.png
+	Texture: data/shipsets/TEC/Marza.png
+	Texture2: data/shipsets/TEC/Marza_normal.png
+	Texture3: data/shipsets/TEC/Marza_specular.png
+	Texture4: data/shipsets/TEC/Marza_gloss.png
+	Texture6: data/shipsets/TEC/Marza_masks.png
 
-Material: Argonev
+Material: TECNeruda
 	Inherit: TECTemplate
-	Texture: data/shipsets/TEC/Argonev.png
-	Texture3: data/shipsets/TEC/Argonev.png
+	Texture: data/shipsets/TEC/Neruda.png
+	Texture2: data/shipsets/TEC/Neruda_normal.png
+	Texture3: data/shipsets/TEC/Neruda_specular.png
+	Texture4: data/shipsets/TEC/Neruda_gloss.png
+	Texture6: data/shipsets/TEC/Neruda_masks.png
+
+Material: TECOgrov
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Ogrov.png
+	Texture2: data/shipsets/TEC/Ogrov_normal.png
+	Texture3: data/shipsets/TEC/Ogrov_specular.png
+	Texture4: data/shipsets/TEC/Ogrov_gloss.png
+	Texture6: data/shipsets/TEC/Ogrov_masks.png
+
+Material: TECPercheron
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Percheron.png
+	Texture2: data/shipsets/TEC/Percheron_normal.png
+	Texture3: data/shipsets/TEC/Percheron_specular.png
+	Texture4: data/shipsets/TEC/Percheron_gloss.png
+	Texture6: data/shipsets/TEC/Percheron_masks.png
+
+Material: TECProtev
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Protev.png
+	Texture2: data/shipsets/TEC/Protev_normal.png
+	Texture3: data/shipsets/TEC/Protev_specular.png
+	Texture4: data/shipsets/TEC/Protev_gloss.png
+	Texture6: data/shipsets/TEC/Protev_masks.png
+
+Material: TECRagnarov
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Ragnarov.png
+	Texture2: data/shipsets/TEC/Ragnarov_normal.png
+	Texture3: data/shipsets/TEC/Ragnarov_specular.png
+	Texture4: data/shipsets/TEC/Ragnarov_gloss.png
+	Texture6: data/shipsets/TEC/Ragnarov_masks.png
+
+Material: TECRaloz
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Raloz.png
+	Texture2: data/shipsets/TEC/Raloz_normal.png
+	Texture3: data/shipsets/TEC/Raloz_specular.png
+	Texture4: data/shipsets/TEC/Raloz_gloss.png
+	Texture6: data/shipsets/TEC/Raloz_masks.png
+
+Material: TECRefinery
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Refinery.png
+	Texture2: data/shipsets/TEC/Refinery_normal.png
+	Texture3: data/shipsets/TEC/Refinery_specular.png
+	Texture4: data/shipsets/TEC/Refinery_gloss.png
+	Texture6: data/shipsets/TEC/Refinery_masks.png
+
+Material: TECShriken
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Shriken.png
+	Texture2: data/shipsets/TEC/Shriken_normal.png
+	Texture3: data/shipsets/TEC/Shriken_specular.png
+	Texture4: data/shipsets/TEC/Shriken_gloss.png
+	Texture6: data/shipsets/TEC/Shriken_masks.png
+
+Material: TECSova
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Sova.png
+	Texture2: data/shipsets/TEC/Sova_normal.png
+	Texture3: data/shipsets/TEC/Sova_specular.png
+	Texture4: data/shipsets/TEC/Sova_gloss.png
+	Texture6: data/shipsets/TEC/Sova_masks.png
+
+Material: TECStilat
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/Stilat.png
+	Texture2: data/shipsets/TEC/Stilat_normal.png
+	Texture3: data/shipsets/TEC/Stilat_specular.png
+	Texture4: data/shipsets/TEC/Stilat_gloss.png
+	Texture6: data/shipsets/TEC/Stilat_masks.png
+
+Material: TECTradePort
+	Inherit: TECTemplate
+	Texture: data/shipsets/TEC/TradePort.png
+	Texture2: data/shipsets/TEC/TradePort_normal.png
+	Texture3: data/shipsets/TEC/TradePort_specular.png
+	Texture4: data/shipsets/TEC/TradePort_gloss.png
+	Texture6: data/shipsets/TEC/TradePort_masks.png

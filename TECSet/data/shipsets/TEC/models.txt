@@ -1,43 +1,99 @@
-Model: Ragnarov
-	Tangents: on
-	Mesh: data/shipsets/TEC/Ragnarov.obj
-
-Model: Marza
-	Tangents: on
-	Mesh: data/shipsets/TEC/Marza.obj
-
-Model: Kol
-	Tangents: on
-	Mesh: data/shipsets/TEC/Kol.obj
-
-Model: Sova
-	Tangents: on
-	Mesh: data/shipsets/TEC/Sova.obj
-
-Model: Akkan
+Model: TECAkkan
 	Tangents: on
 	Mesh: data/shipsets/TEC/Akkan.obj
 
-Model: Dunov
+Model: TECAnkylon
+	Tangents: on
+	Mesh: data/shipsets/TEC/Ankylon.obj
+
+Model: TECArgonev
+	Tangents: on
+	Mesh: data/shipsets/TEC/Argonev.obj
+
+Model: TECCielo
+	Tangents: on
+	Mesh: data/shipsets/TEC/Cielo.obj
+
+Model: TECCobalt
+	Tangents: on
+	Mesh: data/shipsets/TEC/Cobalt.obj
+
+Model: TECCorsev
+	Tangents: on
+	Mesh: data/shipsets/TEC/Corsev.obj
+
+Model: TECCorvette
+	Tangents: on
+	Mesh: data/shipsets/TEC/Corvette.obj
+
+Model: TECDunov
 	Tangents: on
 	Mesh: data/shipsets/TEC/Dunov.obj
 
-Model: Garda
+Model: TECFreighter
+	Tangents: on
+	Mesh: data/shipsets/TEC/Freighter.obj
+
+Model: TECGarda
 	Tangents: on
 	Mesh: data/shipsets/TEC/Garda.obj
 
-Model: TECFreighter
+Model: TECHoshiko
 	Tangents: on
-	Mesh: data/shipsets/TEC/TECFreighter.obj
+	Mesh: data/shipsets/TEC/Hoshiko.obj
 
-Model: Krosov
+Model: TECJavelis
+	Tangents: on
+	Mesh: data/shipsets/TEC/Javelis.obj
+
+Model: TECKodiak
+	Tangents: on
+	Mesh: data/shipsets/TEC/Kodiak.obj
+
+Model: TECKol
+	Tangents: on
+	Mesh: data/shipsets/TEC/Kol.obj
+
+Model: TECKrosov
 	Tangents: on
 	Mesh: data/shipsets/TEC/Krosov.obj
 
-Model: CobaltTEC
+Model: TECMarza
 	Tangents: on
-	Mesh: data/shipsets/TEC/CobaltTEC.obj
+	Mesh: data/shipsets/TEC/Marza.obj
 
-Model: Argonev
+Model: TECNeruda
 	Tangents: on
-	Mesh: data/shipsets/TEC/Argonev.obj
+	Mesh: data/shipsets/TEC/Neruda.obj
+
+Model: TECOgrov
+	Tangents: on
+	Mesh: data/shipsets/TEC/Ogrov.obj
+
+Model: TECPercheron
+	Tangents: on
+	Mesh: data/shipsets/TEC/Percheron.obj
+
+Model: TECProtev
+	Tangents: on
+	Mesh: data/shipsets/TEC/Protev.obj
+
+Model: TECRagnarov
+	Tangents: on
+	Mesh: data/shipsets/TEC/Ragnarov.obj
+
+Model: TECRaloz
+	Tangents: on
+	Mesh: data/shipsets/TEC/Raloz.obj
+
+Model: TECRefinery
+	Tangents: on
+	Mesh: data/shipsets/TEC/Refinery.obj
+
+Model: TECSova
+	Tangents: on
+	Mesh: data/shipsets/TEC/Sova.obj
+
+Model: TECTradePort
+	Tangents: on
+	Mesh: data/shipsets/TEC/TradePort.obj

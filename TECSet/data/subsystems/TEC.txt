@@ -1,0 +1,224 @@
+Subsystem: TECAkkan
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -25
+	FlagshipHexes := -60
+	StationHexes := 0
+
+Subsystem: TECAnkylon
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECArgonev
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 40
+
+Subsystem: TECCielo
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECCobalt
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -10
+	FlagshipHexes := -5
+	StationHexes := 0
+
+Subsystem: TECCorsev
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECCorvette
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECDunov
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -20
+	FlagshipHexes := -28
+	StationHexes := 0
+
+Subsystem: TECFreighter
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 8
+	StationHexes := 0
+
+Subsystem: TECGarda
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 5
+	FlagshipHexes := 15
+	StationHexes := 0
+
+Subsystem: TECHoshiko
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECJavelis
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECKodiak
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECKol
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -15
+	FlagshipHexes := -45
+	StationHexes := 0
+
+Subsystem: TECKrosov
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 12
+	FlagshipHexes := 28
+	StationHexes := 0
+
+Subsystem: TECMarza
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 40
+	FlagshipHexes := 65
+	StationHexes := 0
+
+Subsystem: TECNeruda
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECOgrov
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECPercheron
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECProtev
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECRagnarov
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -5
+	FlagshipHexes := -20
+	StationHexes := 0
+
+Subsystem: TECRaloz
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECRefinery
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
+
+Subsystem: TECSova
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := -15
+	FlagshipHexes := -45
+	StationHexes := 0
+
+Subsystem: TECTradePort
+	Tags: DefaultUnlock, NoCore, HullSystem
+	EvaluationOrder: -2500
+	Hull: Flagship,Support,Station,Satellite
+
+	SupportHexes := 0
+	FlagshipHexes := 0
+	StationHexes := 0
